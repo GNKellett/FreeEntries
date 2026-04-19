@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Free Entries Share Viewer</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #17191c;
+      --surface: #1f2226;
+      --surface2: #262a2f;
+      --border: #3b4148;
+      --muted: #a6aeb8;
+      --text: #eef1f5;
+      --accent: #4a8fd4;
+      --accent-soft: rgba(74, 143, 212, 0.18);
+      --danger: #d05a5a;
+      --success: #5aa67b;
+      --shadow: 0 24px 80px rgba(0,0,0,.18);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: radial-gradient(circle at top left, rgba(74, 143, 212, 0.15), transparent 28%),
+                  radial-gradient(circle at bottom right, rgba(255,255,255,0.08), transparent 26%),
+                  var(--bg);
+      color: var(--text);
+    }
+
+    .app-shell {
+      width: min(1200px, 100%);
+      margin: 0 auto;
+      padding: 20px 16px 30px;
+    }
+
+    header {
+      margin-bottom: 18px;
+    }
+
+    .hero {
+      display: grid;
+      gap: 12px;
+      align-items: center;
+      grid-template-columns: 1fr auto;
+      margin-bottom: 20px;
+    }
+
+    .hero-title {
+      margin: 0;
+      font-size: clamp(1.65rem, 2.8vw, 2.4rem);
+      line-height: 1.05;
+    }
+
+    .hero-subtitle {
+      margin: 8px 0 0;
+      color: var(--muted);
+      font-size: 0.98rem;
+      max-width: 640px;
+    }
+
+    .panel {
+      background: rgba(31, 34, 38, 0.95);
+      border: 1px solid rgba(255,255,255,.06);
+      border-radius: 20px;
+      box-shadow: var(--shadow);
+      padding: 18px;
+    }
+
+    .top-row,
+    .button-row {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .summary {
+      font-weight: 700;
+      font-size: 1rem;
+      min-width: 220px;
+    }
+
+    .checkbox-label {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--text);
+      font-size: 0.98rem;
+    }
+
+    .checkbox-label input {
+      width: 18px;
+      height: 18px;
+      accent-color: var(--accent);
+    }
+
+    .button-row {
+      justify-content: flex-start;
+      margin-top: 8px;
+    }
+
+      @media (max-width: 760px) {
+        .hero-subtitle,
+        #summaryText,
+        #showEnteredLabel,
+        #sortControls,
+        #sortDirectionBtn,
+        #unmarkBtn,
+        #cleanBtn,
+        #downloadBtn,
+        #noticeArea {
+          display: none !important;
+        }
+
+        .button-row {
+          gap: 12px;
+          flex-wrap: wrap;
+        }
+
+        .mobile-card {
+          min-width: auto;
+        }
+      }
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text);
+      border-radius: 10px;
+      padding: 10px 14px;
+      font-size: 0.96rem;
+      cursor: pointer;
+      transition: background 0.16s ease, border-color 0.16s ease;
+    }
+
+    button:hover,
+    select:hover {
+      border-color: var(--accent);
+      background: rgba(74, 143, 212, 0.12);
+    }
+
+    button:disabled {
+      opacity: 0.45;
+      cursor: not-allowed;
+    }
+
+    button.primary {
+      background: var(--accent);
+      border-color: transparent;
+      color: #fff;
+    }
+
+    .notice {
+      margin-top: 18px;
+      padding: 12px 14px;
+      color: var(--text);
+      border-radius: 14px;
+      border: 1px solid rgba(255,255,255,.08);
+      background: rgba(255,255,255,0.02);
+    }
+
+    .notice strong {
+      color: #fff;
+    }
+
+    .table-wrapper {
+      margin-top: 18px;
+      overflow-x: auto;
+      border: 1px solid rgba(255,255,255,.07);
+      border-radius: 16px;
+      background: rgba(22, 24, 27, 0.93);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 760px;
+    }
+
+    th, td {
+      padding: 14px 12px;
+      text-align: left;
+      border-bottom: 1px solid rgba(255,255,255,.05);
+      vertical-align: middle;
+      font-size: 0.95rem;
+    }
+
+    th {
+      position: sticky;
+      top: 0;
+      background: rgba(31,34,38,.98);
+      color: #f4f6f9;
+      cursor: pointer;
+      user-select: none;
+      font-weight: 700;
+    }
+
+    th.sort-asc::after,
+    th.sort-desc::after {
+      content: "";
+      display: inline-block;
+      margin-left: 10px;
+      border: 5px solid transparent;
+    }
+
+    th.sort-asc::after {
+      border-bottom-color: var(--accent);
+    }
+
+    th.sort-desc::after {
+      border-top-color: var(--accent);
+    }
+
+    tr:hover {
+      background: rgba(74, 143, 212, 0.06);
+    }
+
+    tr.selected {
+      background: rgba(74, 143, 212, 0.18);
+    }
+
+    td a {
+      color: #fff;
+      text-decoration: underline;
+    }
+
+    td .checkbox-cell {
+      display: flex;
+      justify-content: center;
+    }
+
+    td .checkbox-cell input {
+      width: 18px;
+      height: 18px;
+      accent-color: var(--accent);
+      cursor: pointer;
+    }
+
+    .mobile-list {
+      display: none;
+      gap: 14px;
+      margin-top: 16px;
+    }
+
+    .mobile-card {
+      border: 1px solid rgba(255,255,255,.08);
+      padding: 16px;
+      border-radius: 18px;
+      background: rgba(30,33,37,0.96);
+      box-shadow: inset 0 0 0 1px rgba(255,255,255,0.02);
+      cursor: pointer;
+    }
+
+    .mobile-card.selected {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 1px rgba(74,143,212,0.25);
+    }
+
+    .mobile-row {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 10px;
+      margin-bottom: 10px;
+      align-items: start;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .mobile-row strong {
+      color: var(--text);
+    }
+
+    .mobile-card a {
+      text-decoration: none;
+      color: var(--accent);
+      word-break: break-word;
+    }
+
+    .status-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(255,255,255,.06);
+      font-size: 0.88rem;
+      color: var(--text);
+    }
+
+    .status-pill.entered {
+      background: rgba(90, 166, 123, 0.14);
+      border-color: rgba(90, 166, 123, 0.35);
+      color: var(--success);
+    }
+
+    .status-pill.pending {
+      background: rgba(74, 143, 212, 0.14);
+      border-color: rgba(74, 143, 212, 0.35);
+      color: var(--accent);
+    }
+
+    .small-note {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin-top: 10px;
+      line-height: 1.5;
+    }
+
+    @media (max-width: 920px) {
+      .hero {
+        grid-template-columns: 1fr;
+      }
+
+      .top-row,
+      .button-row {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .button-row {
+        gap: 10px;
+      }
+    }
+
+    @media (max-width: 760px) {
+      .table-wrapper {
+        display: none;
+      }
+
+      .mobile-list {
+        display: grid;
+      }
+
+      .panel {
+        padding: 16px;
+      }
+
+      th, td {
+        padding: 12px 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="app-shell">
+    <header>
+      <div class="hero">
+        <div>
+          <h1 class="hero-title">Free Entries Share Viewer</h1>
+          <p class="hero-subtitle">A responsive, single-page viewer for your GitHub Pages site. Load <code>free_entries.json</code>, mark entries entered, unmark selected rows, and clean old entered entries.</p>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="top-row">
+          <div class="summary" id="summaryText">Ready</div>
+          <label class="checkbox-label" id="showEnteredLabel"><input id="showEntered" type="checkbox" checked /> Show Entered</label>
+          <label class="checkbox-label" id="sortControls">Sort by
+            <select id="sortField" aria-label="Sort by">
+              <option value="Source">Source</option>
+              <option value="Product">Product</option>
+              <option value="Days Left">Days Left</option>
+              <option value="Entered">Entered</option>
+              <option value="Entered On">Entered On</option>
+            </select>
+          </label>
+          <button id="sortDirectionBtn" title="Toggle sort direction">Asc</button>
+        </div>
+
+        <div class="button-row">
+          <button id="reloadBtn" class="primary">Reload</button>
+          <button id="unmarkBtn">Unmark Selected</button>
+          <button id="cleanBtn">Clean Entered &gt; 14 Days</button>
+          <button id="downloadBtn">Download JSON</button>
+        </div>
+
+        <div class="notice" id="noticeArea">Load <code>free_entries.json</code> from the same folder as this page.</div>
+
+        <div class="table-wrapper">
+          <table id="entriesTable">
+            <thead>
+              <tr>
+                <th data-key="Product">Product</th>
+                <th data-key="Source">Source</th>
+                <th data-key="Days Left">Days Left</th>
+                <th data-key="Entered">Entered</th>
+                <th data-key="Entered On">Entered On</th>
+                <th data-key="Select">Select</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+
+        <div class="mobile-list" id="mobileList"></div>
+
+        <p class="small-note">Tip: on desktop you can click a row to select it, then use <strong>Unmark Selected</strong>. On mobile, tap a card to select it.</p>
+      </div>
+    </header>
+  </div>
+
+  <script>
+    const JSON_PATH = './free_entries.json';
+    const CLEANUP_DAYS = 14;
+    const entriesTableBody = document.querySelector('#entriesTable tbody');
+    const mobileList = document.getElementById('mobileList');
+    const summaryText = document.getElementById('summaryText');
+    const noticeArea = document.getElementById('noticeArea');
+    const showEnteredCheckbox = document.getElementById('showEntered');
+    const reloadBtn = document.getElementById('reloadBtn');
+    const unmarkBtn = document.getElementById('unmarkBtn');
+    const cleanBtn = document.getElementById('cleanBtn');
+    const downloadBtn = document.getElementById('downloadBtn');
+    const sortFieldSelect = document.getElementById('sortField');
+    const sortDirectionBtn = document.getElementById('sortDirectionBtn');
+    const tableHeaders = document.querySelectorAll('#entriesTable th[data-key]');
+
+    let entries = [];
+    let selectedKeys = new Set();
+    let sortField = 'Source';
+    let sortAsc = true;
+
+    function normalizeString(value) {
+      return String(value || '').trim();
+    }
+
+    function parseIsoDate(value) {
+      if (!value) return null;
+      const text = String(value).trim();
+      const date = new Date(text);
+      if (!isNaN(date.getTime())) {
+        return date;
+      }
+      const parts = text.match(/^(\d{1,2})[\/\-](\d{1,2})[\/\-](\d{2,4})$/);
+      if (parts) {
+        const [_, d, m, y] = parts;
+        const year = y.length === 2 ? '20' + y : y;
+        return new Date(`${year}-${m.padStart(2, '0')}-${d.padStart(2, '0')}`);
+      }
+      return null;
+    }
+
+    function formatDateDisplay(value) {
+      const date = parseIsoDate(value);
+      if (!date) return '';
+      const dd = String(date.getDate()).padStart(2, '0');
+      const mm = String(date.getMonth() + 1).padStart(2, '0');
+      return `${dd}/${mm}`;
+    }
+
+    function getDaysLeft(entry) {
+      const raw = entry['Days Left'];
+      if (raw !== undefined && raw !== null && raw !== '') {
+        const parsed = Number(raw);
+        if (!Number.isNaN(parsed)) {
+          return parsed;
+        }
+      }
+      const draw = parseIsoDate(entry['Draw Date']);
+      if (!draw) return '';
+      const today = new Date();
+      const delta = Math.ceil((draw - today) / 86400000);
+      return Number.isNaN(delta) ? '' : delta;
+    }
+
+    function formatStatus(entered) {
+      return entered ? 'Entered' : '';
+    }
+
+    function sortEntries(list) {
+      const key = sortField;
+      const order = sortAsc ? 1 : -1;
+      return [...list].sort((a, b) => {
+        let va = a[key];
+        let vb = b[key];
+        if (key === 'Days Left') {
+          va = Number(getDaysLeft(a));
+          vb = Number(getDaysLeft(b));
+        } else if (key === 'Entered') {
+          va = a.entered ? 1 : 0;
+          vb = b.entered ? 1 : 0;
+        } else if (key === 'Entered On') {
+          va = parseIsoDate(a.entered_at) || new Date(0);
+          vb = parseIsoDate(b.entered_at) || new Date(0);
+        }
+        if (va === undefined || va === null) va = '';
+        if (vb === undefined || vb === null) vb = '';
+        if (typeof va === 'string') va = va.toLowerCase();
+        if (typeof vb === 'string') vb = vb.toLowerCase();
+        if (va < vb) return -1 * order;
+        if (va > vb) return 1 * order;
+        return 0;
+      });
+    }
+
+    function getVisibleEntries() {
+      return entries.filter(entry => showEnteredCheckbox.checked || !entry.entered);
+    }
+
+    function updateSummary() {
+      const total = entries.length;
+      const entered = entries.filter(e => e.entered).length;
+      const active = total - entered;
+      summaryText.textContent = `Active: ${active} | Entered: ${entered} | Total: ${total}`;
+    }
+
+    function renderTable() {
+      const visible = sortEntries(getVisibleEntries());
+      entriesTableBody.innerHTML = '';
+      visible.forEach(entry => {
+        const row = document.createElement('tr');
+        const key = normalizeString(entry._free_key || `${entry.Source}|${entry.Product}|${entry.URL}`);
+        if (selectedKeys.has(key)) row.classList.add('selected');
+
+        row.addEventListener('click', event => {
+          if (event.target.closest('input')) return;
+          toggleSelection(key);
+        });
+
+        const productCell = document.createElement('td');
+        if (entry.URL) {
+          const link = document.createElement('a');
+          link.href = entry.URL;
+          link.target = '_blank';
+          link.rel = 'noreferrer noopener';
+          link.textContent = normalizeString(entry.Product);
+          productCell.appendChild(link);
+        } else {
+          productCell.textContent = normalizeString(entry.Product);
+        }
+        row.appendChild(productCell);
+
+        const sourceCell = document.createElement('td');
+        sourceCell.textContent = normalizeString(entry.Source);
+        row.appendChild(sourceCell);
+
+        const daysCell = document.createElement('td');
+        daysCell.textContent = getDaysLeft(entry);
+        row.appendChild(daysCell);
+
+        const enteredCell = document.createElement('td');
+        enteredCell.textContent = formatStatus(entry.entered);
+        row.appendChild(enteredCell);
+
+        const enteredAtCell = document.createElement('td');
+        enteredAtCell.textContent = entry.entered ? formatDateDisplay(entry.entered_at) : '';
+        row.appendChild(enteredAtCell);
+
+        const selectCell = document.createElement('td');
+        selectCell.className = 'checkbox-cell';
+        const checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.checked = entry.entered;
+        checkbox.disabled = entry.entered;
+        checkbox.title = entry.entered ? 'Already marked as entered' : 'Tick when you have entered this competition';
+        checkbox.addEventListener('click', event => {
+          event.stopPropagation();
+          if (!entry.entered) {
+            markEntryAsEntered(entry);
+          }
+        });
+        selectCell.appendChild(checkbox);
+        row.appendChild(selectCell);
+
+        entriesTableBody.appendChild(row);
+      });
+    }
+
+    function renderCards() {
+      const visible = sortEntries(getVisibleEntries());
+      mobileList.innerHTML = '';
+      visible.forEach(entry => {
+        const key = normalizeString(entry._free_key || `${entry.Source}|${entry.Product}|${entry.URL}`);
+        const card = document.createElement('article');
+        card.className = 'mobile-card';
+        if (selectedKeys.has(key)) card.classList.add('selected');
+        card.addEventListener('click', () => toggleSelection(key));
+
+        const title = document.createElement('h2');
+        title.style.margin = '0 0 10px';
+        title.style.fontSize = '1rem';
+        if (entry.URL) {
+          const link = document.createElement('a');
+          link.href = entry.URL;
+          link.target = '_blank';
+          link.rel = 'noreferrer noopener';
+          link.textContent = normalizeString(entry.Product);
+          title.appendChild(link);
+        } else {
+          title.textContent = normalizeString(entry.Product);
+        }
+        card.appendChild(title);
+
+        const row1 = document.createElement('div');
+        row1.className = 'mobile-row';
+        row1.innerHTML = `<strong>Source</strong><span>${normalizeString(entry.Source)}</span>`;
+        card.appendChild(row1);
+
+        const row2 = document.createElement('div');
+        row2.className = 'mobile-row';
+        row2.innerHTML = `<strong>Days</strong><span>${getDaysLeft(entry)}</span>`;
+        card.appendChild(row2);
+
+        const actionRow = document.createElement('div');
+        actionRow.style.display = 'flex';
+        actionRow.style.alignItems = 'center';
+        actionRow.style.gap = '10px';
+        actionRow.style.marginTop = '10px';
+        const label = document.createElement('label');
+        label.className = 'checkbox-label';
+        const checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.checked = entry.entered;
+        checkbox.disabled = entry.entered;
+        checkbox.addEventListener('click', event => {
+          event.stopPropagation();
+          if (!entry.entered) markEntryAsEntered(entry);
+        });
+        label.appendChild(checkbox);
+        label.appendChild(document.createTextNode(entry.entered ? 'Entered' : 'Mark entered'));
+        actionRow.appendChild(label);
+        card.appendChild(actionRow);
+
+        mobileList.appendChild(card);
+      });
+    }
+
+    function render() {
+      const isMobile = window.innerWidth < 760;
+      if (isMobile) {
+        showEnteredCheckbox.checked = false;
+      }
+
+      updateSummary();
+      if (isMobile) {
+        document.querySelector('.table-wrapper').style.display = 'none';
+        mobileList.style.display = 'grid';
+        renderCards();
+      } else {
+        document.querySelector('.table-wrapper').style.display = 'block';
+        mobileList.style.display = 'none';
+        renderTable();
+      }
+      if (!isMobile) {
+        updateNotice('Loaded entries.');
+      }
+    }
+
+    function updateNotice(message, type = 'info') {
+      noticeArea.textContent = message;
+      if (type === 'error') {
+        noticeArea.style.borderColor = 'rgba(208, 90, 90, 0.45)';
+      } else if (type === 'success') {
+        noticeArea.style.borderColor = 'rgba(90, 166, 123, 0.4)';
+      } else {
+        noticeArea.style.borderColor = 'rgba(255,255,255,.08)';
+      }
+    }
+
+    function loadEntries() {
+      updateNotice('Loading free_entries.json...', 'info');
+      fetch(JSON_PATH, { cache: 'no-store' })
+        .then(response => {
+          if (!response.ok) {
+            throw new Error(`Could not load ${JSON_PATH} (${response.status})`);
+          }
+          return response.json();
+        })
+        .then(payload => {
+          let data = [];
+          if (Array.isArray(payload)) {
+            data = payload;
+          } else if (payload && typeof payload === 'object' && Array.isArray(payload.entries)) {
+            data = payload.entries;
+          }
+
+          entries = data
+            .map(entry => ({
+              ...entry,
+              entered: Boolean(entry.entered),
+              entered_at: entry.entered_at || '',
+            }))
+            .filter(entry => typeof entry === 'object' && entry !== null);
+
+          selectedKeys.clear();
+          render();
+        })
+        .catch(error => {
+          entries = [];
+          selectedKeys.clear();
+          entriesTableBody.innerHTML = '';
+          mobileList.innerHTML = '';
+          summaryText.textContent = 'No entries loaded';
+          updateNotice(error.message, 'error');
+        });
+    }
+
+    function markEntryAsEntered(entry) {
+      entry.entered = true;
+      entry.entered_at = new Date().toISOString();
+      showEnteredCheckbox.checked = true;
+      render();
+    }
+
+    function toggleSelection(key) {
+      if (selectedKeys.has(key)) {
+        selectedKeys.delete(key);
+      } else {
+        selectedKeys.add(key);
+      }
+      render();
+    }
+
+    function unmarkSelected() {
+      let changed = 0;
+      entries.forEach(entry => {
+        const key = normalizeString(entry._free_key || `${entry.Source}|${entry.Product}|${entry.URL}`);
+        if (selectedKeys.has(key) && entry.entered) {
+          entry.entered = false;
+          entry.entered_at = '';
+          changed += 1;
+        }
+      });
+      if (changed) {
+        updateNotice(`Unmarked ${changed} entered entry(ies).`, 'success');
+        render();
+      } else {
+        updateNotice('No entered selected rows to unmark.', 'info');
+      }
+    }
+
+    function cleanOldEntered() {
+      const cutoff = new Date();
+      cutoff.setDate(cutoff.getDate() - CLEANUP_DAYS);
+      let removed = 0;
+      entries = entries.filter(entry => {
+        if (!entry.entered) return true;
+        const enteredDate = parseIsoDate(entry.entered_at);
+        if (!enteredDate) return true;
+        if (enteredDate < cutoff) {
+          removed += 1;
+          return false;
+        }
+        return true;
+      });
+      if (removed) {
+        selectedKeys.clear();
+        updateNotice(`Removed ${removed} entered entry(ies) older than ${CLEANUP_DAYS} days.`, 'success');
+      } else {
+        updateNotice('No old entered entries to remove.', 'info');
+      }
+      render();
+    }
+
+    function downloadJSON() {
+      const payload = {
+        updated_at: new Date().toISOString(),
+        entries,
+      };
+      const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'free_entries.json';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+      updateNotice('JSON prepared for download. Save it to replace your existing free_entries.json.', 'success');
+    }
+
+    function updateSortForHeader() {
+      tableHeaders.forEach(th => {
+        th.classList.toggle('sort-asc', th.dataset.key === sortField && sortAsc);
+        th.classList.toggle('sort-desc', th.dataset.key === sortField && !sortAsc);
+      });
+    }
+
+    function init() {
+      reloadBtn.addEventListener('click', loadEntries);
+      unmarkBtn.addEventListener('click', unmarkSelected);
+      cleanBtn.addEventListener('click', cleanOldEntered);
+      downloadBtn.addEventListener('click', downloadJSON);
+      showEnteredCheckbox.addEventListener('change', render);
+      sortFieldSelect.addEventListener('change', event => {
+        sortField = event.target.value;
+        render();
+      });
+      sortDirectionBtn.addEventListener('click', () => {
+        sortAsc = !sortAsc;
+        sortDirectionBtn.textContent = sortAsc ? 'Asc' : 'Desc';
+        render();
+      });
+
+      tableHeaders.forEach(th => {
+        th.addEventListener('click', () => {
+          const key = th.dataset.key;
+          if (!key || key === 'Select') return;
+          if (sortField === key) {
+            sortAsc = !sortAsc;
+            sortDirectionBtn.textContent = sortAsc ? 'Asc' : 'Desc';
+          } else {
+            sortField = key;
+            sortFieldSelect.value = key;
+          }
+          updateSortForHeader();
+          render();
+        });
+      });
+
+      window.addEventListener('resize', render);
+      updateSortForHeader();
+      loadEntries();
+    }
+
+    window.addEventListener('load', init);
+  </script>
+</body>
+</html>
