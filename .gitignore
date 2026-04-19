@@ -1,0 +1,5 @@
+*.bak
+*.tmp
+*.exe
+__pycache__/
+free_entriesold.json
