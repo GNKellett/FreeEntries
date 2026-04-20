@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T15:28:59",
+  "updated_at": "2026-04-20T15:33:33",
   "entries": [
     {
       "Product": "Protected: FREE \u00a350 \u2018Pack\u2019 Giveaway \u2013 Join the Exclusive Group on Facebook",
@@ -2474,6 +2474,21 @@
       "QuestionField": false,
       "send_to_printer": 5,
       "_free_key": "wafflecompetitions|giveaway 491|https://www.wafflecompetitions.co.uk/competition/giveaway-491/",
+      "entered": false,
+      "entered_at": ""
+    },
+    {
+      "Product": "FREE: \u00a3100 M&S (Prize Tripled Over \u00a31 Spend)",
+      "Product Info": "Closes Today 22:00",
+      "Badge Price": "\u00a30.00",
+      "URL": "https://dreamcargiveaways.co.uk/competitions/free-100-ms-prize-tripled-over-1-spend",
+      "Print Count": 5,
+      "Draw Date": "2026-04-20",
+      "Source": "Dream Cars",
+      "Template": "dreamcars.docx",
+      "QuestionField": false,
+      "send_to_printer": 5,
+      "_free_key": "dreamcars|free: \u00a3100 m&s (prize tripled over \u00a31 spend)|https://dreamcargiveaways.co.uk/competitions/free-100-ms-prize-tripled-over-1-spend",
       "entered": false,
       "entered_at": ""
     }
