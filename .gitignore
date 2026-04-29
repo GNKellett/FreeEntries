@@ -3,3 +3,6 @@
 *.exe
 __pycache__/
 free_entriesold.json
+golf_report_latest.json
+golf_report_history.json
+golf_report_preview.json
