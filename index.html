@@ -363,12 +363,17 @@
     }
 
     @media (max-width: 760px) {
-      .table-wrapper {
+      #freeEntriesPage .table-wrapper {
         display: none;
       }
 
-      .mobile-list {
+      #freeEntriesPage .mobile-list {
         display: grid;
+      }
+
+      /* Keep Ending Today usable on mobile: show the table instead of hiding it. */
+      #endingTodayPage .table-wrapper {
+        display: block;
       }
 
       .panel {
