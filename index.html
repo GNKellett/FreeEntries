@@ -453,6 +453,12 @@
           <div class="summary" id="endingSummaryText">Ready</div>
         </div>
 
+        <div class="top-row" style="margin-top: 10px;">
+          <input id="endingSearchInput" type="text" placeholder="Search ending today comps..." aria-label="Search ending today competitions" style="min-width: 260px; flex: 1; max-width: 520px;" />
+          <button id="endingSearchBtn" class="primary" type="button">Search</button>
+          <button id="endingClearBtn" type="button" title="Clear search">X</button>
+        </div>
+
         <div class="notice" id="endingNoticeArea">Load <code>endingtoday.json</code> from the same folder as this page.</div>
 
         <div class="table-wrapper">
@@ -490,6 +496,9 @@
     const endingMobileList = document.getElementById('endingMobileList');
     const endingSummaryText = document.getElementById('endingSummaryText');
     const endingNoticeArea = document.getElementById('endingNoticeArea');
+    const endingSearchInput = document.getElementById('endingSearchInput');
+    const endingSearchBtn = document.getElementById('endingSearchBtn');
+    const endingClearBtn = document.getElementById('endingClearBtn');
     const endingTableHeaders = document.querySelectorAll('#endingTable th[data-key]');
     const showEnteredCheckbox = document.getElementById('showEntered');
     const reloadBtn = document.getElementById('reloadBtn');
@@ -507,6 +516,7 @@
     let sortAsc = true;
     let endingSortField = 'Source';
     let endingSortAsc = true;
+    let endingSearchQuery = '';
     let currentPage = 'free';
 
     function normalizeString(value) {
@@ -766,6 +776,22 @@
       });
     }
 
+    function getFilteredEndingEntries() {
+      const q = String(endingSearchQuery || '').trim().toLowerCase();
+      if (!q) {
+        return endingEntries;
+      }
+      return endingEntries.filter(entry => {
+        const haystack = [
+          entry.Source,
+          entry.Product,
+          entry.Price,
+          entry['Percent Sold'],
+        ].join(' ').toLowerCase();
+        return haystack.includes(q);
+      });
+    }
+
     function updateEndingSortForHeader() {
       endingTableHeaders.forEach(th => {
         th.classList.toggle('sort-asc', th.dataset.key === endingSortField && endingSortAsc);
@@ -774,7 +800,7 @@
     }
 
     function renderEndingTable() {
-      const visible = sortEndingEntries(endingEntries);
+      const visible = sortEndingEntries(getFilteredEndingEntries());
       endingTableBody.innerHTML = '';
       visible.forEach(entry => {
         const row = document.createElement('tr');
@@ -815,12 +841,12 @@
 
         endingTableBody.appendChild(row);
       });
-      endingSummaryText.textContent = `Total ending today: ${endingEntries.length}`;
+      endingSummaryText.textContent = `Showing ${visible.length} of ${endingEntries.length} ending today`;
       updateEndingSortForHeader();
     }
 
     function renderEndingCards() {
-      const visible = sortEndingEntries(endingEntries);
+      const visible = sortEndingEntries(getFilteredEndingEntries());
       endingMobileList.innerHTML = '';
 
       visible.forEach(entry => {
@@ -870,6 +896,8 @@
 
         endingMobileList.appendChild(card);
       });
+
+      endingSummaryText.textContent = `Showing ${visible.length} of ${endingEntries.length} ending today`;
     }
 
     function loadEndingTodayEntries() {
@@ -930,6 +958,25 @@
         }
       } else {
         render();
+      }
+    }
+
+    function applyEndingSearch() {
+      endingSearchQuery = normalizeString(endingSearchInput.value);
+      if (window.innerWidth < 760) {
+        renderEndingCards();
+      } else {
+        renderEndingTable();
+      }
+    }
+
+    function clearEndingSearch() {
+      endingSearchInput.value = '';
+      endingSearchQuery = '';
+      if (window.innerWidth < 760) {
+        renderEndingCards();
+      } else {
+        renderEndingTable();
       }
     }
 
@@ -1066,6 +1113,14 @@
     function init() {
       tabFreeEntries.addEventListener('click', () => setPage('free'));
       tabEndingToday.addEventListener('click', () => setPage('ending'));
+      endingSearchBtn.addEventListener('click', applyEndingSearch);
+      endingClearBtn.addEventListener('click', clearEndingSearch);
+      endingSearchInput.addEventListener('keydown', event => {
+        if (event.key === 'Enter') {
+          event.preventDefault();
+          applyEndingSearch();
+        }
+      });
       reloadBtn.addEventListener('click', loadEntries);
       unmarkBtn.addEventListener('click', unmarkSelected);
       cleanBtn.addEventListener('click', cleanOldEntered);
