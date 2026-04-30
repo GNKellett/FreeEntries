@@ -387,8 +387,8 @@
       <div class="hero">
         <div>
           <div class="page-tabs">
-            <button id="tabFreeEntries" class="tab-link" type="button">Free Entries</button>
             <button id="tabEndingToday" class="tab-link active" type="button">Ending Today</button>
+            <button id="tabFreeEntries" class="tab-link" type="button">Free Entries</button>
           </div>
           <p class="hero-subtitle">Two simple views powered by JSON files in this folder.</p>
         </div>
@@ -769,11 +769,29 @@
         const row = document.createElement('tr');
 
         const sourceCell = document.createElement('td');
-        sourceCell.textContent = normalizeString(entry.Source);
+        if (entry['Source URL']) {
+          const sourceLink = document.createElement('a');
+          sourceLink.href = entry['Source URL'];
+          sourceLink.target = '_blank';
+          sourceLink.rel = 'noreferrer noopener';
+          sourceLink.textContent = normalizeString(entry.Source);
+          sourceCell.appendChild(sourceLink);
+        } else {
+          sourceCell.textContent = normalizeString(entry.Source);
+        }
         row.appendChild(sourceCell);
 
         const productCell = document.createElement('td');
-        productCell.textContent = normalizeString(entry.Product);
+        if (entry.URL) {
+          const productLink = document.createElement('a');
+          productLink.href = entry.URL;
+          productLink.target = '_blank';
+          productLink.rel = 'noreferrer noopener';
+          productLink.textContent = normalizeString(entry.Product);
+          productCell.appendChild(productLink);
+        } else {
+          productCell.textContent = normalizeString(entry.Product);
+        }
         row.appendChild(productCell);
 
         const priceCell = document.createElement('td');
@@ -814,6 +832,8 @@
               Product: normalizeString(entry.Product),
               Price: normalizeString(entry.Price),
               'Percent Sold': normalizeString(entry['Percent Sold']),
+              'Source URL': normalizeString(entry['Source URL']),
+              URL: normalizeString(entry.URL),
             }));
 
           renderEndingTable();
