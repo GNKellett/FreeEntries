@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Free Entries Share Viewer</title>
+  <title>Free Entries</title>
   <style>
     :root {
       color-scheme: dark;
@@ -58,6 +58,38 @@
       line-height: 1.05;
     }
 
+    .page-tabs {
+      display: inline-flex;
+      gap: 18px;
+      align-items: baseline;
+      flex-wrap: wrap;
+    }
+
+    .tab-link {
+      border: 0;
+      background: transparent;
+      color: var(--muted);
+      font: inherit;
+      font-size: clamp(1.45rem, 2.5vw, 2.2rem);
+      line-height: 1.05;
+      font-weight: 700;
+      padding: 0;
+      cursor: pointer;
+      transition: color 0.15s ease;
+    }
+
+    .tab-link.active {
+      color: var(--text);
+    }
+
+    .tab-link:not(.active):hover {
+      color: #d0d7e0;
+    }
+
+    .hidden-page {
+      display: none;
+    }
+
     .hero-subtitle {
       margin: 8px 0 0;
       color: var(--muted);
@@ -106,28 +138,8 @@
       margin-top: 8px;
     }
 
-      @media (max-width: 760px) {
-        .hero-subtitle,
-        #summaryText,
-        #showEnteredLabel,
-        #sortControls,
-        #sortDirectionBtn,
-        #unmarkBtn,
-        #cleanBtn,
-        #downloadBtn,
-        #noticeArea {
-          display: none !important;
-        }
-
-        .button-row {
-          gap: 12px;
-          flex-wrap: wrap;
-        }
-
-        .mobile-card {
-          min-width: auto;
-        }
-      }
+    button,
+    select {
       border: 1px solid var(--border);
       background: var(--surface);
       color: var(--text);
@@ -136,6 +148,29 @@
       font-size: 0.96rem;
       cursor: pointer;
       transition: background 0.16s ease, border-color 0.16s ease;
+    }
+
+    @media (max-width: 760px) {
+      .hero-subtitle,
+      #summaryText,
+      #showEnteredLabel,
+      #sortControls,
+      #sortDirectionBtn,
+      #unmarkBtn,
+      #cleanBtn,
+      #downloadBtn,
+      #noticeArea {
+        display: none !important;
+      }
+
+      .button-row {
+        gap: 12px;
+        flex-wrap: wrap;
+      }
+
+      .mobile-card {
+        min-width: auto;
+      }
     }
 
     button:hover,
@@ -351,12 +386,15 @@
     <header>
       <div class="hero">
         <div>
-          <h1 class="hero-title">Free Entries Share Viewer</h1>
-          <p class="hero-subtitle">A responsive, single-page viewer for your GitHub Pages site. Load <code>free_entries.json</code>, mark entries entered, unmark selected rows, and clean old entered entries.</p>
+          <div class="page-tabs">
+            <button id="tabFreeEntries" class="tab-link" type="button">Free Entries</button>
+            <button id="tabEndingToday" class="tab-link active" type="button">Ending Today</button>
+          </div>
+          <p class="hero-subtitle">Two simple views powered by JSON files in this folder.</p>
         </div>
       </div>
 
-      <div class="panel">
+      <div class="panel hidden-page" id="freeEntriesPage">
         <div class="top-row">
           <div class="summary" id="summaryText">Ready</div>
           <label class="checkbox-label" id="showEnteredLabel"><input id="showEntered" type="checkbox" checked /> Show Entered</label>
@@ -401,16 +439,47 @@
 
         <p class="small-note">Tip: on desktop you can click a row to select it, then use <strong>Unmark Selected</strong>. On mobile, tap a card to select it.</p>
       </div>
+
+      <div class="panel" id="endingTodayPage">
+        <div class="top-row">
+          <div class="summary" id="endingSummaryText">Ready</div>
+        </div>
+
+        <div class="notice" id="endingNoticeArea">Load <code>endingtoday.json</code> from the same folder as this page.</div>
+
+        <div class="table-wrapper">
+          <table id="endingTable">
+            <thead>
+              <tr>
+                <th data-key="Source">Source</th>
+                <th data-key="Product">Product</th>
+                <th data-key="Price">Price</th>
+                <th data-key="Percent Sold">Percent Sold</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
     </header>
   </div>
 
   <script>
     const JSON_PATH = './free_entries.json';
+    const ENDING_TODAY_JSON_PATH = './endingtoday.json';
     const CLEANUP_DAYS = 14;
+    const freeEntriesPage = document.getElementById('freeEntriesPage');
+    const endingTodayPage = document.getElementById('endingTodayPage');
+    const tabFreeEntries = document.getElementById('tabFreeEntries');
+    const tabEndingToday = document.getElementById('tabEndingToday');
     const entriesTableBody = document.querySelector('#entriesTable tbody');
     const mobileList = document.getElementById('mobileList');
     const summaryText = document.getElementById('summaryText');
     const noticeArea = document.getElementById('noticeArea');
+    const endingTableBody = document.querySelector('#endingTable tbody');
+    const endingSummaryText = document.getElementById('endingSummaryText');
+    const endingNoticeArea = document.getElementById('endingNoticeArea');
+    const endingTableHeaders = document.querySelectorAll('#endingTable th[data-key]');
     const showEnteredCheckbox = document.getElementById('showEntered');
     const reloadBtn = document.getElementById('reloadBtn');
     const unmarkBtn = document.getElementById('unmarkBtn');
@@ -421,9 +490,13 @@
     const tableHeaders = document.querySelectorAll('#entriesTable th[data-key]');
 
     let entries = [];
+    let endingEntries = [];
     let selectedKeys = new Set();
     let sortField = 'Source';
     let sortAsc = true;
+    let endingSortField = 'Source';
+    let endingSortAsc = true;
+    let currentPage = 'free';
 
     function normalizeString(value) {
       return String(value || '').trim();
@@ -651,6 +724,123 @@
       }
     }
 
+    function updateEndingNotice(message, type = 'info') {
+      endingNoticeArea.textContent = message;
+      if (type === 'error') {
+        endingNoticeArea.style.borderColor = 'rgba(208, 90, 90, 0.45)';
+      } else if (type === 'success') {
+        endingNoticeArea.style.borderColor = 'rgba(90, 166, 123, 0.4)';
+      } else {
+        endingNoticeArea.style.borderColor = 'rgba(255,255,255,.08)';
+      }
+    }
+
+    function sortEndingEntries(list) {
+      const order = endingSortAsc ? 1 : -1;
+      return [...list].sort((a, b) => {
+        let va = a[endingSortField];
+        let vb = b[endingSortField];
+        if (endingSortField === 'Price' || endingSortField === 'Percent Sold') {
+          const na = Number(String(va || '').replace(/[^\d.\-]/g, ''));
+          const nb = Number(String(vb || '').replace(/[^\d.\-]/g, ''));
+          va = Number.isNaN(na) ? -1 : na;
+          vb = Number.isNaN(nb) ? -1 : nb;
+        } else {
+          va = String(va || '').toLowerCase();
+          vb = String(vb || '').toLowerCase();
+        }
+        if (va < vb) return -1 * order;
+        if (va > vb) return 1 * order;
+        return 0;
+      });
+    }
+
+    function updateEndingSortForHeader() {
+      endingTableHeaders.forEach(th => {
+        th.classList.toggle('sort-asc', th.dataset.key === endingSortField && endingSortAsc);
+        th.classList.toggle('sort-desc', th.dataset.key === endingSortField && !endingSortAsc);
+      });
+    }
+
+    function renderEndingTable() {
+      const visible = sortEndingEntries(endingEntries);
+      endingTableBody.innerHTML = '';
+      visible.forEach(entry => {
+        const row = document.createElement('tr');
+
+        const sourceCell = document.createElement('td');
+        sourceCell.textContent = normalizeString(entry.Source);
+        row.appendChild(sourceCell);
+
+        const productCell = document.createElement('td');
+        productCell.textContent = normalizeString(entry.Product);
+        row.appendChild(productCell);
+
+        const priceCell = document.createElement('td');
+        priceCell.textContent = normalizeString(entry.Price);
+        row.appendChild(priceCell);
+
+        const percentCell = document.createElement('td');
+        percentCell.textContent = normalizeString(entry['Percent Sold']);
+        row.appendChild(percentCell);
+
+        endingTableBody.appendChild(row);
+      });
+      endingSummaryText.textContent = `Total ending today: ${endingEntries.length}`;
+      updateEndingSortForHeader();
+    }
+
+    function loadEndingTodayEntries() {
+      updateEndingNotice('Loading endingtoday.json...', 'info');
+      fetch(ENDING_TODAY_JSON_PATH, { cache: 'no-store' })
+        .then(response => {
+          if (!response.ok) {
+            throw new Error(`Could not load ${ENDING_TODAY_JSON_PATH} (${response.status})`);
+          }
+          return response.json();
+        })
+        .then(payload => {
+          let data = [];
+          if (Array.isArray(payload)) {
+            data = payload;
+          } else if (payload && typeof payload === 'object' && Array.isArray(payload.entries)) {
+            data = payload.entries;
+          }
+
+          endingEntries = data
+            .filter(entry => typeof entry === 'object' && entry !== null)
+            .map(entry => ({
+              Source: normalizeString(entry.Source),
+              Product: normalizeString(entry.Product),
+              Price: normalizeString(entry.Price),
+              'Percent Sold': normalizeString(entry['Percent Sold']),
+            }));
+
+          renderEndingTable();
+          updateEndingNotice('Loaded ending today entries.', 'success');
+        })
+        .catch(error => {
+          endingEntries = [];
+          endingTableBody.innerHTML = '';
+          endingSummaryText.textContent = 'No ending today entries loaded';
+          updateEndingNotice(error.message, 'error');
+        });
+    }
+
+    function setPage(pageName) {
+      currentPage = pageName;
+      const onFree = pageName === 'free';
+      freeEntriesPage.classList.toggle('hidden-page', !onFree);
+      endingTodayPage.classList.toggle('hidden-page', onFree);
+      tabFreeEntries.classList.toggle('active', onFree);
+      tabEndingToday.classList.toggle('active', !onFree);
+      if (!onFree) {
+        renderEndingTable();
+      } else {
+        render();
+      }
+    }
+
     function updateNotice(message, type = 'info') {
       noticeArea.textContent = message;
       if (type === 'error') {
@@ -782,6 +972,8 @@
     }
 
     function init() {
+      tabFreeEntries.addEventListener('click', () => setPage('free'));
+      tabEndingToday.addEventListener('click', () => setPage('ending'));
       reloadBtn.addEventListener('click', loadEntries);
       unmarkBtn.addEventListener('click', unmarkSelected);
       cleanBtn.addEventListener('click', cleanOldEntered);
@@ -813,9 +1005,29 @@
         });
       });
 
-      window.addEventListener('resize', render);
+      endingTableHeaders.forEach(th => {
+        th.addEventListener('click', () => {
+          const key = th.dataset.key;
+          if (!key) return;
+          if (endingSortField === key) {
+            endingSortAsc = !endingSortAsc;
+          } else {
+            endingSortField = key;
+            endingSortAsc = true;
+          }
+          renderEndingTable();
+        });
+      });
+
+      window.addEventListener('resize', () => {
+        if (currentPage === 'free') {
+          render();
+        }
+      });
       updateSortForHeader();
       loadEntries();
+      loadEndingTodayEntries();
+      setPage('ending');
     }
 
     window.addEventListener('load', init);
