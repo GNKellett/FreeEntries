@@ -390,7 +390,6 @@
             <button id="tabEndingToday" class="tab-link active" type="button">Ending Today</button>
             <button id="tabFreeEntries" class="tab-link" type="button">Free Entries</button>
           </div>
-          <p class="hero-subtitle">Two simple views powered by JSON files in this folder.</p>
         </div>
       </div>
 
@@ -832,8 +831,8 @@
               Product: normalizeString(entry.Product),
               Price: normalizeString(entry.Price),
               'Percent Sold': normalizeString(entry['Percent Sold']),
-              'Source URL': normalizeString(entry['Source URL']),
-              URL: normalizeString(entry.URL),
+              'Source URL': normalizeString(entry['Source URL'] || entry.source_url || entry.SourceURL),
+              URL: normalizeString(entry.URL || entry.url || entry.ProductURL),
             }));
 
           renderEndingTable();
