@@ -371,9 +371,13 @@
         display: grid;
       }
 
-      /* Keep Ending Today usable on mobile: show the table instead of hiding it. */
+      /* On mobile, use card view for Ending Today for readability. */
       #endingTodayPage .table-wrapper {
-        display: block;
+        display: none;
+      }
+
+      #endingTodayPage .mobile-list {
+        display: grid;
       }
 
       .panel {
@@ -464,6 +468,8 @@
             <tbody></tbody>
           </table>
         </div>
+
+        <div class="mobile-list" id="endingMobileList"></div>
       </div>
     </header>
   </div>
@@ -481,6 +487,7 @@
     const summaryText = document.getElementById('summaryText');
     const noticeArea = document.getElementById('noticeArea');
     const endingTableBody = document.querySelector('#endingTable tbody');
+    const endingMobileList = document.getElementById('endingMobileList');
     const endingSummaryText = document.getElementById('endingSummaryText');
     const endingNoticeArea = document.getElementById('endingNoticeArea');
     const endingTableHeaders = document.querySelectorAll('#endingTable th[data-key]');
@@ -812,6 +819,59 @@
       updateEndingSortForHeader();
     }
 
+    function renderEndingCards() {
+      const visible = sortEndingEntries(endingEntries);
+      endingMobileList.innerHTML = '';
+
+      visible.forEach(entry => {
+        const card = document.createElement('article');
+        card.className = 'mobile-card';
+
+        const title = document.createElement('h2');
+        title.style.margin = '0 0 10px';
+        title.style.fontSize = '1rem';
+        if (entry.URL) {
+          const link = document.createElement('a');
+          link.href = entry.URL;
+          link.target = '_blank';
+          link.rel = 'noreferrer noopener';
+          link.textContent = normalizeString(entry.Product);
+          title.appendChild(link);
+        } else {
+          title.textContent = normalizeString(entry.Product);
+        }
+        card.appendChild(title);
+
+        const srcRow = document.createElement('div');
+        srcRow.className = 'mobile-row';
+        if (entry['Source URL']) {
+          srcRow.innerHTML = '<strong>Source</strong><span></span>';
+          const span = srcRow.querySelector('span');
+          const sourceLink = document.createElement('a');
+          sourceLink.href = entry['Source URL'];
+          sourceLink.target = '_blank';
+          sourceLink.rel = 'noreferrer noopener';
+          sourceLink.textContent = normalizeString(entry.Source);
+          span.appendChild(sourceLink);
+        } else {
+          srcRow.innerHTML = `<strong>Source</strong><span>${normalizeString(entry.Source)}</span>`;
+        }
+        card.appendChild(srcRow);
+
+        const priceRow = document.createElement('div');
+        priceRow.className = 'mobile-row';
+        priceRow.innerHTML = `<strong>Price</strong><span>${normalizeString(entry.Price)}</span>`;
+        card.appendChild(priceRow);
+
+        const pctRow = document.createElement('div');
+        pctRow.className = 'mobile-row';
+        pctRow.innerHTML = `<strong>Percent Sold</strong><span>${normalizeString(entry['Percent Sold'])}</span>`;
+        card.appendChild(pctRow);
+
+        endingMobileList.appendChild(card);
+      });
+    }
+
     function loadEndingTodayEntries() {
       updateEndingNotice('Loading endingtoday.json...', 'info');
       fetch(ENDING_TODAY_JSON_PATH, { cache: 'no-store' })
@@ -840,7 +900,11 @@
               URL: normalizeString(entry.URL || entry.url || entry.ProductURL),
             }));
 
-          renderEndingTable();
+          if (currentPage === 'ending' && window.innerWidth < 760) {
+            renderEndingCards();
+          } else {
+            renderEndingTable();
+          }
           updateEndingNotice('Loaded ending today entries.', 'success');
         })
         .catch(error => {
@@ -859,7 +923,11 @@
       tabFreeEntries.classList.toggle('active', onFree);
       tabEndingToday.classList.toggle('active', !onFree);
       if (!onFree) {
-        renderEndingTable();
+        if (window.innerWidth < 760) {
+          renderEndingCards();
+        } else {
+          renderEndingTable();
+        }
       } else {
         render();
       }
@@ -1046,6 +1114,12 @@
       window.addEventListener('resize', () => {
         if (currentPage === 'free') {
           render();
+        } else {
+          if (window.innerWidth < 760) {
+            renderEndingCards();
+          } else {
+            renderEndingTable();
+          }
         }
       });
       updateSortForHeader();
