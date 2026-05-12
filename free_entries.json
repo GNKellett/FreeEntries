@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T13:27:25",
+  "updated_at": "2026-05-12T16:01:10",
   "entries": [
     {
       "Product": "FREE ENTRY: WIN A TRIP TO THE BELFRY FOR FREE! PRIZE BOOST AVAILABLE (CHECK DESCRIPTION)",
@@ -475,7 +475,7 @@
       "Tickets Sold": 0,
       "Max Tickets": "",
       "Percent Sold": "",
-      "End Time": "22:18",
+      "End Time": "00:53",
       "Source": "Powertoolmateprizes",
       "Template": "powertoolmateprizes.docx",
       "QuestionField": true,
@@ -695,7 +695,7 @@
       "Tickets Sold": "",
       "Max Tickets": "",
       "Percent Sold": 33.0,
-      "End Time": "13:26",
+      "End Time": "16:00",
       "Source": "Jet Comps",
       "Template": "jetcomps.docx",
       "QuestionField": false,
@@ -716,7 +716,7 @@
       "Tickets Sold": "",
       "Max Tickets": "",
       "Percent Sold": "",
-      "End Time": "13:26",
+      "End Time": "16:00",
       "Source": "Jet Comps",
       "Template": "jetcomps.docx",
       "QuestionField": false,
