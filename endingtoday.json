@@ -1,45 +1,77 @@
 {
-  "updated_at": "2026-05-13T12:47:27",
+  "updated_at": "2026-05-13T13:36:21",
   "entries": [
     {
       "Source": "7daysperformance",
-      "Product": "THE CLASSIC",
-      "Price": "\u00a30.20",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://7daysperformance.co.uk/product/coin-drop-18"
-    },
-    {
-      "Source": "7daysperformance",
-      "Product": "The FREE Daily Instant Win! - 1G Gold Bar End Prize!",
+      "Product": "The FREE Daily Instant Win! - \u00a3100 Halfords Voucher End Prize!!",
       "Price": "\u00a30.00",
-      "Percent Sold": "13%",
-      "Source URL": "",
-      "URL": "https://7daysperformance.co.uk/product/win-tuesday-free-120526"
-    },
-    {
-      "Source": "7daysperformance",
-      "Product": "The World Cup Warm-Up Prize Every Time!",
-      "Price": "\u00a31.99",
-      "Percent Sold": "11%",
-      "Source URL": "",
-      "URL": "https://7daysperformance.co.uk/product/the-world-cup-warm-up-prize-every-time"
-    },
-    {
-      "Source": "7daysperformance",
-      "Product": "The \u00a31 Million Car & Kettle Showdown #59!",
-      "Price": "\u00a31.79",
-      "Percent Sold": "9%",
-      "Source URL": "",
-      "URL": "https://7daysperformance.co.uk/product/instant-win-59"
-    },
-    {
-      "Source": "7daysperformance",
-      "Product": "Win This Range Rover Sport Dynamic HSE + \u00a32,000 Cash!",
-      "Price": "\u00a30.07",
       "Percent Sold": "28%",
       "Source URL": "",
-      "URL": "https://7daysperformance.co.uk/product/win-range-sport-120526"
+      "URL": "https://7daysperformance.co.uk/product/win-wednesday-free-130526"
+    },
+    {
+      "Source": "7daysperformance",
+      "Product": "Win A 55\u201d Samsung 4K Smart TV!",
+      "Price": "\u00a30.20",
+      "Percent Sold": "71%",
+      "Source URL": "",
+      "URL": "https://7daysperformance.co.uk/product/win-a-55-samsung-4k-smart-tv-2"
+    },
+    {
+      "Source": "7daysperformance",
+      "Product": "Win A Lay-Z Spa Ibiza Airjet Hot Tub!",
+      "Price": "\u00a30.25",
+      "Percent Sold": "27%",
+      "Source URL": "",
+      "URL": "https://7daysperformance.co.uk/product/win-a-lay-z-spa-ibiza-airjet-hot-tub-7"
+    },
+    {
+      "Source": "7daysperformance",
+      "Product": "Win A Rosen 9 Seater Rattan Corner Sofa with Fire Pit!",
+      "Price": "\u00a30.69",
+      "Percent Sold": "40%",
+      "Source URL": "",
+      "URL": "https://7daysperformance.co.uk/product/win-a-rosen-9-seater-rattan-corner-sofa-with-fire-5"
+    },
+    {
+      "Source": "7daysperformance",
+      "Product": "Win The All New iPhone 17 Pro or Pro Max #63!",
+      "Price": "\u00a30.39",
+      "Percent Sold": "38%",
+      "Source URL": "",
+      "URL": "https://7daysperformance.co.uk/product/win-the-all-new-iphone-17-pro-or-pro-max-63"
+    },
+    {
+      "Source": "7daysperformance",
+      "Product": "Win This Mk8.5 Volkswagen Golf R Black Edition + \u00a32,000 Cash!",
+      "Price": "\u00a30.09",
+      "Percent Sold": "42%",
+      "Source URL": "",
+      "URL": "https://7daysperformance.co.uk/product/win-vw-golf-130526"
+    },
+    {
+      "Source": "7daysperformance",
+      "Product": "Win This PS5 Disc Edition #83!",
+      "Price": "\u00a30.15",
+      "Percent Sold": "44%",
+      "Source URL": "",
+      "URL": "https://7daysperformance.co.uk/product/win-this-ps5-disc-edition-83"
+    },
+    {
+      "Source": "7daysperformance",
+      "Product": "Win \u00a31,000 Tax Free Cash #53!",
+      "Price": "\u00a31.89",
+      "Percent Sold": "30%",
+      "Source URL": "",
+      "URL": "https://7daysperformance.co.uk/product/win-1-000-tax-free-cash-53"
+    },
+    {
+      "Source": "7daysperformance",
+      "Product": "Win \u00a31,500 Tax Free Cash #53!",
+      "Price": "\u00a30.59",
+      "Percent Sold": "29%",
+      "Source URL": "",
+      "URL": "https://7daysperformance.co.uk/product/win-1-500-tax-free-cash-53"
     },
     {
       "Source": "Apex66",
@@ -75,11 +107,27 @@
     },
     {
       "Source": "Apex66",
+      "Product": "EVERY TICKETS A WINNER",
+      "Price": "\u00a32.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/credit-ticket-bundles/every-tickets-a-winner-16/"
+    },
+    {
+      "Source": "Apex66",
       "Product": "Evre 4 Seater Black Madrid Rattan Set with Table & Cover",
       "Price": "\u00a31.00",
       "Percent Sold": "",
       "Source URL": "",
       "URL": "https://www.apex66.co.uk/competition/home-tech-lifestyle/evre-4-seater-black-madrid-rattan-set-with-table-cover-2/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "Free Prize: LED Weather Station",
+      "Price": "\u00a30.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/free-competitions/free-prize-led-weather-station-5/"
     },
     {
       "Source": "Apex66",
@@ -115,19 +163,19 @@
     },
     {
       "Source": "Apex66",
+      "Product": "Win Max Tickets on The BMW R1200 GS Adventure",
+      "Price": "\u00a31.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/credit-ticket-bundles/win-max-tickets-on-the-bmw-r1200-gs-adventure-2/"
+    },
+    {
+      "Source": "Apex66",
       "Product": "Win \u00a3500 Cashback",
       "Price": "29p",
       "Percent Sold": "",
       "Source URL": "",
       "URL": "https://www.apex66.co.uk/competition/credit-ticket-bundles/win-500-cashback-9/"
-    },
-    {
-      "Source": "Big Beastie",
-      "Product": "Quick\u2026 Stay at the BB Caravan \u2013 Riverwood Lodge \u2013 Lossiemouth",
-      "Price": "\u00a3 10.00",
-      "Percent Sold": "50%",
-      "Source URL": "",
-      "URL": "https://bigbeastiecompetitions.co.uk/competition/%f0%9f%95%b7%ef%b8%8f-quick-stay-at-the-bb-caravan-riverwood-lodge-lossiemouth/"
     }
   ]
 }
