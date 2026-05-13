@@ -1,35 +1,11 @@
 {
-  "updated_at": "2026-05-13T13:36:21",
+  "updated_at": "2026-05-13T13:52:44",
   "entries": [
-    {
-      "Source": "7daysperformance",
-      "Product": "The FREE Daily Instant Win! - \u00a3100 Halfords Voucher End Prize!!",
-      "Price": "\u00a30.00",
-      "Percent Sold": "28%",
-      "Source URL": "",
-      "URL": "https://7daysperformance.co.uk/product/win-wednesday-free-130526"
-    },
-    {
-      "Source": "7daysperformance",
-      "Product": "Win A 55\u201d Samsung 4K Smart TV!",
-      "Price": "\u00a30.20",
-      "Percent Sold": "71%",
-      "Source URL": "",
-      "URL": "https://7daysperformance.co.uk/product/win-a-55-samsung-4k-smart-tv-2"
-    },
-    {
-      "Source": "7daysperformance",
-      "Product": "Win A Lay-Z Spa Ibiza Airjet Hot Tub!",
-      "Price": "\u00a30.25",
-      "Percent Sold": "27%",
-      "Source URL": "",
-      "URL": "https://7daysperformance.co.uk/product/win-a-lay-z-spa-ibiza-airjet-hot-tub-7"
-    },
     {
       "Source": "7daysperformance",
       "Product": "Win A Rosen 9 Seater Rattan Corner Sofa with Fire Pit!",
       "Price": "\u00a30.69",
-      "Percent Sold": "40%",
+      "Percent Sold": "41%",
       "Source URL": "",
       "URL": "https://7daysperformance.co.uk/product/win-a-rosen-9-seater-rattan-corner-sofa-with-fire-5"
     },
@@ -37,7 +13,7 @@
       "Source": "7daysperformance",
       "Product": "Win The All New iPhone 17 Pro or Pro Max #63!",
       "Price": "\u00a30.39",
-      "Percent Sold": "38%",
+      "Percent Sold": "43%",
       "Source URL": "",
       "URL": "https://7daysperformance.co.uk/product/win-the-all-new-iphone-17-pro-or-pro-max-63"
     },
@@ -45,23 +21,15 @@
       "Source": "7daysperformance",
       "Product": "Win This Mk8.5 Volkswagen Golf R Black Edition + \u00a32,000 Cash!",
       "Price": "\u00a30.09",
-      "Percent Sold": "42%",
+      "Percent Sold": "44%",
       "Source URL": "",
       "URL": "https://7daysperformance.co.uk/product/win-vw-golf-130526"
     },
     {
       "Source": "7daysperformance",
-      "Product": "Win This PS5 Disc Edition #83!",
-      "Price": "\u00a30.15",
-      "Percent Sold": "44%",
-      "Source URL": "",
-      "URL": "https://7daysperformance.co.uk/product/win-this-ps5-disc-edition-83"
-    },
-    {
-      "Source": "7daysperformance",
       "Product": "Win \u00a31,000 Tax Free Cash #53!",
       "Price": "\u00a31.89",
-      "Percent Sold": "30%",
+      "Percent Sold": "32%",
       "Source URL": "",
       "URL": "https://7daysperformance.co.uk/product/win-1-000-tax-free-cash-53"
     },
@@ -69,113 +37,9 @@
       "Source": "7daysperformance",
       "Product": "Win \u00a31,500 Tax Free Cash #53!",
       "Price": "\u00a30.59",
-      "Percent Sold": "29%",
+      "Percent Sold": "30%",
       "Source URL": "",
       "URL": "https://7daysperformance.co.uk/product/win-1-500-tax-free-cash-53"
-    },
-    {
-      "Source": "Apex66",
-      "Product": "BMW R1200 GS Adventure",
-      "Price": "\u00a32.95",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.apex66.co.uk/competition/motorcycles/bmw-r1200-gs-adventure/"
-    },
-    {
-      "Source": "Apex66",
-      "Product": "Bridgestone Tyres (Pair) \u2013 Your Choice of Tyre",
-      "Price": "\u00a34.00",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.apex66.co.uk/competition/motorcycle-clothing-accessories/bridgestone-tyres-pair-your-choice-of-tyre-8/"
-    },
-    {
-      "Source": "Apex66",
-      "Product": "Cardo Packtalk Edge Mesh Intercom \u2013 Duo",
-      "Price": "\u00a33.00",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.apex66.co.uk/competition/motorcycle-clothing-accessories/cardo-packtalk-edge-mesh-intercom-duo-37/"
-    },
-    {
-      "Source": "Apex66",
-      "Product": "Dainese Overyond XT Gore-Tex Boots",
-      "Price": "\u00a32.00",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.apex66.co.uk/competition/motorcycle-clothing-accessories/dainese-overyond-xt-gore-tex-boots/"
-    },
-    {
-      "Source": "Apex66",
-      "Product": "EVERY TICKETS A WINNER",
-      "Price": "\u00a32.00",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.apex66.co.uk/competition/credit-ticket-bundles/every-tickets-a-winner-16/"
-    },
-    {
-      "Source": "Apex66",
-      "Product": "Evre 4 Seater Black Madrid Rattan Set with Table & Cover",
-      "Price": "\u00a31.00",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.apex66.co.uk/competition/home-tech-lifestyle/evre-4-seater-black-madrid-rattan-set-with-table-cover-2/"
-    },
-    {
-      "Source": "Apex66",
-      "Product": "Free Prize: LED Weather Station",
-      "Price": "\u00a30.00",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.apex66.co.uk/competition/free-competitions/free-prize-led-weather-station-5/"
-    },
-    {
-      "Source": "Apex66",
-      "Product": "LG AI Direct Drive 9 kg Washer Dryer",
-      "Price": "\u00a34.00",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.apex66.co.uk/competition/home-tech-lifestyle/lg-ai-direct-drive-9-kg-washer-dryer-2/"
-    },
-    {
-      "Source": "Apex66",
-      "Product": "Makita 18v Brushless Kit",
-      "Price": "\u00a31.50",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.apex66.co.uk/competition/garage-equipment-tools/makita-18v-brushless-kit-2/"
-    },
-    {
-      "Source": "Apex66",
-      "Product": "Mega Motorcycle Instant Win",
-      "Price": "65p",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.apex66.co.uk/competition/instant-wins/mega-motorcycle-instant-win-7/"
-    },
-    {
-      "Source": "Apex66",
-      "Product": "Win Max Tickets on The Austin Morris Mini Clubman",
-      "Price": "\u00a31.00",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.apex66.co.uk/competition/credit-ticket-bundles/win-max-tickets-on-the-austin-morris-mini-clubman-4/"
-    },
-    {
-      "Source": "Apex66",
-      "Product": "Win Max Tickets on The BMW R1200 GS Adventure",
-      "Price": "\u00a31.00",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.apex66.co.uk/competition/credit-ticket-bundles/win-max-tickets-on-the-bmw-r1200-gs-adventure-2/"
-    },
-    {
-      "Source": "Apex66",
-      "Product": "Win \u00a3500 Cashback",
-      "Price": "29p",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.apex66.co.uk/competition/credit-ticket-bundles/win-500-cashback-9/"
     }
   ]
 }
