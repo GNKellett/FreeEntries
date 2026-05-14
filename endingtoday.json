@@ -1,4 +1,533 @@
 {
-  "updated_at": "2026-05-14T11:40:50",
-  "entries": []
+  "updated_at": "2026-05-14T11:41:10",
+  "entries": [
+    {
+      "Source": "Apex66",
+      "Product": "1979 Austin Morris Mini Clubman",
+      "Price": "\u00a33.95",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/cars/austin-morris-mini-clubman/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "Alpinestars Zaca Air Venom Waterproof Textile Jacket \u2013 Colour Ch...",
+      "Price": "\u00a31.50",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/motorcycle-clothing-accessories/alpinestars-zaca-air-venom-waterproof-textile-jacket-colour-choice-4/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "Arai Tour x5 \u2013 Colour Choice",
+      "Price": "\u00a33.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/motorcycle-clothing-accessories/arai-tour-x5-colour-choice-5/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "Dainese Daemon X Safety Hoodie \u2013 Colour Choice",
+      "Price": "\u00a31.25",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/motorcycle-clothing-accessories/dainese-daemon-x-safety-hoodie-colour-choice-2/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "Draper Rotary Multi Tool Kit",
+      "Price": "\u00a31.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/garage-equipment-tools/draper-rotary-multi-tool-kit-5/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "DXR Hinckley Waterproof Leather Boots \u2013 Choice Of Colours",
+      "Price": "69p",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/motorcycle-clothing-accessories/dxr-hinckley-waterproof-leather-boots-choice-of-colours-15/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "GREPRO 5 in 1 Jump Starter Power Pack & Compressor",
+      "Price": "\u00a31.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/garage-equipment-tools/grepro-5-in-1-jump-starter-power-pack-compressor-7/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "Hotel Chocolat Velvetiser System",
+      "Price": "\u00a31.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/home-tech-lifestyle/hotel-chocolat-velvetiser-system/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "Insta360 Go 3S Motorcycle In Helmet POV Bundle",
+      "Price": "\u00a32.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/motorcycle-clothing-accessories/insta360-go-3s-motorcycle-in-helmet-pov-bundle/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "Motogirl Hayley Leather Jacket \u2013 Colour Choice",
+      "Price": "\u00a32.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/motorcycle-clothing-accessories/motogirl-hayley-leather-jacket-colour-choice-2/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "Rukka R Jeans",
+      "Price": "\u00a32.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/motorcycle-clothing-accessories/rukka-r-jeans/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "Sidi Performer Goretex Boots",
+      "Price": "\u00a31.25",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/motorcycle-clothing-accessories/sidi-performer-goretex-boots-3/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "The Goose Wingman Of The Road \u2013 Tent & The Road Kitchen",
+      "Price": "\u00a32.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/home-tech-lifestyle/the-goose-wingman-of-the-road-tent-the-road-kitchen/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "Win Max Tickets on The 2021 Royal Enfield Interceptor 650",
+      "Price": "\u00a31.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/credit-ticket-bundles/win-max-tickets-on-the-2021-royal-enfield-interceptor-650/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "Win Max Tickets on The Yamaha MT-10 Carbon Special",
+      "Price": "\u00a31.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/credit-ticket-bundles/win-max-tickets-on-the-yamaha-mt-10-carbon-special/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "Win \u00a3333 Site Credit",
+      "Price": "19p",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/credit-ticket-bundles/win-333-site-credit-38/"
+    },
+    {
+      "Source": "Apex66",
+      "Product": "Yeti 32 Litre Wheeled Cool Box \u2013 Colour Choice",
+      "Price": "\u00a32.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.apex66.co.uk/competition/home-tech-lifestyle/yeti-32-litre-wheeled-cool-box-colour-choice/"
+    },
+    {
+      "Source": "Hot Comps",
+      "Product": "MICHAEL VAN GERWEN - MVG - EXACT",
+      "Price": "\u00a30.05",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://hotcomps.com/product/michael-van-gerwen-mvg-exact-2/"
+    },
+    {
+      "Source": "Hot Comps",
+      "Product": "Target Nathan Aspinall 95K 95% Tungsten Sp Steel Tip Darts",
+      "Price": "\u00a30.10",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://hotcomps.com/product/target-nathan-aspinall-95k-95-tungsten-sp-steel-tip-darts-5/"
+    },
+    {
+      "Source": "Hot Comps",
+      "Product": "Target Omni or Scolia Home 2 Flex",
+      "Price": "\u00a35.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://hotcomps.com/product/target-omni-or-scolia-home-2-flex-36/"
+    },
+    {
+      "Source": "Hot Comps",
+      "Product": "\u00a3100 Midday Cash",
+      "Price": "\u00a32.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://hotcomps.com/product/100-midday-cash-450/"
+    },
+    {
+      "Source": "Hot Comps",
+      "Product": "\u00a3100 Teatime Cash",
+      "Price": "\u00a32.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://hotcomps.com/product/100-teatime-cash-424/"
+    },
+    {
+      "Source": "Lucky Escape",
+      "Product": "Amarone Aberdeen",
+      "Price": "\u00a31.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.luckyescapecompetitions.co.uk/competitions/amarone-aberdeen/"
+    },
+    {
+      "Source": "Lucky Escape",
+      "Product": "Milan",
+      "Price": "\u00a31.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.luckyescapecompetitions.co.uk/competitions/milan/"
+    },
+    {
+      "Source": "Lucky Escape",
+      "Product": "\u00a3200 Top Golf",
+      "Price": "\u00a31.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.luckyescapecompetitions.co.uk/competitions/200-top-golf-glasgow/"
+    },
+    {
+      "Source": "Phatlads",
+      "Product": "Pharaoh Treasure Slots",
+      "Price": "\u00a30.35",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://phatlads.com/competitions/pharaoh-treasure-slots-1"
+    },
+    {
+      "Source": "Phatlads",
+      "Product": "Pirates Treasure Bingo",
+      "Price": "\u00a30.06",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://phatlads.com/competitions/pirates-treasure-bingo"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "10 X BRAND NEW POK\u00c9MON TCG: FIRST PARTNER ILLUSTRATION COLLECTION-SERIES 1 BOXES",
+      "Price": "\u00a32.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/10-x-brand-new-pokemon-tcg-first-partner-illustration-collection-series-1-boxes-14/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "100 X BRAND NEW POKEMON ASCENDED HEROS PACKS",
+      "Price": "\u00a34.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/100-x-brand-new-pokemon-ascended-heros-packs-13/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "2022 MINI JOHN COOPER WORKS CONVERTIBLE + \u00a31000 OR \u00a320,000 CASH",
+      "Price": "\u00a34.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/2022-mini-john-cooper-works-convertible-1000-or-20000-cash/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "2023 POKEMON CHARIZARD & HO-OH EX DECK CHARMANDER HOLO #001/JPN ACE 10 GEM MINT",
+      "Price": "\u00a31.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/2023-pokemon-charizard-ho-oh-ex-deck-charmander-holo-001-jpn-psa-10-gem-mint/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "2025 POKEMON JAPANESE MEGA DREAM EX CYNTHIA\u2019S SPIRITOMB SECRET RARE #208 AGS 10 GEM MINT CERT",
+      "Price": "\u00a32.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/2025-pokemon-japanese-mega-dream-ex-cynthias-spiritomb-secret-rare-208-ags-10-gem-mint-cert/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "5 X BRAND NEW POKEMON PRISMATIC EVOLUTIONS ELITE TRAINER BOXES",
+      "Price": "\u00a33.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/5-x-brand-new-pokemon-prismatic-evolutions-elite-trainer-boxes/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "AGV PISTA GP-RR - 13 X COLOUR CHOICES",
+      "Price": "\u00a32.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/agv-pista-gp-rr-13-x-colour-choices-48/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "APPLE MACBOOK NEO 13\u2033 (2026) - A18 PRO, 256 GB SSD, INDIGO",
+      "Price": "\u00a32.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/apple-macbook-neo-13-2026-a18-pro-256-gb-ssd-indigo-21/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "ASUS QM0120 AI READY 14\u2033 INTEL CORE ULTRA 5 LAPTOP",
+      "Price": "\u00a33.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/asus-qm0120-ai-ready-14-intel-core-ultra-5-laptop-5/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "BLACKSTONE 36 INCH 4 BURNER GAS GRIDDLE BUILT IN AIR FRYERS",
+      "Price": "\u00a35.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/blackstone-36-inch-4-burner-gas-griddle-built-in-air-fryers-34/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "BLUE LAGOON ICELAND NORTHERN LIGHTS HOLIDAY + \u00a3500",
+      "Price": "\u00a37.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/blue-lagoon-iceland-northern-lights-holiday-500-14/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "BRAND NEW NINTENDO SWITCH 2 ULTIMATE BUNDLE",
+      "Price": "\u00a33.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/brand-new-nintendo-switch-2-ultimate-bundle-68/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "CRAZY LOW ODDS APPLE WATCH SERIES 11 GPS 46MM",
+      "Price": "\u00a329.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/crazy-low-odds-apple-watch-series-11-gps-46mm-7/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "DYSON HOT+COOL HF1 SMART FAN - WHITE",
+      "Price": "\u00a31.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/dyson-hotcool-hf1-smart-fan-white-26/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "FITBIT CHARGE 6 FITNESS TRACKER - OBSIDIAN, SILICONE STRAP, UNIVERSAL",
+      "Price": "\u00a32.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/fitbit-charge-6-fitness-tracker-obsidian-silicone-strap-universal/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "FREE ENTRY - NINJA SUMMER BUNDLE",
+      "Price": "FREE",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/free-entry-ninja-summer-bundle-2/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "IPHONE 17 PRO MAX 256GB & APPLE AIRPODS 4",
+      "Price": "\u00a31.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/iphone-17-pro-max-256gb-apple-airpods-4/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "IPHONE 17 PRO MAX 256GB & APPLE ULTRA 3 WATCH",
+      "Price": "\u00a33.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/iphone-17-pro-max-256gb-apple-ultra-3-watch/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "KAMADO JOE CLASSIC JOE CERAMIC BBQ + COVER",
+      "Price": "\u00a39.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/kamado-joe-classic-joe-ceramic-bbq-cover-21/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "META QUEST 3S MIXED REALITY HEADSET 128GB",
+      "Price": "\u00a35.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/meta-quest-3s-mixed-reality-headset-128gb-63/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NEW 2025 ROLEX WIMBLEDON DATEJUST 41 YELLOW GOLD OR \u00a310,000 CASH",
+      "Price": "\u00a34.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/new-2025-rolex-wimbledon-datejust-41-yellow-gold-or-10000-cash/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NEW PLAYSTATION 5 DISC SLIM EDITION",
+      "Price": "7P",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/new-playstation-5-disc-slim-edition-596/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NINJA FLEXFLAME GAS BBQ AND OUTDOOR COOKING SYSTEM - GREEN AND GOLD",
+      "Price": "\u00a33.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/ninja-flexflame-gas-bbq-and-outdoor-cooking-system-green-and-gold-13/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NINJA LUXE ESPRESSO MACHINE, KETTLE & AIRFRYER",
+      "Price": "\u00a32.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/ninja-luxe-espresso-machine-kettle-airfryer-40/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NINJA SUMMER BUNDLE",
+      "Price": "\u00a33.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/ninja-summer-bundle-4/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "PSA GRADED 10 GEM MINT POKEMON 2025 PFL EN MEGA CHARIZARD X EX #125 SIR OR \u00a31500",
+      "Price": "\u00a33.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/psa-graded-10-gem-mint-2025-pokemon-pfl-en-mega-charizard-x-ex-125-sir/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "SAMSUNG 50\u2033 QLED 4K ULTRA HD SMART TELEVISION",
+      "Price": "2P",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/samsung-50-qled-4k-ultra-hd-smart-television-27/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "SAMSUNG GALAXY S25 EDGE 256GB WITH GALAXY BUDS 3",
+      "Price": "\u00a32.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/samsung-galaxy-s25-edge-256gb-with-galaxy-buds-3-12/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "SIEMENS SMART BEAN TO CUP COFFEE MACHINE",
+      "Price": "\u00a33.27",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/siemens-smart-bean-to-cup-coffee-machine-9/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "SWATCH X OMEGA MERCURY",
+      "Price": "\u00a33.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/swatch-x-omega-mercury-118/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "TAG HEUER F1 43MM CHRONO BLACK ORANGE CERAMIC",
+      "Price": "\u00a32.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/tag-heuer-f1-43mm-chrono-black-orange-ceramic-10/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "TOP SPEC SHARK POWERDETECT CLEAN & EMPTY CORDLESS VAC",
+      "Price": "\u00a31.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/top-spec-shark-powerdetect-clean-empty-cordless-vac-3/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "\u00a31000 AIRBNB EGIFTCARD",
+      "Price": "\u00a37.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/1000-airbnb-egiftcard-298/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "\u00a32500 TUI HOLIDAY VOUCHER",
+      "Price": "\u00a314.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/2500-tui-holiday-voucher-low-odds-616/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "\u00a32500 TUI HOLIDAY VOUCHER",
+      "Price": "\u00a34.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/2500-tui-holiday-voucher-981/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "\u00a32500 TUI HOLIDAY VOUCHER - 1499 TKTS",
+      "Price": "\u00a32.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/2500-tui-holiday-voucher-1499-tkts-10/"
+    },
+    {
+      "Source": "Theguitarmarketplace",
+      "Product": "Boost Your Odds \u2013 Win Tickets Instantly!",
+      "Price": "\u00a31.99",
+      "Percent Sold": "14.15%",
+      "Source URL": "",
+      "URL": "https://theguitarmarketplace.com/competition/boost-your-odds-win-tickets-instantly-182/"
+    },
+    {
+      "Source": "Ukcc",
+      "Product": "FREE ENTRY - WIN \u00a3100 | SPEND \u00a31-\u00a35+ AND WIN THIS AMAZON BUNDLE & CASH!",
+      "Price": "\u00a30.00",
+      "Percent Sold": "98%",
+      "Source URL": "",
+      "URL": "https://ukcc.co.uk/competition/freecomp1367"
+    },
+    {
+      "Source": "Vintage and Classic Car",
+      "Product": "1976 Triumph Stag",
+      "Price": "7.0",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://competitions.vintageandclassiccarhire.com/product/1976-triumph-stag/"
+    }
+  ]
 }
