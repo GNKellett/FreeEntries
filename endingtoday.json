@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T10:07:47",
+  "updated_at": "2026-05-15T11:32:16",
   "entries": [
     {
       "Source": "10to2",
@@ -461,7 +461,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "GN FUSION PRO CRICKET BAT - NEW MODEL FOR 2026!",
       "Price": "\u00a30.39",
-      "Percent Sold": "11.09%",
+      "Percent Sold": "11.43%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/11dbb5c1-fe46-4eb2-96ea-3d02167de51f"
     },
@@ -469,7 +469,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "GRAY NICOLLS IMPERIA PRO 1.0 - THE PING TEST WENT OFF THE SCALE!",
       "Price": "\u00a30.05",
-      "Percent Sold": "14.22%",
+      "Percent Sold": "14.24%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/1231a311-9e02-4653-8e7d-49904cc32eb0"
     },
@@ -477,7 +477,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "GRAY NICOLLS POWER SCOOP PRO - THESE LOOK GREAT AND PLAY EVEN BETTER! LIMITED TICKETS!",
       "Price": "\u00a30.19",
-      "Percent Sold": "9.37%",
+      "Percent Sold": "11.38%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/597bbb95-33f4-46eb-acf2-6ae03d197667"
     },
@@ -1000,14 +1000,6 @@
       "Percent Sold": "0.46%",
       "Source URL": "",
       "URL": "https://www.hashtagluck.com/raffles/fuel-your-fortune-ps3500-in-instant-wins-f8dbfde8-99eb-4f7c-bdd6-ab2d82cc00e9"
-    },
-    {
-      "Source": "Hashtagluck",
-      "Product": "PINATA POP! \u00a3500 IN INSTANT WINS!",
-      "Price": "\u00a30.10",
-      "Percent Sold": "0.1%",
-      "Source URL": "",
-      "URL": "https://www.hashtagluck.com/raffles/lucky-break-ps500-in-instant-wins-eee0b29a-ba21-4425-9b89-b579ab79c22d"
     },
     {
       "Source": "Hittinitbig",
@@ -2251,6 +2243,14 @@
     },
     {
       "Source": "Rev Comps",
+      "Product": "2 X CAYMAN CUSHIONED SUN LOUNGERS 7 X COLOUR CHOICES",
+      "Price": "\u00a33.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/2-x-cayman-cushioned-sun-loungers-7-x-colour-choices-8/"
+    },
+    {
+      "Source": "Rev Comps",
       "Product": "2021 BMW 330D X DRIVE M SPORT PRO TOURING + \u00a31000",
       "Price": "\u00a39.97",
       "Percent Sold": "",
@@ -2264,6 +2264,158 @@
       "Percent Sold": "",
       "Source URL": "",
       "URL": "https://www.revcomps.com/product/2025-kawasaki-h2-zr1000-1000/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "CANTILEVER GARDEN PARASOL 3M TILT/SWIVEL - 2 X COLOURS",
+      "Price": "\u00a33.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/cantilever-garden-parasol-3m-tilt-swivel-2-x-colours-19/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "DYSON V11\u2122 ADVANCED STICK VACUUM CLEANER",
+      "Price": "4P",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/dyson-v11-advanced-stick-vacuum-cleaner-44/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "FREE ENTRY - IPHONE 17E",
+      "Price": "FREE",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/free-entry-iphone-17e-2/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "FREE ENTRY - \u00a3500 CASH",
+      "Price": "FREE",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/free-entry-500-cash-52/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "GARMIN FENIX 8 AMOLED SMART WATCH",
+      "Price": "\u00a34.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/garmin-fenix-8-amoled-smart-watch-6/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "HOLIDAY LODGE NORTH LAKES THE LAKE DISTRICT 4 PEOPLE + \u00a3500",
+      "Price": "\u00a33.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/holiday-lodge-north-lakes-the-lake-district-4-people-500-3/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "LENO & PHAROS 6 SEATER CERAMIC OUTDOOR GARDEN DINING SET BEIGE ALUMINIUM",
+      "Price": "\u00a34.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/leno-pharos-6-seater-ceramic-outdoor-garden-dining-set-beige-aluminium/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "MEGA DEWALT GARDENING BUNDLE",
+      "Price": "\u00a33.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/mega-dewalt-gardening-bundle-55/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NEW 2025 ROLEX 40MM BLACK DIAL EXPLORER OR \u00a35,000",
+      "Price": "\u00a33.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/new-2025-rolex-40mm-black-dial-explorer-or-5000-3/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NEW DEWALT POWER TOOL BUNDLE",
+      "Price": "\u00a34.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/new-dewalt-power-tool-bundle-22/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NINJA CREAMI SCOOP & SWIRL 13-IN-1 ICE CREAM AND SOFT SERVE MAKER - SILVER",
+      "Price": "\u00a33.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/ninja-creami-scoop-swirl-13-in-1-ice-cream-and-soft-serve-maker-silver-13/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "POWER APEX GARDEN SHED 8\u00d76",
+      "Price": "\u00a34.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/power-apex-garden-shed-8x6-104/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "PSA 10 GEM MINT POKEMON 2016 PONCHO-WEARING PIKACHU MEGA CHARIZARD OR \u00a38,000 CASH",
+      "Price": "\u00a32.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/psa-10-gem-mint-2016-poncho-wearing-pikachu-mega-charizard-or-8000-cash/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "SUNDOWNER ROPE HANGING EGG CHAIR + COVER",
+      "Price": "\u00a33.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/sundowner-rope-hanging-egg-chair-cover-6/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "SWATCH X OMEGA MOON",
+      "Price": "\u00a33.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/swatch-x-omega-moon-123/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "TAG HEUER AQUARACER PRO 200 DATE AUTOMATIC, 40 MM, STEEL BLUE OMBRE DIAL",
+      "Price": "\u00a318.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/tag-heuer-aquaracer-pro-200-date-automatic-40-mm-steel-blue-ombre-dial/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "TAG HEUER UK-ONLY SPECIAL EDITION FORMULA 1 QUARTZ 43 MM",
+      "Price": "\u00a33.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/tag-heuer-uk-only-special-edition-formula-1-quartz-43-mm-5/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "TENTBOX LITE 2.0 - FOREST / SUNSET OR SLATE EDITION",
+      "Price": "\u00a39.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/tentbox-lite-2-0-forest-sunset-or-slate-edition-16/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "TUI HOLIDAY MELTEMI SANTORINI DELUXE ROOM 7 NIGHTS",
+      "Price": "\u00a33.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/tui-holiday-meltemi-santorini-deluxe-room-7-nights/"
     },
     {
       "Source": "Royaluxcompetitions",
