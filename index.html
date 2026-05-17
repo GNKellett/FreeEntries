@@ -800,6 +800,15 @@
       });
     }
 
+    function getEndingSummaryText(visibleCount, totalCount) {
+      const today = new Date().toLocaleDateString('en-GB', {
+        day: '2-digit',
+        month: 'short',
+        year: 'numeric',
+      });
+      return `Showing ${visibleCount} of ${totalCount} ending today (${today})`;
+    }
+
     function renderEndingTable() {
       const visible = sortEndingEntries(getFilteredEndingEntries());
       endingTableBody.innerHTML = '';
@@ -842,7 +851,7 @@
 
         endingTableBody.appendChild(row);
       });
-      endingSummaryText.textContent = `Showing ${visible.length} of ${endingEntries.length} ending today`;
+      endingSummaryText.textContent = getEndingSummaryText(visible.length, endingEntries.length);
       updateEndingSortForHeader();
     }
 
@@ -898,7 +907,7 @@
         endingMobileList.appendChild(card);
       });
 
-      endingSummaryText.textContent = `Showing ${visible.length} of ${endingEntries.length} ending today`;
+      endingSummaryText.textContent = getEndingSummaryText(visible.length, endingEntries.length);
     }
 
     function loadEndingTodayEntries() {
