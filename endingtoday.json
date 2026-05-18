@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T12:34:33",
+  "updated_at": "2026-05-18T17:53:50",
   "entries": [
     {
       "Source": "7daysperformance",
@@ -24,14 +24,6 @@
       "Percent Sold": "18%",
       "Source URL": "",
       "URL": "https://7daysperformance.co.uk/product/win-monday-free-180526"
-    },
-    {
-      "Source": "7daysperformance",
-      "Product": "Win This Mercedes GLC63s AMG + \u00a32,000 Cash!",
-      "Price": "\u00a30.10",
-      "Percent Sold": "11%",
-      "Source URL": "",
-      "URL": "https://7daysperformance.co.uk/product/win-merc-glc-210526"
     },
     {
       "Source": "Allstarprizes",
@@ -272,14 +264,6 @@
       "Percent Sold": "3%",
       "Source URL": "",
       "URL": "https://borderscompetitions.co.uk/product/500x-500-cash-instant-wins/"
-    },
-    {
-      "Source": "Bountycompetitions",
-      "Product": "Range Rover Sport SVR",
-      "Price": "\u00a30.99",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://bountycompetitions.co.uk/competition/range-rover-sport-svr-ps2k"
     },
     {
       "Source": "Breezecompetitions",
@@ -722,14 +706,6 @@
       "URL": "https://carplifecompetitions.co.uk/competition/win-tickets-into-40000-to-spend-on-a-vehicle-of-your-choice-instantly-with-20-tickets-main-prize-2/"
     },
     {
-      "Source": "Celestialprizes",
-      "Product": "\u00a3100 Celestial Credit\u00a3",
-      "Price": "\u00a30.75",
-      "Percent Sold": "30.38%",
-      "Source URL": "",
-      "URL": "https://www.celestialprizes.co.uk/raffles/ps100-celestial-credit-83e8d536-c0e4-4ffd-859b-7f5d0e09bf32"
-    },
-    {
       "Source": "Champcompetitions",
       "Product": "Champs Big Bass Bonanza \u2013 EVERY 10p TICKET WINS! \u00a3500 End Prize",
       "Price": "\u00a30.10",
@@ -1157,7 +1133,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "1 IN 60 TICKETS WINS A BAT - AMAZING ODDS!",
       "Price": "\u00a314.99",
-      "Percent Sold": "37.33%",
+      "Percent Sold": "38%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/0ce1e4d3-d4dd-4396-878d-44136c839da9"
     },
@@ -1165,7 +1141,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "ADIDAS 22YDS INCURZA SHOE - 2026 MODEL - WHITE",
       "Price": "\u00a30.79",
-      "Percent Sold": "15.63%",
+      "Percent Sold": "28.74%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/3630ad90-1cbf-4451-9e61-34ad4a766fd5"
     },
@@ -1173,7 +1149,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "LEACH'S M&H BUNDLE - BAT, PADS, GLOVES AND BAG - SEASON SORTED!",
       "Price": "\u00a30.30",
-      "Percent Sold": "24.3%",
+      "Percent Sold": "41.75%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/10b46ab5-032c-45c8-9aeb-e0fc01cf1c4d"
     },
@@ -1181,7 +1157,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "M&H C200 PRO - CRAFTED IN ENGLAND, SIMPLY STUNNING!",
       "Price": "\u00a30.20",
-      "Percent Sold": "17.49%",
+      "Percent Sold": "37.54%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/c539a5dd-49ea-43b5-a738-46ea2cc51445"
     },
@@ -1189,7 +1165,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "M&H C300 PRO - USED BY MANY OF THE TOP PROS IN THE GAME",
       "Price": "\u00a30.15",
-      "Percent Sold": "13.83%",
+      "Percent Sold": "30.63%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/41c66045-d20e-41e1-9d80-ee02d06c9c57"
     },
@@ -1197,7 +1173,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "M&H F100 PRO - PERSONALISE WITH YOUR CHOICE OF STICKERS!",
       "Price": "\u00a30.05",
-      "Percent Sold": "28.54%",
+      "Percent Sold": "46.19%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/39545c87-f153-4254-aaa6-5f5a37c9529b"
     },
@@ -1205,7 +1181,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "M&H LUGGAGE PACK - THE L300 DUFFLE AND THE L400 RUCKSACK",
       "Price": "\u00a30.49",
-      "Percent Sold": "5.71%",
+      "Percent Sold": "22.72%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/ecffaf8f-e1bb-48f2-bb85-c3eb92cb7b94"
     },
@@ -1213,7 +1189,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "M&H MYSTERY - OUR PRO WILL HAND PICK A SPECIAL EDITION BAT - YOU THEN CHOOSE THE DESIGN!",
       "Price": "\u00a30.25",
-      "Percent Sold": "21.51%",
+      "Percent Sold": "40.28%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/4d23e8ee-3266-4836-9e14-2c4597ebbd1c"
     },
@@ -1221,7 +1197,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "M&H ORIGINAL - CHOOSE YOUR STICKERS TO MAKE THIS STAND OUT EVEN MORE!",
       "Price": "\u00a30.10",
-      "Percent Sold": "21.06%",
+      "Percent Sold": "31.31%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/72bbd8f5-b730-4b2f-a8bc-ead72e55af6e"
     },
@@ -1229,7 +1205,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "TRES' CHOICE - THE GN IMPERIA 1.1 PRO LITE - AWESOME STYLING AND GREAT PERFORMANCE",
       "Price": "\u00a30.11",
-      "Percent Sold": "13.81%",
+      "Percent Sold": "21.3%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/c7a8e930-e6ec-42f5-ade4-bfbd561a1cac"
     },
@@ -3306,46 +3282,6 @@
       "URL": "https://lightning-competitions.co.uk/competitions/ps250-choice-gift-card-or-ps200"
     },
     {
-      "Source": "Livegiveaways",
-      "Product": "Cash Wars: The Jackpot Strikes Back Prize every 30 Tickets!",
-      "Price": "\u00a30.49",
-      "Percent Sold": "23%",
-      "Source URL": "",
-      "URL": "https://www.livegiveaways.co.uk/competitions/%f0%9f%92%b0%e2%9a%94%ef%b8%8f-cash-wars-the-jackpot-strikes-back-%f0%9f%9a%80%f0%9f%8c%8c-prize-every-30-tickets-%f0%9f%92%b0-11/"
-    },
-    {
-      "Source": "Livegiveaways",
-      "Product": "EcoFlow Delta 3 Portable Power Station 1024Wh + 10 x Anker Zolo 30W 20,000mAh Lucky Numbers!",
-      "Price": "\u00a30.50",
-      "Percent Sold": "14%",
-      "Source URL": "",
-      "URL": "https://www.livegiveaways.co.uk/competitions/ecoflow-delta-3-portable-power-station-1024wh-%e2%9a%a1%e2%9a%a1-10-x-anker-zolo-30w-20000mah-lucky-numbers-2/"
-    },
-    {
-      "Source": "Livegiveaways",
-      "Product": "LEGO NASA Artemis Space Launch System + 10 Lucky Numbers!",
-      "Price": "\u00a30.25",
-      "Percent Sold": "24%",
-      "Source URL": "",
-      "URL": "https://www.livegiveaways.co.uk/competitions/%f0%9f%9a%80%f0%9f%aa%90-lego-nasa-artemis-space-launch-system-%f0%9f%aa%90%f0%9f%9a%80-10-lucky-numbers-2/"
-    },
-    {
-      "Source": "Livegiveaways",
-      "Product": "Nintendo Switch 2 + Pok\u00e9mon Pokopia Bundle + 10 Lucky Numbers! #4",
-      "Price": "\u00a30.25",
-      "Percent Sold": "26%",
-      "Source URL": "",
-      "URL": "https://www.livegiveaways.co.uk/competitions/%f0%9f%95%b9%ef%b8%8f-nintendo-switch-2-pokemon-pokopia-bundle-%f0%9f%95%b9%ef%b8%8f-10-lucky-numbers-4/"
-    },
-    {
-      "Source": "Livegiveaways",
-      "Product": "The Royal Mint \u2013 2025 1oz Silver Britannia + 10 Lucky Numbers! CLEARANCE",
-      "Price": "\u00a30.30",
-      "Percent Sold": "77%",
-      "Source URL": "",
-      "URL": "https://www.livegiveaways.co.uk/competitions/%f0%9f%a9%b6-the-royal-mint-2025-1oz-silver-britannia-%f0%9f%a9%b6-10-lucky-numbers-clearance/"
-    },
-    {
       "Source": "Liverpool Competitions",
       "Product": "15P Bingo",
       "Price": "\u00a30.15",
@@ -3536,14 +3472,6 @@
       "Percent Sold": "2%",
       "Source URL": "",
       "URL": "https://mashedpotatogolfcomps.co.uk/competition/win-x6-dozen-taylormade-2026-tp5-pix-golf-balls-7/"
-    },
-    {
-      "Source": "Masterofmalt",
-      "Product": "Glengoyne Whisky Collection",
-      "Price": "\u00a38",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.masterofmalt.com/whiskies/glengoyne/competition-glengoyne-whisky-collection-6-ticket-3/"
     },
     {
       "Source": "Mckinneycompetitions",
@@ -4160,22 +4088,6 @@
       "Percent Sold": "",
       "Source URL": "",
       "URL": "https://pitstopprizes.co.uk/product/5-austria-race-weekend-for-2-500-50-instant-merch-prizes/"
-    },
-    {
-      "Source": "Playersloungecompetitions",
-      "Product": "5 GRAND SPINNER \u00a345K PRIZE POT WIN UP TO \u00a35000 INSTANTLY + \u00a3500 END PRIZE",
-      "Price": "\u00a30.45",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://playersloungecompetitions.com/competition/5-grand-spinner-ps45k-prize-pot-win-up-to-ps5000-instantly-ps500-end-prize"
-    },
-    {
-      "Source": "Playersloungecompetitions",
-      "Product": "RANGE ROVER SPORT 3.0 SDV6 OR \u00a37500 CASH + INSTANT WINS",
-      "Price": "\u00a32.99",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://playersloungecompetitions.com/competition/range-rover-sport-30-sdv6-or-ps7500-cash-instant-wins"
     },
     {
       "Source": "Plumequestrian",
@@ -5114,14 +5026,6 @@
       "URL": "https://sploshcompetitions.com/competition/splosh-daily-draw-win-1500-tickets-to-3-of-our-biggest-competitions-100-monday-11pm/"
     },
     {
-      "Source": "Spooky Competitions",
-      "Product": "THE SHADOW SHUFFLE | Only 69p! | \u00a32000 CASH INSTANTS | \u00a3200 End Prize \ud83c\udccf",
-      "Price": "\u00a30.69",
-      "Percent Sold": "79.33%",
-      "Source URL": "",
-      "URL": "https://www.spookycompetitions.com/raffles/the-shadow-shuffle-only-69p-ps2000-cash-instants-ps200-end-prize-6d70e8d7-e9b9-4fef-b85e-b73684c2d7be"
-    },
-    {
       "Source": "Star Competitions",
       "Product": "\ud83d\udcb0 Cash Heist + \u00a3250 Main Prize",
       "Price": "\u00a30.35",
@@ -5651,43 +5555,11 @@
     },
     {
       "Source": "Ukcc",
-      "Product": "25KG BAITWORKS ATLANTIC HEAT!",
-      "Price": "\u00a30.02",
-      "Percent Sold": "6%",
-      "Source URL": "",
-      "URL": "https://ukcc.co.uk/competition/25kg-baitworks-atlantic-heat"
-    },
-    {
-      "Source": "Ukcc",
       "Product": "DAIWA BASIA REELS + KORDA KAIZEN GREEN RODS!",
       "Price": "\u00a30.10",
       "Percent Sold": "3%",
       "Source URL": "",
       "URL": "https://ukcc.co.uk/competition/basiagreen"
-    },
-    {
-      "Source": "Ukcc",
-      "Product": "FOX RX+ ALARMS!",
-      "Price": "\u00a30.10",
-      "Percent Sold": "9%",
-      "Source URL": "",
-      "URL": "https://ukcc.co.uk/competition/fox-rx-alarms-2"
-    },
-    {
-      "Source": "Ukcc",
-      "Product": "NASH TITAN HIDE CAMO PRO XL!",
-      "Price": "\u00a30.01",
-      "Percent Sold": "9%",
-      "Source URL": "",
-      "URL": "https://ukcc.co.uk/competition/nash-titan-hide-camo-pro-xl-3"
-    },
-    {
-      "Source": "Ukcc",
-      "Product": "OMC HEIST 3 ROD POD!",
-      "Price": "\u00a30.01",
-      "Percent Sold": "11%",
-      "Source URL": "",
-      "URL": "https://ukcc.co.uk/competition/omc-heist-3-rod-pod"
     },
     {
       "Source": "Ukcc",
