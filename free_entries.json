@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T13:52:33",
+  "updated_at": "2026-05-21T13:54:24",
   "entries": [
     {
       "Product": "FREE ENTRY: WIN A TRIP TO THE BELFRY FOR FREE! PRIZE BOOST AVAILABLE (CHECK DESCRIPTION)",
@@ -830,20 +830,6 @@
       "entered_at": ""
     },
     {
-      "Product": "REFERRAL - 20 X WINNERS \u00a350 AMAZON VOUCHERS",
-      "Product Info": "WIN FRI 22ND MAY @ 11PM",
-      "Badge Price": "FREE",
-      "URL": "https://www.revcomps.com/product/referral-20-x-winners-50-amazon-vouchers-14/",
-      "Draw Date": "2026-05-22",
-      "Source": "Rev Comps",
-      "Template": "revcomps.docx",
-      "QuestionField": false,
-      "send_to_printer": 1,
-      "_free_key": "revcomps|referral - 20 x winners \u00a350 amazon vouchers|https://www.revcomps.com/product/referral-20-x-winners-50-amazon-vouchers-14/",
-      "entered": false,
-      "entered_at": ""
-    },
-    {
       "Product": "FOR FREE - WIN \u00a330 CREDIT OR 3X KORDA KAIZEN GREEN RODS + EVERY TICKET WINS CREDIT #2",
       "Product Info": "Sat May 23rd 10:00pm 2 Day 10 Hrs 34 Mins 49 Secs Instant Wins 5,000 44% Sold 2196/5000 Free per ticket FOR FREE - WIN \u00a330 CREDIT OR 3X KORDA KAIZEN GREEN RODS + EVERY TICKET WINS CREDIT #2 FOR FREE ENTER NOW",
       "Badge Price": "Free",
@@ -1522,6 +1508,22 @@
       "QuestionField": false,
       "send_to_printer": 5,
       "_free_key": "ryscompetitions|win upto \u00a32,500 for free with the positive two|https://www.ryscompetitions.com/competition/win-upto-2500-for-free-with-the-positive-two/",
+      "entered": false,
+      "entered_at": ""
+    },
+    {
+      "Product": "FREE COMP \u2013 2 VIP TICKETS TO JOSH PADLEY FIGHT + SIGNED MERCH!",
+      "Product Info": "Draw Sun 31st May",
+      "Badge Price": "\u00a3 0.00",
+      "URL": "https://lavishlifecompetitions.co.uk/competition/free-comp-2-vip-tickets-to-josh-padley-fight-signed-merch/",
+      "Draw Date": "2026-05-31",
+      "Days Left": 10,
+      "Print Count": 5,
+      "Source": "Lavishlife",
+      "Template": "lavishlife.docx",
+      "QuestionField": false,
+      "send_to_printer": 1,
+      "_free_key": "lavishlife|free comp \u2013 2 vip tickets to josh padley fight + signed merch!|https://lavishlifecompetitions.co.uk/competition/free-comp-2-vip-tickets-to-josh-padley-fight-signed-merch/",
       "entered": false,
       "entered_at": ""
     }

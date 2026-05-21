@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T13:52:33",
+  "updated_at": "2026-05-21T13:54:24",
   "entries": [
     {
       "Source": "7daysperformance",
@@ -13,7 +13,7 @@
       "Source": "7daysperformance",
       "Product": "Mid-Month Bonus Bonanza!",
       "Price": "\u00a32.79",
-      "Percent Sold": "10%",
+      "Percent Sold": "11%",
       "Source URL": "",
       "URL": "https://7daysperformance.co.uk/product/mid-month-bonus-bonanza"
     },
@@ -21,7 +21,7 @@
       "Source": "7daysperformance",
       "Product": "The FREE Daily Instant Win! - 1G Gold Bar End Prize!",
       "Price": "\u00a30.00",
-      "Percent Sold": "14%",
+      "Percent Sold": "26%",
       "Source URL": "",
       "URL": "https://7daysperformance.co.uk/product/win-thursday-free-210526"
     },
@@ -29,9 +29,57 @@
       "Source": "7daysperformance",
       "Product": "Win This Mercedes GLC63s AMG + \u00a32,000 Cash!",
       "Price": "\u00a30.10",
-      "Percent Sold": "42%",
+      "Percent Sold": "47%",
       "Source URL": "",
       "URL": "https://7daysperformance.co.uk/product/win-merc-glc-210526"
+    },
+    {
+      "Source": "Lavishlife",
+      "Product": "FREE COMP \u2013 \u00a3500 CASH!",
+      "Price": "\u00a3 0.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://lavishlifecompetitions.co.uk/competition/free-comp-500-cash/"
+    },
+    {
+      "Source": "Lavishlife",
+      "Product": "FREE DAILY INSTANT WIN COMP! WIN CASH & CREDIT FOR FREE#232",
+      "Price": "\u00a3 0.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://lavishlifecompetitions.co.uk/competition/free-daily-instant-win-comp-win-cash-credit-for-free232/"
+    },
+    {
+      "Source": "Lavishlife",
+      "Product": "INSTANT FLIP : CASH INSTANTS \u2013 50/50 ODDS \u2013 NEW FLIP FEATURE!",
+      "Price": "\u00a3 2.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://lavishlifecompetitions.co.uk/competition/instant-flip-cash-instants-50-50-odds-new-flip-feature/"
+    },
+    {
+      "Source": "Lavishlife",
+      "Product": "MORE PRIZES ADDED : PRIZE EVERYTIME DAILY EDITION! *THURSDAY 21.05.26*",
+      "Price": "\u00a3 1.99",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://lavishlifecompetitions.co.uk/competition/more-prizes-added-prize-everytime-daily-edition-thursday-21-05-26/"
+    },
+    {
+      "Source": "Lavishlife",
+      "Product": "SCRATCH ATTACK SCRATCHCARD \u2013 WIN UP TO \u00a31000 INSTANTLY!#4",
+      "Price": "\u00a3 0.20",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://lavishlifecompetitions.co.uk/competition/scratch-attack-scratchcard-win-up-to-1000-instantly4/"
+    },
+    {
+      "Source": "Lavishlife",
+      "Product": "THE CLAW : VOLUME 4 #13",
+      "Price": "\u00a3 0.29",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://lavishlifecompetitions.co.uk/competition/the-claw-volume-4-13/"
     },
     {
       "Source": "Rev Comps",
@@ -368,14 +416,6 @@
       "Percent Sold": "",
       "Source URL": "",
       "URL": "https://www.revcomps.com/product/weber-traveler-compact-portable-gas-bbq-bundle-40/"
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "\u00a3500 CURRYS EGIFTCARD",
-      "Price": "\u00a37.97",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.revcomps.com/product/500-currys-egiftcard-454/"
     }
   ]
 }
