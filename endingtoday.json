@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T20:59:19",
+  "updated_at": "2026-05-31T21:33:03",
   "entries": [
     {
       "Source": "3cheerscompetitions",
@@ -773,7 +773,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "DSC SPLIIT 1000 BAT - AN IPL FAVOURITE!",
       "Price": "\u00a30.10",
-      "Percent Sold": "61.74%",
+      "Percent Sold": "64.85%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/3934555b-4a5e-46e7-b361-b7917283f60d"
     },
@@ -789,7 +789,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "SG TEST PADS AND GLOVES BUNDLE - 50% OFF ENTRIES!",
       "Price": "\u00a30.20",
-      "Percent Sold": "53.45%",
+      "Percent Sold": "54.36%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/432997be-44d7-474c-8e1b-3014b54cce62"
     },
@@ -3058,6 +3058,14 @@
       "URL": "https://podiumprize.co.uk/competitions/win-100-site-credit"
     },
     {
+      "Source": "Prestige Watch Circle",
+      "Product": "2024 Rolex Oyster Perpetual 41 \u2013 Green Dial",
+      "Price": "\u00a330",
+      "Percent Sold": "29%",
+      "Source URL": "",
+      "URL": "https://prestige-watch-circle.co.uk/product/2024-rolex-oyster-perpetual-41-green-dial/"
+    },
+    {
       "Source": "Privatedial",
       "Product": "2025 GMT-Master II 'Sprite' Jubilee",
       "Price": "\u00a350",
@@ -3800,94 +3808,6 @@
       "Percent Sold": "3.75%",
       "Source URL": "",
       "URL": "https://unleashed-competitions.com/product/smash-that-pinata-200-main-prize/"
-    },
-    {
-      "Source": "Vaultnine",
-      "Product": "Bolide Envy 23g Darts",
-      "Price": "\u00a30.07",
-      "Percent Sold": "45.52%",
-      "Source URL": "",
-      "URL": "https://vaultninecompetitions.co.uk/competitions/997a81bd-9d97-4e01-a880-4b45babd7530"
-    },
-    {
-      "Source": "Vaultnine",
-      "Product": "Japan Mizu Darts",
-      "Price": "\u00a30.35",
-      "Percent Sold": "50.5%",
-      "Source URL": "",
-      "URL": "https://vaultninecompetitions.co.uk/competitions/65f6a729-bbd8-4ba3-b04a-d933fb5f3c6d"
-    },
-    {
-      "Source": "Vaultnine",
-      "Product": "Josh Rock G1",
-      "Price": "\u00a30.49",
-      "Percent Sold": "46.13%",
-      "Source URL": "",
-      "URL": "https://vaultninecompetitions.co.uk/competitions/feec8854-6fcb-476c-8df2-229d5656e566"
-    },
-    {
-      "Source": "Vaultnine",
-      "Product": "Luke Littler Edge Darts",
-      "Price": "\u00a31.49",
-      "Percent Sold": "61.31%",
-      "Source URL": "",
-      "URL": "https://vaultninecompetitions.co.uk/competitions/364a5ced-9529-4d03-9b0d-0914fc3e36ab"
-    },
-    {
-      "Source": "Vaultnine",
-      "Product": "Shot Future Knights St George Darts",
-      "Price": "\u00a30.99",
-      "Percent Sold": "40.56%",
-      "Source URL": "",
-      "URL": "https://vaultninecompetitions.co.uk/competitions/549542e3-87d7-440a-8b0f-0b828a4f8568"
-    },
-    {
-      "Source": "Vaultnine",
-      "Product": "Star Wars Mandalorian 95% Steel Tip Darts",
-      "Price": "\u00a31.49",
-      "Percent Sold": "73.24%",
-      "Source URL": "",
-      "URL": "https://vaultninecompetitions.co.uk/competitions/ea2c3c94-8dbc-4ce6-b078-47ef49aed542"
-    },
-    {
-      "Source": "Vaultnine",
-      "Product": "Stephen Bunting Void Darts",
-      "Price": "\u00a30.49",
-      "Percent Sold": "55.59%",
-      "Source URL": "",
-      "URL": "https://vaultninecompetitions.co.uk/competitions/efa2b071-8d34-4416-bf56-7c8473d60582"
-    },
-    {
-      "Source": "Vaultnine",
-      "Product": "Target Japan Hot Shot Harith Lim",
-      "Price": "\u00a30.99",
-      "Percent Sold": "55.03%",
-      "Source URL": "",
-      "URL": "https://vaultninecompetitions.co.uk/competitions/64f6f5a4-b89d-4268-b4a7-590738b244eb"
-    },
-    {
-      "Source": "Vaultnine",
-      "Product": "Target Omni Autoscoring System (MEGA ODDS)",
-      "Price": "\u00a37.49",
-      "Percent Sold": "93.33%",
-      "Source URL": "",
-      "URL": "https://vaultninecompetitions.co.uk/competitions/c242f0e8-3f7d-4345-9434-c62c61dfc160"
-    },
-    {
-      "Source": "Vaultnine",
-      "Product": "Unicorn Wraith Darts",
-      "Price": "\u00a30.49",
-      "Percent Sold": "21.64%",
-      "Source URL": "",
-      "URL": "https://vaultninecompetitions.co.uk/competitions/82441223-3892-45c9-896f-b883249c7e6f"
-    },
-    {
-      "Source": "Vaultnine",
-      "Product": "Winmau Blade 6 Professional Dartboard",
-      "Price": "\u00a30.19",
-      "Percent Sold": "35.34%",
-      "Source URL": "",
-      "URL": "https://vaultninecompetitions.co.uk/competitions/60c09d92-79cc-4d70-bcef-53cb2c641c9a"
     },
     {
       "Source": "Virgocompetitions",
