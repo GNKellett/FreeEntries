@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T01:19:22",
+  "updated_at": "2026-06-05T09:36:25",
   "entries": [
     {
       "Source": "Allstarprizes",
@@ -72,38 +72,6 @@
       "Percent Sold": "",
       "Source URL": "",
       "URL": "https://www.apex66.co.uk/competition/credit-ticket-bundles/win-250-cashback-12/"
-    },
-    {
-      "Source": "Bearcompetitions",
-      "Product": "All Time Classic",
-      "Price": "\u00a39.99",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://bearcompetitions.com/competition/1980-fully-restored-porsche-911-turbo"
-    },
-    {
-      "Source": "Bonkerscompetitions",
-      "Product": "WIN 10 X BMW M3 TICKETS WORTH \u00a3250 \u2013 DRAW NO.8",
-      "Price": "\u00a3 0.99",
-      "Percent Sold": "17.2%",
-      "Source URL": "",
-      "URL": "https://bonkerscompetitions.co.uk/competition/win-10-x-bmw-m3-tickets-worth-250-draw-no-8/"
-    },
-    {
-      "Source": "Bonkerscompetitions",
-      "Product": "WIN 10 X BMW M3 TICKETS WORTH \u00a3250 \u2013 DRAW NO.9",
-      "Price": "\u00a3 0.99",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://bonkerscompetitions.co.uk/competition/win-10-x-bmw-m3-tickets-worth-250-draw-no-9/"
-    },
-    {
-      "Source": "Celestialprizes",
-      "Product": "Mini Comp Win 30 Tickets On Our Disney Cruise Comp\u00a3",
-      "Price": "\u00a31.50",
-      "Percent Sold": "42.86%",
-      "Source URL": "",
-      "URL": "https://www.celestialprizes.co.uk/raffles/mini-comp-win-30-tickets-on-our-disney-cruise-comp-714a7e5b-2f64-4e7a-95ee-62c0b4819a7b"
     },
     {
       "Source": "Clubhousecompetitions",
@@ -389,7 +357,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "GN HARRY BROOK HB317 TEST V LITE - LIGHTER PICK UP BUT SAME GREAT PERFORMANCE!",
       "Price": "\u00a30.29",
-      "Percent Sold": "3.93%",
+      "Percent Sold": "6%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/c86b6625-54c8-47d1-bcca-e94906f5a29c"
     },
@@ -397,7 +365,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "M&H S200 PADS - TOP QUALITY!",
       "Price": "\u00a30.79",
-      "Percent Sold": "1.75%",
+      "Percent Sold": "4.68%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/6067bba1-51ad-4537-b242-95f41e0e3fcd"
     },
@@ -405,7 +373,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "WILLIAMS AND Co. DUTCH WILLOW - ELITE BAT - YOU REALLY DON'T WANT TO MISS THIS ONE!",
       "Price": "\u00a30.09",
-      "Percent Sold": "9%",
+      "Percent Sold": "11.92%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/5930ab4c-79a4-47d5-a324-60611276682c"
     },
@@ -528,46 +496,6 @@
       "Percent Sold": "21%",
       "Source URL": "",
       "URL": "https://easypeasyprizes.com/competition/win-two-amazing-lush-gift-sets-autodraw"
-    },
-    {
-      "Source": "EpicComps",
-      "Product": "Au Vodka Full Bottle Collection - 11 Bottles",
-      "Price": "\u00a30.50",
-      "Percent Sold": "15%",
-      "Source URL": "",
-      "URL": "https://epiccompetitions.co.uk/competition/au-vodka-full-bottle-collection-11-bottles"
-    },
-    {
-      "Source": "EpicComps",
-      "Product": "Dyson Airwrap Origin Multi-Styler",
-      "Price": "\u00a30.99",
-      "Percent Sold": "11.1%",
-      "Source URL": "",
-      "URL": "https://epiccompetitions.co.uk/competition/dyson-airwrap"
-    },
-    {
-      "Source": "EpicComps",
-      "Product": "OONI Karu 2 Multi-Fuel Pizza Oven",
-      "Price": "\u00a30.99",
-      "Percent Sold": "7.9%",
-      "Source URL": "",
-      "URL": "https://epiccompetitions.co.uk/competition/ooni-karu2-pizza-oven"
-    },
-    {
-      "Source": "EpicComps",
-      "Product": "\u00a31500 CASH",
-      "Price": "\u00a30.20",
-      "Percent Sold": "35.8%",
-      "Source URL": "",
-      "URL": "https://epiccompetitions.co.uk/competition/1500-cash"
-    },
-    {
-      "Source": "EpicComps",
-      "Product": "\u00a3250 SUPERMARKET VOUCHER",
-      "Price": "\u00a30.50",
-      "Percent Sold": "21.5%",
-      "Source URL": "",
-      "URL": "https://epiccompetitions.co.uk/competition/250-supermarket-voucher"
     },
     {
       "Source": "Equinegiveaways",
@@ -952,14 +880,6 @@
       "Percent Sold": "4%",
       "Source URL": "",
       "URL": "https://golfgeargiveaways.co.uk/competition/super-cheap-every-ticket-wins-autodraw-prize-4-6/"
-    },
-    {
-      "Source": "Hashtagluck",
-      "Product": "LONDONOPOLY! \u00a330,000 IN INSTANT WINS!",
-      "Price": "\u00a30.99",
-      "Percent Sold": "0.15%",
-      "Source URL": "",
-      "URL": "https://www.hashtagluck.com/raffles/londonopoly-ps30000-in-instant-wins-62b5c9f3-2ddf-4ae1-9e02-24dd66be9ca3"
     },
     {
       "Source": "Highpeakcomps",
@@ -1690,14 +1610,6 @@
       "URL": "https://mrgiveaways.co.uk/competition/tech-bundle-instants-5"
     },
     {
-      "Source": "Mrwishcompetitions",
-      "Product": "Fortune Factory",
-      "Price": "\u00a31.00",
-      "Percent Sold": "11%",
-      "Source URL": "",
-      "URL": "https://mrwishcompetitions.co.uk/competitions/fortune-factory"
-    },
-    {
       "Source": "Northcoastcomps",
       "Product": "WIN 50 TICKETS INTO ANY COMP",
       "Price": "\u00a31.99",
@@ -1904,30 +1816,6 @@
       "Percent Sold": "44%",
       "Source URL": "",
       "URL": "https://ogcompetitions.co.uk/competition/ps200-cash-with-10-x-ps50s"
-    },
-    {
-      "Source": "Olympuscompetitions",
-      "Product": "CENTURY DROP",
-      "Price": "\u00a30.07",
-      "Percent Sold": "3%",
-      "Source URL": "",
-      "URL": "https://olympuscompetitions.co.uk/competition/century-drop/"
-    },
-    {
-      "Source": "Olympuscompetitions",
-      "Product": "GOLDEN SEVENTY-FIVE",
-      "Price": "\u00a30.24",
-      "Percent Sold": "4%",
-      "Source URL": "",
-      "URL": "https://olympuscompetitions.co.uk/competition/golden-seventy-five/"
-    },
-    {
-      "Source": "Olympuscompetitions",
-      "Product": "QUICK FIFTY",
-      "Price": "\u00a30.15",
-      "Percent Sold": "5%",
-      "Source URL": "",
-      "URL": "https://olympuscompetitions.co.uk/competition/quick-fifty/"
     },
     {
       "Source": "Phatlads",
@@ -2555,6 +2443,14 @@
     },
     {
       "Source": "Rev Comps",
+      "Product": "FREE ENTRY - HISENSE 75 INCH 4K ULTRA HD SMART TV",
+      "Price": "FREE",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/free-entry-hisense-75-inch-4k-ultra-hd-smart-tv-2/"
+    },
+    {
+      "Source": "Rev Comps",
       "Product": "GARMIN FENIX 8 AMOLED SMART WATCH 51 MM",
       "Price": "\u00a34.47",
       "Percent Sold": "",
@@ -2627,6 +2523,14 @@
     },
     {
       "Source": "Rev Comps",
+      "Product": "TAG HEUER FORMULA 1 43MM CHRONOGRAPH SUNRAY YELLOW",
+      "Price": "\u00a313.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/tag-heuer-formula-1-43mm-chronograph-sunray-yellow-13/"
+    },
+    {
+      "Source": "Rev Comps",
       "Product": "TAG HEUER FORMULA 1 43MM SUNRAY RED DIAL RUBBER STRAP",
       "Price": "\u00a32.97",
       "Percent Sold": "",
@@ -2656,30 +2560,6 @@
       "Percent Sold": "",
       "Source URL": "",
       "URL": "https://www.revcomps.com/product/2500-tui-holiday-voucher-low-odds-627/"
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "\u00a3300 AMAZON EGIFTCARD",
-      "Price": "\u00a32.47",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.revcomps.com/product/300-amazon-egiftcard-731/"
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "\u00a3300 SAINSBURYS EGIFTCARD",
-      "Price": "\u00a32.47",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.revcomps.com/product/300-sainsburys-egiftcard-571/"
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "\u00a3500 AMAZON EGIFTCARD",
-      "Price": "\u00a37.97",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.revcomps.com/product/500-amazon-egiftcard-595/"
     },
     {
       "Source": "Ritasrichies",
