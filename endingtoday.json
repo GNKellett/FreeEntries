@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T02:54:33",
+  "updated_at": "2026-06-11T10:38:25",
   "entries": [
     {
       "Source": "10to2",
@@ -258,14 +258,6 @@
       "URL": "https://bigbeastiecompetitions.co.uk/competition/12k-mini-instants-800-tickets-end-prize/"
     },
     {
-      "Source": "Bountycompetitions",
-      "Product": "2015 Volkswagen Golf 2 0 TSI R 3dr DSG",
-      "Price": "\u00a30.99",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://bountycompetitions.co.uk/competition/2015-volkswagen-golf-20-tsi-r-3dr-dsg"
-    },
-    {
       "Source": "Breezecompetitions",
       "Product": "AUTO DRAW \u2013 \u00a3100 BIG CASH THURSDAY! 1p ENTRY",
       "Price": "\u00a30.01",
@@ -360,22 +352,6 @@
       "Percent Sold": "23%",
       "Source URL": "",
       "URL": "https://www.brightcompetitions.co.uk/competition/win-a-rituals-suncream-bundle/"
-    },
-    {
-      "Source": "Bytecompetitions",
-      "Product": "8ft Trampoline or \u00a3100 Cash",
-      "Price": "\u00a30.75",
-      "Percent Sold": "22.67%",
-      "Source URL": "",
-      "URL": "https://www.byte-competitions.co.uk/raffles/8ft-trampoline-or-ps100-cash-4a61a70d-3a19-4501-89e0-e2a02c75b239"
-    },
-    {
-      "Source": "Bytecompetitions",
-      "Product": "Balloon Bonanza - 30p Instants",
-      "Price": "\u00a30.30",
-      "Percent Sold": "87.8%",
-      "Source URL": "",
-      "URL": "https://www.byte-competitions.co.uk/raffles/sids-super-sizzler-30p-instants-387f4c98-b2a4-49bf-830f-beb5bb5f7963"
     },
     {
       "Source": "Caddycomps",
@@ -544,22 +520,6 @@
       "Percent Sold": "",
       "Source URL": "",
       "URL": "https://carplifecompetitions.co.uk/competition/new-game-100-or-1000-instant-wins-drawn-live-with-500-main-prize-sell-out-special-bonus/"
-    },
-    {
-      "Source": "Casualraffle",
-      "Product": "LEGO - FIFA World Cup\u2122 Official Trophy",
-      "Price": "\u00a30.99",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.casualraffle.co.uk/raffles/lego-fifa-world-cup-official-trophy-c1abeb14-5d22-4e98-a631-9977028673ce"
-    },
-    {
-      "Source": "Casualraffle",
-      "Product": "World Cup Instant Win",
-      "Price": "\u00a30.66",
-      "Percent Sold": "11.9%",
-      "Source URL": "",
-      "URL": "https://www.casualraffle.co.uk/raffles/find-the-world-cup-winner-instant-win-81614765-5e69-4103-b93c-6308557aaab3"
     },
     {
       "Source": "Click",
@@ -925,7 +885,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "GRAY NICOLLS FUSION PRO - OUR CUSTOMERS LOVE THESE!",
       "Price": "\u00a30.10",
-      "Percent Sold": "8.86%",
+      "Percent Sold": "11.88%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/fd36bb80-bca2-48d9-b119-dd515b978aad"
     },
@@ -939,9 +899,17 @@
     },
     {
       "Source": "Cricketstarcompetitions",
+      "Product": "M&H S100 COLOURED GLOVES - EYE CATCHING QUALITY!",
+      "Price": "\u00a30.03",
+      "Percent Sold": "8.26%",
+      "Source URL": "",
+      "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/34801bd2-a895-446c-af3d-6df732f4b39b"
+    },
+    {
+      "Source": "Cricketstarcompetitions",
       "Product": "SG KLR 1 - STUNNING BAT - USED BY KL RAHUL - NOT TO BE MISSED",
       "Price": "\u00a30.05",
-      "Percent Sold": "13.83%",
+      "Percent Sold": "15.71%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/2230c871-e727-44c3-8d2b-fcbc85b44083"
     },
@@ -949,7 +917,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "SPIN THE WHEEL - EVERY SPIN IS A WIN - OVER 25K INSTANT WIN PRIZES - FINAL DRAW PRIZE \u00a3100 SITE CREDIT",
       "Price": "\u00a32.99",
-      "Percent Sold": "18.73%",
+      "Percent Sold": "19.19%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/e942630d-968e-402f-bd3b-51a48c91443e"
     },
@@ -965,7 +933,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "WILLIAMS AND Co. DUTCH WILLOW - ELITE BAT - YOU REALLY DON'T WANT TO MISS THIS ONE!",
       "Price": "\u00a30.09",
-      "Percent Sold": "8.03%",
+      "Percent Sold": "9.78%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/4fafa0d8-8b1f-480c-9ff9-214aea6dce43"
     },
@@ -973,7 +941,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "WINNERS CHOICE OF DUFFLE BAG! CHOOSE FROM OUR GREAT SELECTION!",
       "Price": "\u00a30.15",
-      "Percent Sold": "4.27%",
+      "Percent Sold": "7.27%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/0e9db02c-e959-4908-a7cd-afee722f3433"
     },
@@ -981,7 +949,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "WINNERS CHOICE OF PADS! CHOOSE FROM OUR GREAT SELECTION!",
       "Price": "\u00a30.20",
-      "Percent Sold": "6.21%",
+      "Percent Sold": "9.21%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/58a0fea1-82fb-4f69-881c-588b25afe3d4"
     },
@@ -989,7 +957,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "WOMBAT 5* GEOMETRIC PRO - CUSTOMERS JUST LOVE THESE!",
       "Price": "\u00a30.03",
-      "Percent Sold": "10.82%",
+      "Percent Sold": "11.81%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/5844e470-6b37-4dad-946f-5d61c5494bc0"
     },
@@ -3058,14 +3026,6 @@
       "URL": "https://mckinneycompetitions.com/competition/win-1000-cash-thursday-9pm-autodraw-8"
     },
     {
-      "Source": "Mintedcompetitions",
-      "Product": "Win \u00a3250 For 79P",
-      "Price": "\u00a30.79",
-      "Percent Sold": "13%",
-      "Source URL": "",
-      "URL": "https://www.mintedcompetitions.co.uk/raffles/win-ps250-for-79p-3b662669-f07f-41d5-ba88-9f5828af40d9"
-    },
-    {
       "Source": "Monstergiveaways",
       "Product": "Spin To Win - Daily Freebie 30",
       "Price": "Free",
@@ -3954,22 +3914,6 @@
       "URL": "https://www.raffleade.co.uk/competitions/spin-to-win-3000-for-99p/"
     },
     {
-      "Source": "Rafflee",
-      "Product": "iPhone 17",
-      "Price": "\u00a30.49",
-      "Percent Sold": "28%",
-      "Source URL": "",
-      "URL": "https://rafflee.co.uk/competitions/tech/iphone-17-554"
-    },
-    {
-      "Source": "Rafflee",
-      "Product": "Sony PlayStation 5 Digital",
-      "Price": "\u00a30.49",
-      "Percent Sold": "27%",
-      "Source URL": "",
-      "URL": "https://rafflee.co.uk/competitions/gaming/sony-playstation-5-digital-536"
-    },
-    {
       "Source": "Raffleistic",
       "Product": "Choose Your Vault!",
       "Price": "\u00a33.49",
@@ -4490,22 +4434,6 @@
       "URL": "https://www.spincompetitions.co.uk/competition/300-spin-credit-low-odds-63/"
     },
     {
-      "Source": "SpinsnWins",
-      "Product": "\u00a31,000 Low Odds",
-      "Price": "",
-      "Percent Sold": "0%",
-      "Source URL": "",
-      "URL": "https://spinsnwins.co.uk/competition/ps1000-low-odds-8257"
-    },
-    {
-      "Source": "SpinsnWins",
-      "Product": "\u00a33,000 For 1p + Instants",
-      "Price": "",
-      "Percent Sold": "0%",
-      "Source URL": "",
-      "URL": "https://spinsnwins.co.uk/competition/ps3000-for-1p-instants-2"
-    },
-    {
       "Source": "Splosh",
       "Product": "SPLOSH DAILY DRAW Ninja AutoBarista Pro Automatic Espresso Machine or \u00a3500 (THURSDAY 11PM)",
       "Price": "\u00a30.20",
@@ -4672,14 +4600,6 @@
       "Percent Sold": "3.63%",
       "Source URL": "",
       "URL": "https://theguitarmarketplace.com/competition/15000-gibson-instant-win-1-3-odds-5/"
-    },
-    {
-      "Source": "Therafflekid",
-      "Product": "2026 World Cup Sweepstake Ps500 Main Prize",
-      "Price": "\u00a320.00",
-      "Percent Sold": "8.3%",
-      "Source URL": "",
-      "URL": "https://therafflekid.co.uk/competition/2026-world-cup-sweepstake-ps500-main-prize"
     },
     {
       "Source": "Tommyfrenchcompetitions",
