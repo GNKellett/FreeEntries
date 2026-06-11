@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T13:50:35",
+  "updated_at": "2026-06-11T18:30:44",
   "entries": [
     {
       "Source": "10to2",
@@ -885,7 +885,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "GRAY NICOLLS FUSION PRO - OUR CUSTOMERS LOVE THESE!",
       "Price": "\u00a30.10",
-      "Percent Sold": "20.91%",
+      "Percent Sold": "40.39%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/fd36bb80-bca2-48d9-b119-dd515b978aad"
     },
@@ -893,7 +893,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "M&H S100 BATTING GLOVES - YOU'LL NEED A NEW PAIR THIS SEASON! LIMITED TICKETS",
       "Price": "\u00a30.99",
-      "Percent Sold": "9.52%",
+      "Percent Sold": "21.98%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/3d15a546-8d8c-4399-aea4-aa79f4cae31b"
     },
@@ -901,39 +901,31 @@
       "Source": "Cricketstarcompetitions",
       "Product": "M&H S100 COLOURED GLOVES - EYE CATCHING QUALITY!",
       "Price": "\u00a30.03",
-      "Percent Sold": "11.68%",
+      "Percent Sold": "17.4%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/34801bd2-a895-446c-af3d-6df732f4b39b"
     },
     {
       "Source": "Cricketstarcompetitions",
-      "Product": "SG KLR 1 - STUNNING BAT - USED BY KL RAHUL - NOT TO BE MISSED",
-      "Price": "\u00a30.05",
-      "Percent Sold": "19.64%",
-      "Source URL": "",
-      "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/2230c871-e727-44c3-8d2b-fcbc85b44083"
-    },
-    {
-      "Source": "Cricketstarcompetitions",
       "Product": "SPIN THE WHEEL - EVERY SPIN IS A WIN - OVER 25K INSTANT WIN PRIZES - FINAL DRAW PRIZE \u00a3100 SITE CREDIT",
       "Price": "\u00a32.99",
-      "Percent Sold": "21.32%",
+      "Percent Sold": "24.68%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/e942630d-968e-402f-bd3b-51a48c91443e"
     },
     {
       "Source": "Cricketstarcompetitions",
-      "Product": "TRES' GN STASH A BAG FULL OF TOP GRADE EQUIPMENT WORTH \u00a3750",
+      "Product": "TRES' GN STASH TOP GRADE EQUIPMENT WORTH \u00a3750!",
       "Price": "\u00a30.15",
-      "Percent Sold": "12.31%",
+      "Percent Sold": "28.24%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/9a867812-af38-4dc7-b6ec-144da83b87b2"
     },
     {
       "Source": "Cricketstarcompetitions",
-      "Product": "WILLIAMS AND Co. DUTCH WILLOW - ELITE BAT - YOU REALLY DON'T WANT TO MISS THIS ONE!",
+      "Product": "WILLIAMS AND Co. DUTCH WILLOW ELITE - YOU REALLY DON'T WANT TO MISS THIS ONE!",
       "Price": "\u00a30.09",
-      "Percent Sold": "13.7%",
+      "Percent Sold": "31.16%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/4fafa0d8-8b1f-480c-9ff9-214aea6dce43"
     },
@@ -941,7 +933,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "WINNERS CHOICE OF DUFFLE BAG! CHOOSE FROM OUR GREAT SELECTION!",
       "Price": "\u00a30.15",
-      "Percent Sold": "15%",
+      "Percent Sold": "25.74%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/0e9db02c-e959-4908-a7cd-afee722f3433"
     },
@@ -949,7 +941,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "WINNERS CHOICE OF PADS! CHOOSE FROM OUR GREAT SELECTION!",
       "Price": "\u00a30.20",
-      "Percent Sold": "12.36%",
+      "Percent Sold": "25.21%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/58a0fea1-82fb-4f69-881c-588b25afe3d4"
     },
@@ -957,9 +949,17 @@
       "Source": "Cricketstarcompetitions",
       "Product": "WOMBAT 5* GEOMETRIC PRO - CUSTOMERS JUST LOVE THESE!",
       "Price": "\u00a30.03",
-      "Percent Sold": "20.21%",
+      "Percent Sold": "41.2%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/5844e470-6b37-4dad-946f-5d61c5494bc0"
+    },
+    {
+      "Source": "Cricketstarcompetitions",
+      "Product": "WORTH \u00a3800 - THE SG KLR 1 - STUNNING BAT - USED BY KL RAHUL - NOT TO BE MISSED",
+      "Price": "\u00a30.05",
+      "Percent Sold": "49.39%",
+      "Source URL": "",
+      "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/2230c871-e727-44c3-8d2b-fcbc85b44083"
     },
     {
       "Source": "Dartgearcompetitions",
