@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T12:16:42",
+  "updated_at": "2026-06-23T13:08:06",
   "entries": [
     {
       "Source": "10to2",
@@ -418,18 +418,10 @@
       "URL": "https://www.competitionfox.com/competition/5k-worth-of-instants-main-prize-2000-cash-23-06-auto-win/"
     },
     {
-      "Source": "Competitionsisters",
-      "Product": "Fathers Day Competition 2",
-      "Price": "\u00a32.99",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.competitionsisters.co.uk/product/fathers-day-competition-2/"
-    },
-    {
       "Source": "Cricketstarcompetitions",
       "Product": "GN HAVOC HB317 TEST V LITE - LIGHTWEIGHT FEEL - SAME POWER!",
       "Price": "\u00a30.15",
-      "Percent Sold": "24.73%",
+      "Percent Sold": "24.78%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/1ea36e7d-d9ea-47d7-b349-5ded41aa92dc"
     },
@@ -437,7 +429,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "M&H C200 PRO - MAKE IT LOOK LIKE YOUR OWN BY CHOOSING YOUR STICKERS FOR FREE!",
       "Price": "\u00a30.25",
-      "Percent Sold": "22.8%",
+      "Percent Sold": "23.23%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/35e39028-635f-4839-9989-ca385b468c54"
     },
@@ -445,7 +437,7 @@
       "Source": "Cricketstarcompetitions",
       "Product": "SG TEST GLOVES - TOP QUALITY PAIR GLOVES - DON'T MISS OUT!",
       "Price": "\u00a30.19",
-      "Percent Sold": "14.44%",
+      "Percent Sold": "17.9%",
       "Source URL": "",
       "URL": "https://www.cricketstarcompetitions.com/Competitions/Competition/fd766099-a3a4-49b9-b56b-00e0fd8208aa"
     },
@@ -2203,19 +2195,35 @@
     },
     {
       "Source": "Rev Comps",
-      "Product": "DYSON TP11 AIR COOLING PURIFIER - WHITE",
-      "Price": "\u00a31.97",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.revcomps.com/product/dyson-tp11-air-cooling-purifier-white-12/"
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "EUFY ROBOVAC L60 HYBRID ROBOT VACUUM CLEANER - BLACK",
+      "Product": "BRAND NEW DYSON HUSHJET MINI COOL - STONE & BLUSH",
       "Price": "\u00a31.00",
       "Percent Sold": "",
       "Source URL": "",
-      "URL": "https://www.revcomps.com/product/eufy-robovac-l60-hybrid-robot-vacuum-cleaner-black-16/"
+      "URL": "https://www.revcomps.com/product/brand-new-dyson-hushjet-mini-cool-stone-blush/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "DIMPLEX DUOCOOL SMART 2-IN-1 CORDLESS FAN - TITANIUM",
+      "Price": "\u00a31.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/dimplex-duocool-smart-2-in-1-cordless-fan-titanium/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "DYSON CF1 SMART COOLING DESK FAN - WHITE",
+      "Price": "\u00a32.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/dyson-cf1-smart-cooling-desk-fan-white/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "DYSON HUSHJET HJ10 COMPACT AIR PURIFIER - WHITE & SILVER",
+      "Price": "\u00a32.47",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/dyson-hushjet-hj10-compact-air-purifier-white-silver/"
     },
     {
       "Source": "Rev Comps",
@@ -2315,6 +2323,14 @@
     },
     {
       "Source": "Rev Comps",
+      "Product": "RUSSELL HOBBS RHBLDL25W HOT & COOL BLADELESS TOWER FAN - WHITE",
+      "Price": "\u00a31.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/russell-hobbs-rhbldl25w-hot-cool-bladeless-tower-fan-white/"
+    },
+    {
+      "Source": "Rev Comps",
       "Product": "SAMSUNG 50\u2033 QLED 4K ULTRA HD SMART TELEVISION",
       "Price": "\u00a33.97",
       "Percent Sold": "",
@@ -2323,11 +2339,27 @@
     },
     {
       "Source": "Rev Comps",
+      "Product": "SHARK CHILLPILL FA025UK 3-IN-1 FAN, MIST & INSTACHILL SYSTEM - MIDNIGHT",
+      "Price": "\u00a31.00",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/shark-chillpill-fa025uk-3-in-1-fan-mist-instachill-system-midnight/"
+    },
+    {
+      "Source": "Rev Comps",
       "Product": "SHARK CRYOGLOW UNDER-EYE COOLING LED ANTI-AGEING & BLEMISH REPAIR MASK",
       "Price": "\u00a32.97",
       "Percent Sold": "",
       "Source URL": "",
       "URL": "https://www.revcomps.com/product/shark-cryoglow-under-eye-cooling-led-anti-ageing-blemish-repair-mask-25/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "SHARK FLEXBREEZE TABLEMATE FA150UK PORTABLE 11.8\u2033 DESK FAN - WINTER FOG",
+      "Price": "50P",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/symphony-sumo-75xl-air-cooler-grey/"
     },
     {
       "Source": "Rev Comps",
@@ -2355,11 +2387,11 @@
     },
     {
       "Source": "Rev Comps",
-      "Product": "SWATCH X OMEGA SNOOPY BLACK MISSION TO THE MOONPHASE",
+      "Product": "SYMPHONY SUMO 75XL AIR COOLER - GREY",
       "Price": "\u00a32.97",
       "Percent Sold": "",
       "Source URL": "",
-      "URL": "https://www.revcomps.com/product/swatch-x-omega-snoopy-black-mission-to-the-moonphase-55/"
+      "URL": "https://www.revcomps.com/product/symphony-sumo-75xl-air-cooler-grey-2/"
     },
     {
       "Source": "Rev Comps",
@@ -2376,14 +2408,6 @@
       "Percent Sold": "",
       "Source URL": "",
       "URL": "https://www.revcomps.com/product/2500-tui-holiday-voucher-1001/"
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "\u00a3300 AMAZON EGIFTCARD",
-      "Price": "\u00a33.27",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.revcomps.com/product/300-amazon-egiftcard-742/"
     },
     {
       "Source": "Royaluxcompetitions",
