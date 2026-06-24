@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T13:12:39",
+  "updated_at": "2026-06-24T14:56:41",
   "entries": [
     {
       "Source": "7daysperformance",
@@ -828,10 +828,10 @@
     {
       "Source": "Rev Comps",
       "Product": "BRAND NEW DYSON HUSHJET MINI COOL - STONE & BLUSH",
-      "Price": "\u00a31.00",
+      "Price": "\u00a32.00",
       "Percent Sold": "",
       "Source URL": "",
-      "URL": "https://www.revcomps.com/product/brand-new-dyson-hushjet-mini-cool-stone-blush-2/"
+      "URL": "https://www.revcomps.com/product/brand-new-dyson-hushjet-mini-cool-stone-blush-4/"
     },
     {
       "Source": "Rev Comps",
@@ -855,39 +855,23 @@
       "Price": "\u00a31.00",
       "Percent Sold": "",
       "Source URL": "",
-      "URL": "https://www.revcomps.com/product/dimplex-duocool-smart-2-in-1-cordless-fan-titanium-2/"
+      "URL": "https://www.revcomps.com/product/dimplex-duocool-smart-2-in-1-cordless-fan-titanium-4/"
     },
     {
       "Source": "Rev Comps",
       "Product": "DYSON CF1 SMART COOLING DESK FAN - WHITE",
-      "Price": "\u00a32.47",
+      "Price": "\u00a34.97",
       "Percent Sold": "",
       "Source URL": "",
-      "URL": "https://www.revcomps.com/product/dyson-cf1-smart-cooling-desk-fan-white-2/"
+      "URL": "https://www.revcomps.com/product/dyson-cf1-smart-cooling-desk-fan-white-4/"
     },
     {
       "Source": "Rev Comps",
       "Product": "DYSON TP11 AIR COOLING PURIFIER - WHITE",
-      "Price": "1P",
+      "Price": "\u00a32.97",
       "Percent Sold": "",
       "Source URL": "",
-      "URL": "https://www.revcomps.com/product/dyson-tp11-air-cooling-purifier-white-9/"
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "DYSON TP11 AIR COOLING PURIFIER - WHITE",
-      "Price": "\u00a31.97",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.revcomps.com/product/dyson-tp11-air-cooling-purifier-white-16/"
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "EUFY ROBOVAC L60 HYBRID ROBOT VACUUM CLEANER - BLACK",
-      "Price": "\u00a32.00",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.revcomps.com/product/eufy-robovac-l60-hybrid-robot-vacuum-cleaner-black-17/"
+      "URL": "https://www.revcomps.com/product/dyson-tp11-air-cooling-purifier-white-18/"
     },
     {
       "Source": "Rev Comps",
@@ -979,11 +963,11 @@
     },
     {
       "Source": "Rev Comps",
-      "Product": "RUSSELL HOBBS RHBLDL25W HOT &; COOL BLADELESS TOWER FAN - WHITE",
+      "Product": "RUSSELL HOBBS RHBLDL25W HOT & COOL BLADELESS TOWER FAN - WHITE",
       "Price": "\u00a31.97",
       "Percent Sold": "",
       "Source URL": "",
-      "URL": "https://www.revcomps.com/product/russell-hobbs-rhbldl25w-hot-cool-bladeless-tower-fan-white-2/"
+      "URL": "https://www.revcomps.com/product/russell-hobbs-rhbldl25w-hot-cool-bladeless-tower-fan-white-4/"
     },
     {
       "Source": "Rev Comps",
@@ -992,14 +976,6 @@
       "Percent Sold": "",
       "Source URL": "",
       "URL": "https://www.revcomps.com/product/samsung-q8f-55-qled-4k-vision-ai-smart-tv-25/"
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "SHARK CHILLPILL FA025UK 3-IN-1 FAN, MIST & INSTACHILL SYSTEM - MIDNIGHT",
-      "Price": "\u00a31.00",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.revcomps.com/product/shark-chillpill-fa025uk-3-in-1-fan-mist-instachill-system-midnight-2/"
     },
     {
       "Source": "Rev Comps",
@@ -1015,15 +991,7 @@
       "Price": "50P",
       "Percent Sold": "",
       "Source URL": "",
-      "URL": "https://www.revcomps.com/product/shark-flexbreeze-tablemate-fa150uk-portable-11-8-desk-fan-winter-fog/"
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "SHARK TURBOBLADE HIGH-SPEED MULTI-DIRECTIONAL TOWER FAN",
-      "Price": "\u00a32.47",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.revcomps.com/product/shark-turboblade-high-speed-multi-directional-tower-fan-3/"
+      "URL": "https://www.revcomps.com/product/shark-flexbreeze-tablemate-fa150uk-portable-11-8-desk-fan-winter-fog-3/"
     },
     {
       "Source": "Rev Comps",
@@ -1040,6 +1008,14 @@
       "Percent Sold": "",
       "Source URL": "",
       "URL": "https://www.revcomps.com/product/swatch-x-omega-snoopy-white-mission-to-the-moonphase-46/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "SYMPHONY SUMO 75XL AIR COOLER - GREY",
+      "Price": "\u00a32.97",
+      "Percent Sold": "",
+      "Source URL": "",
+      "URL": "https://www.revcomps.com/product/symphony-sumo-75xl-air-cooler-grey-5/"
     },
     {
       "Source": "Rev Comps",
@@ -1064,14 +1040,6 @@
       "Percent Sold": "",
       "Source URL": "",
       "URL": "https://www.revcomps.com/product/the-ultimate-kingsize-tv-bed-bundle-frame-mattress-tv-18/"
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "\u00a3500 CURRYS EGIFTCARD",
-      "Price": "\u00a37.97",
-      "Percent Sold": "",
-      "Source URL": "",
-      "URL": "https://www.revcomps.com/product/500-currys-egiftcard-471/"
     },
     {
       "Source": "Titan Prizes",
