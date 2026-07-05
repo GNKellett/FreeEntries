@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T00:34:48",
+  "updated_at": "2026-07-05T20:33:23",
   "entries": [
     {
       "Product": "LEARN TO PLAY LIVE: FREE VIDEO SERIES",
@@ -376,12 +376,12 @@
       "Badge Price": "Free",
       "URL": "https://monstergiveaways.co.uk/competition/free-warmies-junior-purple-monster-3",
       "Draw Date": "2026-07-15",
-      "Days Left": 12,
+      "Days Left": 10,
       "Date Status": "",
       "Print Count": 1,
       "Tickets Sold": "",
       "Max Tickets": "",
-      "Percent Sold": 42.0,
+      "Percent Sold": 54.0,
       "End Time": "10:00PM",
       "Source": "Monstergiveaways",
       "Template": "monstergiveaways.docx",
@@ -1411,6 +1411,21 @@
       "QuestionField": false,
       "send_to_printer": 5,
       "_free_key": "tidetogethercompetitions|free to enter | 20 x arno-hooks leads|https://tidetogethercompetitions.com/competition/free-to-enter-20-x-arno-hooks-leads/",
+      "entered": false,
+      "entered_at": ""
+    },
+    {
+      "Product": "FREE TO PLAY: WIN A TAYLORMADE LIMITED EDITION Qi4D \u2018SHADOWFALL\u2019 WOODS BUNDLE (WORTH \u00a31227)",
+      "Product Info": "Draw Wed 22nd Jul",
+      "Badge Price": 0.0,
+      "URL": "https://www.golfcomps.com/competition/win-a-taylormade-qi4d-woods-bundle-including-the-brand-new-shadowfall-driver-1/",
+      "Draw Date": "2026-07-22",
+      "Days Left": 17,
+      "Source": "Golfcomps",
+      "Template": "golfcomps.docx",
+      "QuestionField": true,
+      "send_to_printer": 5,
+      "_free_key": "golfcomps|free to play: win a taylormade limited edition qi4d \u2018shadowfall\u2019 woods bundle (worth \u00a31227)|https://www.golfcomps.com/competition/win-a-taylormade-qi4d-woods-bundle-including-the-brand-new-shadowfall-driver-1/",
       "entered": false,
       "entered_at": ""
     }
