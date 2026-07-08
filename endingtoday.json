@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T11:02:29",
+  "updated_at": "2026-07-08T11:06:30",
   "entries": [
     {
       "Source": "7daysperformance",
@@ -412,8 +412,8 @@
     {
       "Source": "Rev Comps",
       "Product": "1993 ROVER MINI COOPER 1.3L",
-      "Price": "\u00a38.97",
-      "Percent Sold": "27%",
+      "Price": "\u00a39.97",
+      "Percent Sold": "35%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -421,7 +421,7 @@
       "Source": "Rev Comps",
       "Product": "2 X ARSENAL VS COVENTRY CANNON CLUB HOSPITALITY TICKETS",
       "Price": "\u00a37.47",
-      "Percent Sold": "25%",
+      "Percent Sold": "33%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -429,39 +429,15 @@
       "Source": "Rev Comps",
       "Product": "2 X BRAND NEW POKEMON ASCENDED HEROS PREMIUM POSTER COLLECTIONS",
       "Price": "\u00a32.00",
-      "Percent Sold": "16%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "2 X CAYMAN CUSHIONED SUN LOUNGERS 7 X COLOUR CHOICES",
-      "Price": "\u00a33.97",
-      "Percent Sold": "46%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "2 X LEEDS UNITED VS BRENTFORD YEBOAH'S HOSPITALITY",
-      "Price": "\u00a33.97",
-      "Percent Sold": "55%",
+      "Percent Sold": "24%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
     {
       "Source": "Rev Comps",
       "Product": "2021 TRIUMPH 1200 RS - LOW ODDS",
-      "Price": "\u00a317.97",
-      "Percent Sold": "34%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "3 X BRAND NEW POKEMON SCARLET & VIOLET SURGING SPARKS ELITE TRAINER BOXES",
-      "Price": "\u00a32.47",
-      "Percent Sold": "94%",
+      "Price": "\u00a319.97",
+      "Percent Sold": "43%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -469,7 +445,7 @@
       "Source": "Rev Comps",
       "Product": "3 X BRAND NEW TCG PERFECT ORDER POKEMON ETBS",
       "Price": "\u00a31.97",
-      "Percent Sold": "61%",
+      "Percent Sold": "72%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -477,71 +453,15 @@
       "Source": "Rev Comps",
       "Product": "5 X BRAND NEW POKEMON CHAOS RISING ELITE TRAINER BOXES",
       "Price": "\u00a31.97",
-      "Percent Sold": "39%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "ACE 10 GEM MINT 2015 BREAKTHROUGH M MEWTWO EX - POP 7 POKEMON OR \u00a31000",
-      "Price": "\u00a32.00",
-      "Percent Sold": "38%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "APPLE 13\" IPAD AIR (2026) - 256 GB, SPACE GREY",
-      "Price": "\u00a34.47",
-      "Percent Sold": "54%",
+      "Percent Sold": "53%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
     {
       "Source": "Rev Comps",
       "Product": "APPLE AIRPODS MAX - MIDNIGHT",
-      "Price": "\u00a39.97",
-      "Percent Sold": "65%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "APPLE AIRPODS PRO - HEART RATE & TRANSLATE",
-      "Price": "\u00a30.02",
-      "Percent Sold": "68%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "APPLE MACBOOK NEO 13\" (2026) - A18 PRO, 256 GB SSD, INDIGO",
-      "Price": "\u00a32.47",
-      "Percent Sold": "70%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "ARAI RX-7V EVO + POD BAG - 20 X HELMET CHOICES",
-      "Price": "\u00a32.97",
-      "Percent Sold": "61%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "ASUS VIVOBOOK GO 15 E1504FA 15.6\" R5 8G 512GB LAPTOP - SILVER",
-      "Price": "\u00a35.97",
-      "Percent Sold": "40%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "BRAND NEW NINTENDO SWITCH 2 ULTIMATE BUNDLE",
-      "Price": "\u00a33.97",
-      "Percent Sold": "45%",
+      "Price": "\u00a30.01",
+      "Percent Sold": "21%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -549,15 +469,7 @@
       "Source": "Rev Comps",
       "Product": "BRAND NEW TAG HEUER AQUARACER PROFESSIONAL DATE 300",
       "Price": "\u00a33.47",
-      "Percent Sold": "10%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "BRAND NEW YETI ROADIE 32 WHEELED COOL BOX 4 X COLOUR CHOICES",
-      "Price": "\u00a33.47",
-      "Percent Sold": "52%",
+      "Percent Sold": "19%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -565,23 +477,7 @@
       "Source": "Rev Comps",
       "Product": "BREITLING ENDURANCE PRO 44MM ORANGE",
       "Price": "\u00a33.97",
-      "Percent Sold": "13%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "DJI OSMO POCKET 3 CREATOR COMBO 4K ULTRA HD ACTION CAMERA",
-      "Price": "\u00a34.97",
-      "Percent Sold": "53%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "DYSON V16 PISTON ANIMAL DS60 CORDLESS VACUUM CLEANER",
-      "Price": "\u00a30.04",
-      "Percent Sold": "28%",
+      "Percent Sold": "23%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -589,39 +485,7 @@
       "Source": "Rev Comps",
       "Product": "FENDI PEEKABOO I SEE U EMBROIDERED DESIGNER HANDBAG",
       "Price": "\u00a36.97",
-      "Percent Sold": "16%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "GARMIN FENIX 8 AMOLED SMART WATCH 51 MM",
-      "Price": "\u00a34.47",
-      "Percent Sold": "66%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "GMT MASTER II 'BATMAN' ROLEX STYLE WALL CLOCK",
-      "Price": "\u00a32.97",
-      "Percent Sold": "73%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "IPHONE 17 PRO MAX 256GB",
-      "Price": "\u00a33.47",
-      "Percent Sold": "64%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "KAMADO JOE CLASSIC JOE CERAMIC BBQ + COVER",
-      "Price": "\u00a34.97",
-      "Percent Sold": "33%",
+      "Percent Sold": "22%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -629,23 +493,7 @@
       "Source": "Rev Comps",
       "Product": "MEGA BRAND NEW JELLYCAT PLUSH TEDDY BUNDLE",
       "Price": "\u00a30.99",
-      "Percent Sold": "35%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "MEGA MILWAUKEE POWER TOOL BUNDLE",
-      "Price": "\u00a35.97",
-      "Percent Sold": "58%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "NEW 2026 OMEGA SEAMASTER DIVER JAMES BOND 60TH ANNIVERSARY BLUE DIAL",
-      "Price": "\u00a34.47",
-      "Percent Sold": "38%",
+      "Percent Sold": "56%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -653,31 +501,7 @@
       "Source": "Rev Comps",
       "Product": "NEW 2026 ROLEX 41MM SUBMARINER DATE OR \u00a39,000",
       "Price": "\u00a35.97",
-      "Percent Sold": "11%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "NEW 2026 ROLEX GMT MASTER II BATGIRL OR \u00a312,000",
-      "Price": "\u00a33.97",
-      "Percent Sold": "52%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "NEW APPLE WATCH ULTRA 3 GPS + CELLULAR",
-      "Price": "\u00a34.97",
-      "Percent Sold": "45%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "PIT BOSS 4 BURNER ULTIMATE SMASH GRIDDLE PLANCHA + COVER",
-      "Price": "\u00a33.97",
-      "Percent Sold": "75%",
+      "Percent Sold": "20%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -685,15 +509,7 @@
       "Source": "Rev Comps",
       "Product": "PSA 10 GENGAR & MIMIKYU GX TEAM UP TAG TEAM SHOWCASE POKEMON",
       "Price": "\u00a33.97",
-      "Percent Sold": "11%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "PSA 10 KANTO STARTER ILLUSTRATION RARE 3 CARD POKEMON COLLECTION",
-      "Price": "\u00a32.97",
-      "Percent Sold": "37%",
+      "Percent Sold": "14%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -701,7 +517,7 @@
       "Source": "Rev Comps",
       "Product": "PSA 10 SUN & MOON GX SECRET RARE RAINBOW SET POKEMON",
       "Price": "\u00a34.97",
-      "Percent Sold": "11%",
+      "Percent Sold": "15%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -709,31 +525,7 @@
       "Source": "Rev Comps",
       "Product": "ROLEX SUBMARINER BLUESY STYLE WALL CLOCK",
       "Price": "\u00a32.97",
-      "Percent Sold": "30%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "SAMSUNG GALAXY S26 ULTRA - WINNERS CHOICE OF COLOUR",
-      "Price": "\u00a34.97",
-      "Percent Sold": "61%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "SAMSUNG QN70F 55\" NEO QLED 4K MINI LED VISION AI SMART TV",
-      "Price": "\u00a31.97",
-      "Percent Sold": "70%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "SONY BRAVIA 32\" SMART HD READY HDR LED TV",
-      "Price": "\u00a33.47",
-      "Percent Sold": "49%",
+      "Percent Sold": "48%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -741,7 +533,7 @@
       "Source": "Rev Comps",
       "Product": "THE ULTIMATE HARTMAN CRUCIBLE 2026 OUTDOOR GAMES TABLE & DINING SET",
       "Price": "\u00a33.47",
-      "Percent Sold": "32%",
+      "Percent Sold": "42%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -749,23 +541,7 @@
       "Source": "Rev Comps",
       "Product": "ULTIMATE POK\u00c9MON TCG MEGA SEALED COLLECTION BUNDLE \u2013 PREMIUM BOXES, BOOSTERS, ETBS, TINS & MORE",
       "Price": "\u00a34.97",
-      "Percent Sold": "23%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "XBOX SERIES X 1TB CONSOLE",
-      "Price": "\u00a30.01",
-      "Percent Sold": "76%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "\u00a32500 TUI HOLIDAY VOUCHER",
-      "Price": "\u00a320.00",
-      "Percent Sold": "77%",
+      "Percent Sold": "31%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
