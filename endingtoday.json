@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T17:43:10",
+  "updated_at": "2026-07-11T23:05:04",
   "entries": [
     {
       "Source": "7daysperformance",
@@ -88,30 +88,6 @@
       "Percent Sold": "",
       "Source URL": "https://www.apex66.co.uk/competitions/",
       "URL": "https://www.apex66.co.uk/competition/credit-ticket-bundles/win-300-site-credit-21/"
-    },
-    {
-      "Source": "Caledoniacompetitions",
-      "Product": "Beach Bingo",
-      "Price": "\u00a30.35",
-      "Percent Sold": "51%",
-      "Source URL": "https://caledoniacompetitions.co.uk/",
-      "URL": "https://caledoniacompetitions.co.uk/competition/beach-bingo"
-    },
-    {
-      "Source": "Caledoniacompetitions",
-      "Product": "Mystery Cone Hunt Instant Wins",
-      "Price": "\u00a30.35",
-      "Percent Sold": "8%",
-      "Source URL": "https://caledoniacompetitions.co.uk/",
-      "URL": "https://caledoniacompetitions.co.uk/competition/mystery-cone-hunt-instant-wins"
-    },
-    {
-      "Source": "Caledoniacompetitions",
-      "Product": "Win Ps500 Cash 9700",
-      "Price": "\u00a30.35",
-      "Percent Sold": "19%",
-      "Source URL": "https://caledoniacompetitions.co.uk/",
-      "URL": "https://caledoniacompetitions.co.uk/competition/win-ps500-cash-9700"
     },
     {
       "Source": "Dream Cars",
@@ -325,7 +301,7 @@
       "Source": "Rev Comps",
       "Product": "1991 SUZUKI RGV 250 MOTOGP RACE REP",
       "Price": "\u00a39.97",
-      "Percent Sold": "30%",
+      "Percent Sold": "49%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -333,15 +309,7 @@
       "Source": "Rev Comps",
       "Product": "2 X ASCENDED HEROES PREMIUM POSTER COLLECTIONS \u2013 MEGA GARDEVOIR & LUCARIO",
       "Price": "\u00a33.47",
-      "Percent Sold": "55%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "2 X YETI HONDO PREMIUM RECLINING BEACH CHAIRS \u2013 NAVY",
-      "Price": "\u00a31.97",
-      "Percent Sold": "91%",
+      "Percent Sold": "95%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -349,15 +317,7 @@
       "Source": "Rev Comps",
       "Product": "2019 FORD FOCUS ST PERFORMANCE + \u00a32000",
       "Price": "\u00a38.97",
-      "Percent Sold": "61%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "5 X NEW SEALED POK\u00c9MON CHAOS RISING ELITE TRAINER BOXES",
-      "Price": "\u00a32.47",
-      "Percent Sold": "59%",
+      "Percent Sold": "78%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -365,7 +325,7 @@
       "Source": "Rev Comps",
       "Product": "5 X POK\u00c9MON PRISMATIC EVOLUTIONS ELITE TRAINER BOXES \u2013 BRAND NEW SEALED",
       "Price": "\u00a31.97",
-      "Percent Sold": "53%",
+      "Percent Sold": "78%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -373,7 +333,7 @@
       "Source": "Rev Comps",
       "Product": "ACE 10 MEW EX PALDEAN FATES SPECIAL ILLUSTRATION RARE",
       "Price": "\u00a30.99",
-      "Percent Sold": "51%",
+      "Percent Sold": "71%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -381,39 +341,7 @@
       "Source": "Rev Comps",
       "Product": "APPLE 13\" IPAD AIR M4 (2026) 256GB 13\" LIQUID RETINA DISPLAY",
       "Price": "\u00a34.97",
-      "Percent Sold": "59%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "BRAND NEW TAG HEUER FORMULA 1 43MM YELLOW QUARTZ CHRONOGRAPH 200M",
-      "Price": "\u00a312.97",
-      "Percent Sold": "89%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "CANON EOS 2000D DSLR CAMERA & 18-55 MM LENS",
-      "Price": "\u00a32.67",
-      "Percent Sold": "74%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "DJI OSMO POCKET 4 CREATOR COMBO",
-      "Price": "\u00a32.27",
-      "Percent Sold": "86%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "LG QNED82 75\" QNED AI 4K HDR SMART TV",
-      "Price": "\u00a34.97",
-      "Percent Sold": "96%",
+      "Percent Sold": "99%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -421,31 +349,7 @@
       "Source": "Rev Comps",
       "Product": "MEGA BRAND NEW & SEALED POK\u00c9MON CENTER ETB + MORE COLLECTION",
       "Price": "\u00a30.99",
-      "Percent Sold": "30%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "MEGA DEWALT DIY POWER TOOL BUNDLE",
-      "Price": "\u00a32.97",
-      "Percent Sold": "96%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "MONOLITH JUNIOR PRO-SERIES 2.0 KAMADO CART & COVER BUNDLE",
-      "Price": "\u00a34.97",
-      "Percent Sold": "49%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "NEW 2025 ROLEX DEEPSEA 44MM OR \u00a310,000 - LOW ODDS",
-      "Price": "\u00a3154.97",
-      "Percent Sold": "59%",
+      "Percent Sold": "53%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -453,23 +357,7 @@
       "Source": "Rev Comps",
       "Product": "NEW 2026 ROLEX COSMOGRAPH DAYTONA 40MM YELLOW ROLESOR OR \u00a316,000",
       "Price": "\u00a33.47",
-      "Percent Sold": "49%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "SWATCH X OMEGA SATURN",
-      "Price": "\u00a32.47",
-      "Percent Sold": "59%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "SWATCH X OMEGA SNOOPY MOONPHASE BLACK",
-      "Price": "\u00a34.47",
-      "Percent Sold": "77%",
+      "Percent Sold": "73%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
