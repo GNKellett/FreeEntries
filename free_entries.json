@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T12:43:29",
+  "updated_at": "2026-07-12T13:17:51",
   "entries": [
     {
       "Product": "LEARN TO PLAY LIVE: FREE VIDEO SERIES",
@@ -529,7 +529,7 @@
       "Tickets Sold": "",
       "Max Tickets": "",
       "Percent Sold": "",
-      "End Time": "12:23",
+      "End Time": "23:20",
       "Source": "Competitionsisters",
       "Template": "competitionsisters.docx",
       "QuestionField": false,
@@ -1672,7 +1672,7 @@
       "Tickets Sold": 16,
       "Max Tickets": 2900,
       "Percent Sold": 0.55,
-      "End Time": "00:22",
+      "End Time": "11:19",
       "Source": "Cotswoldcompetitions",
       "Template": "cotswoldcompetitions.docx",
       "QuestionField": false,
@@ -1804,6 +1804,27 @@
       "QuestionField": false,
       "send_to_printer": 5,
       "_free_key": "thedartsdraw|\ud83c\udfaf free entry \u00b7 win a scolia home 2 complete system|https://www.thedartsdraw.co.uk/raffles/free-entry-win-a-scolia-home-2-complete-system-877236ba-5982-4f22-a61f-b0f3afa15eb9",
+      "entered": false,
+      "entered_at": ""
+    },
+    {
+      "Product": "Free \u00a3250 Cash",
+      "Product Info": "FREE CASH Free \u00a3250 Cash FREE 14.7 % SOLD 735 / 5K 0 Days 19 Hrs 08 Min 30 Sec - + Play Now Adding... Added! \u2713",
+      "Badge Price": "\u00a30.00",
+      "URL": "https://spinsnwins.co.uk/competition/free-ps250-cash-7205",
+      "Draw Date": "2026-07-13",
+      "Days Left": 1,
+      "Date Status": "",
+      "Print Count": 1,
+      "Tickets Sold": 735,
+      "Max Tickets": 5000,
+      "Percent Sold": 14.7,
+      "End Time": "",
+      "Source": "SpinsnWins",
+      "Template": "spinsnwins.docx",
+      "QuestionField": false,
+      "send_to_printer": 5,
+      "_free_key": "spinsnwins|free \u00a3250 cash|https://spinsnwins.co.uk/competition/free-ps250-cash-7205",
       "entered": false,
       "entered_at": ""
     }
