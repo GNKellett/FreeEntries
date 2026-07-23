@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T20:37:02",
+  "updated_at": "2026-07-23T20:43:56",
   "entries": [
     {
       "Product": "LEARN TO PLAY LIVE: FREE VIDEO SERIES",
@@ -1119,6 +1119,27 @@
       "QuestionField": false,
       "send_to_printer": 5,
       "_free_key": "titanprizes|titan's cash call - free to enter|https://titanprizes.com/product/titans-cash-call-free-to-enter-32/",
+      "entered": false,
+      "entered_at": ""
+    },
+    {
+      "Product": "Free Ride",
+      "Product Info": "Free Ride \u00a30.00 / per entry Days 8 Hours 00 Mins 18 Secs 16 3202 tickets sold 107909 remaining View competition \u2192",
+      "Badge Price": "\u00a30.00",
+      "URL": "https://carsino.uk/competition/free-ride",
+      "Draw Date": "2026-08-01",
+      "Days Left": 9,
+      "Date Status": "",
+      "Print Count": 1,
+      "Tickets Sold": 3202,
+      "Max Tickets": 111111,
+      "Percent Sold": 2.88,
+      "End Time": "04:43",
+      "Source": "Carsino",
+      "Template": "carsino.docx",
+      "QuestionField": false,
+      "send_to_printer": 5,
+      "_free_key": "carsino|free ride|https://carsino.uk/competition/free-ride",
       "entered": false,
       "entered_at": ""
     }
