@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T17:57:08",
+  "updated_at": "2026-10-30T18:15:41",
   "entries": [
     {
       "Product": "\ud83c\udf34 FREE COMMUNITY HOLIDAY - JOIN OUR COMMUNITY TO ENTER (UNLOCKED ONCE WE HIT 3.5K MEMBERS)",
@@ -197,7 +197,7 @@
       "Tickets Sold": "",
       "Max Tickets": "",
       "Percent Sold": "",
-      "End Time": "22:01",
+      "End Time": "03:15",
       "Source": "Golfstarcompetitions",
       "Template": "golfstarcompetitions.docx",
       "QuestionField": false,
@@ -611,7 +611,7 @@
       "Tickets Sold": 429,
       "Max Tickets": 750,
       "Percent Sold": 57.0,
-      "End Time": "22:30",
+      "End Time": "03:44",
       "Source": "Hobbycomps",
       "Template": "hobbycomps.docx",
       "QuestionField": false,
@@ -821,7 +821,7 @@
       "Tickets Sold": 228,
       "Max Tickets": 500,
       "Percent Sold": 46.0,
-      "End Time": "23:32",
+      "End Time": "04:46",
       "Source": "Fairwaycompetitions",
       "Template": "fairwaycompetitions.docx",
       "QuestionField": false,
@@ -842,7 +842,7 @@
       "Tickets Sold": 3,
       "Max Tickets": 299,
       "Percent Sold": 1.0,
-      "End Time": "23:03",
+      "End Time": "04:17",
       "Source": "Daydreamdraws",
       "Template": "daydreamdraws.docx",
       "QuestionField": false,
