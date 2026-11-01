@@ -1,427 +1,227 @@
 {
-  "updated_at": "2026-10-31T22:43:50",
+  "updated_at": "2026-11-01T17:12:02",
   "entries": [
     {
-      "Source": "Airsoft Comps",
-      "Product": "Operation Pumpkin: \u00a3300 Cash + 40 Instant Wins",
-      "Price": "\u00a30.99",
-      "Percent Sold": "39%",
-      "Source URL": "https://airsoftcompetitions.com/competitions/",
-      "URL": "https://airsoftcompetitions.com/competition/%f0%9f%8e%83-operation-pumpkin-300-cash-40-instant-wins/"
-    },
-    {
-      "Source": "Airsoft Comps",
-      "Product": "REBEL: Build a \u00a3100 BB Bundle #31",
-      "Price": "\u00a30.99",
-      "Percent Sold": "20%",
-      "Source URL": "https://airsoftcompetitions.com/competitions/",
-      "URL": "https://airsoftcompetitions.com/competition/rebel-build-a-100-bb-bundle-31/"
-    },
-    {
-      "Source": "Airsoft Comps",
-      "Product": "TM: SOCOM MK23 #25",
-      "Price": "\u00a30.99",
-      "Percent Sold": "33%",
-      "Source URL": "https://airsoftcompetitions.com/competitions/",
-      "URL": "https://airsoftcompetitions.com/competition/tm-socom-mk23-25/"
-    },
-    {
-      "Source": "Airsoft Comps",
-      "Product": "Tokyo Marui: Auto Loader #3",
-      "Price": "\u00a30.99",
-      "Percent Sold": "34%",
-      "Source URL": "https://airsoftcompetitions.com/competitions/",
-      "URL": "https://airsoftcompetitions.com/competition/tokyo-marui-auto-loader-3/"
-    },
-    {
-      "Source": "Airsoft Comps",
-      "Product": "Tokyo Marui: MP7A1 GBB #3",
-      "Price": "\u00a30.99",
-      "Percent Sold": "22%",
-      "Source URL": "https://airsoftcompetitions.com/competitions/",
-      "URL": "https://airsoftcompetitions.com/competition/tokyo-marui-mp7a1-gbb-3/"
+      "Source": "Brickprizedraws",
+      "Product": "Lego Star Trek Uss Enterprise Bundle 1",
+      "Price": "\u00a35",
+      "Percent Sold": "",
+      "Source URL": "https://brickprizedraws.com/",
+      "URL": "https://brickprizedraws.com/products/win-a-lego-star-trek-uss-enterprise-bundle-1"
     },
     {
       "Source": "Bullpencompetitions",
-      "Product": "BACCARAT ROUGE 540 EAU DE PARFUM 70ML",
-      "Price": "\u00a37.81",
-      "Percent Sold": "4%",
+      "Product": "APPLE AIRPODS PRO 3",
+      "Price": "\u00a31.95",
+      "Percent Sold": "29.2%",
       "Source URL": "https://bullpencompetitions.com/",
-      "URL": "https://bullpencompetitions.com/comp?id=comp_fb7da9a2"
+      "URL": "https://bullpencompetitions.com/comp?id=comp_e4b79e85"
     },
     {
       "Source": "Bullpencompetitions",
-      "Product": "BENEFIT HOTEL BENEVILLE BEAUTY ADVENT CALENDAR",
-      "Price": "\u00a34.49",
+      "Product": "APPLE IPHONE 18 PRO 256GB",
+      "Price": "\u00a310.38",
       "Percent Sold": "8%",
       "Source URL": "https://bullpencompetitions.com/",
-      "URL": "https://bullpencompetitions.com/comp?id=comp_ca29f6ee"
+      "URL": "https://bullpencompetitions.com/comp?id=comp_ae932b2d"
     },
     {
       "Source": "Bullpencompetitions",
-      "Product": "DRY:SOON DELUXE 3-TIER HEATED AIRER + COVER",
-      "Price": "\u00a37.24",
-      "Percent Sold": "6.67%",
-      "Source URL": "https://bullpencompetitions.com/",
-      "URL": "https://bullpencompetitions.com/comp?id=comp_2a61986b"
-    },
-    {
-      "Source": "Bullpencompetitions",
-      "Product": "GREMLINS GIZMO BUILDING SET",
-      "Price": "\u00a32.79",
-      "Percent Sold": "9.33%",
-      "Source URL": "https://bullpencompetitions.com/",
-      "URL": "https://bullpencompetitions.com/comp?id=comp_61e7ec92"
-    },
-    {
-      "Source": "Bullpencompetitions",
-      "Product": "NEXTBASE 622GW 4K DASH CAM + REAR CAMERA",
-      "Price": "\u00a310.53",
-      "Percent Sold": "10.67%",
-      "Source URL": "https://bullpencompetitions.com/",
-      "URL": "https://bullpencompetitions.com/comp?id=comp_16e6282a"
-    },
-    {
-      "Source": "Bullpencompetitions",
-      "Product": "NINJA COMBI 12-IN-1 MULTI-COOKER",
-      "Price": "\u00a38.67",
+      "Product": "ASUS ROG XBOX ALLY X 1TB",
+      "Price": "\u00a37.80",
       "Percent Sold": "4%",
       "Source URL": "https://bullpencompetitions.com/",
-      "URL": "https://bullpencompetitions.com/comp?id=comp_335bfd2b"
+      "URL": "https://bullpencompetitions.com/comp?id=comp_9166c995"
     },
     {
       "Source": "Bullpencompetitions",
-      "Product": "OONI KODA 12 GAS PIZZA OVEN + PIZZA PEEL",
-      "Price": "\u00a39.93",
-      "Percent Sold": "9.33%",
-      "Source URL": "https://bullpencompetitions.com/",
-      "URL": "https://bullpencompetitions.com/comp?id=comp_f33643a6"
-    },
-    {
-      "Source": "Bullpencompetitions",
-      "Product": "PLAYSTATION PORTAL REMOTE PLAYER",
-      "Price": "\u00a36.52",
-      "Percent Sold": "9.33%",
-      "Source URL": "https://bullpencompetitions.com/",
-      "URL": "https://bullpencompetitions.com/comp?id=comp_cf380555"
-    },
-    {
-      "Source": "Bullpencompetitions",
-      "Product": "RING BATTERY VIDEO DOORBELL PRO 4K + CHIME",
-      "Price": "\u00a37.38",
-      "Percent Sold": "2.67%",
-      "Source URL": "https://bullpencompetitions.com/",
-      "URL": "https://bullpencompetitions.com/comp?id=comp_3c9b95b6"
-    },
-    {
-      "Source": "Bullpencompetitions",
-      "Product": "THE NIGHTMARE BEFORE CHRISTMAS BUILDING SET",
-      "Price": "\u00a35.09",
-      "Percent Sold": "6.67%",
-      "Source URL": "https://bullpencompetitions.com/",
-      "URL": "https://bullpencompetitions.com/comp?id=comp_8696b56c"
-    },
-    {
-      "Source": "Carpgeargiveaways",
-      "Product": "2 NIGHTS ON LINEAR FISHERIES",
+      "Product": "BULLY'S BONFIRE BANGERS",
       "Price": "\u00a30.99",
-      "Percent Sold": "47.3%",
-      "Source URL": "https://www.carpgeargiveaways.co.uk/",
-      "URL": "https://carpgeargiveaways.co.uk/competition/2-nights-on-linear-fisheries"
+      "Percent Sold": "6.06%",
+      "Source URL": "https://bullpencompetitions.com/",
+      "URL": "https://bullpencompetitions.com/comp?id=comp_6398704a"
     },
     {
-      "Source": "Carpgeargiveaways",
-      "Product": "50/50 CHANCE OF WINNING TRICK OR TREAT - PLUS END DRAW",
-      "Price": "\u00a39.99",
-      "Percent Sold": "3.2%",
-      "Source URL": "https://www.carpgeargiveaways.co.uk/",
-      "URL": "https://carpgeargiveaways.co.uk/competition/5050-chance-of-winning-trick-or-treat-plus-end-draw"
+      "Source": "Bullpencompetitions",
+      "Product": "BULLY'S UNLUCKY 13",
+      "Price": "\u00a30.79",
+      "Percent Sold": "20%",
+      "Source URL": "https://bullpencompetitions.com/",
+      "URL": "https://bullpencompetitions.com/comp?id=comp_f33c2753"
     },
     {
-      "Source": "Carpgeargiveaways",
-      "Product": "95 ENTRIES ONLY - 3x KORDA SPINNER RIG PACKS",
-      "Price": "\u00a30.37",
-      "Percent Sold": "61.1%",
-      "Source URL": "https://www.carpgeargiveaways.co.uk/",
-      "URL": "https://carpgeargiveaways.co.uk/competition/95-entries-only-3x-korda-spinner-rig-packs-4"
+      "Source": "Bullpencompetitions",
+      "Product": "DYSON V15 DETECT ABSOLUTE CORDLESS VACUUM",
+      "Price": "\u00a35.65",
+      "Percent Sold": "11.6%",
+      "Source URL": "https://bullpencompetitions.com/",
+      "URL": "https://bullpencompetitions.com/comp?id=comp_ecd006fd"
     },
     {
-      "Source": "Carpgeargiveaways",
-      "Product": "95 ENTRIES ONLY - SOLAR SP 3D DORA DORE BEDCHAIR",
-      "Price": "\u00a36.31",
-      "Percent Sold": "6.3%",
-      "Source URL": "https://www.carpgeargiveaways.co.uk/",
-      "URL": "https://carpgeargiveaways.co.uk/competition/95-entries-only-solar-sp-3d-dora-dore-bedchair-4"
+      "Source": "Bullpencompetitions",
+      "Product": "FIVE BUILDING SET ADVENT CALENDARS BUNDLE",
+      "Price": "\u00a31.76",
+      "Percent Sold": "25.14%",
+      "Source URL": "https://bullpencompetitions.com/",
+      "URL": "https://bullpencompetitions.com/comp?id=comp_769f4257"
+    },
+    {
+      "Source": "Bullpencompetitions",
+      "Product": "HORNBY THE SCOTSMAN TT:120 TRAIN SET",
+      "Price": "\u00a32.21",
+      "Percent Sold": "8.4%",
+      "Source URL": "https://bullpencompetitions.com/",
+      "URL": "https://bullpencompetitions.com/comp?id=comp_96fc2231"
+    },
+    {
+      "Source": "Bullpencompetitions",
+      "Product": "LORD OF THE RINGS: THE SHIRE BUILDING SET",
+      "Price": "\u00a32.04",
+      "Percent Sold": "8.8%",
+      "Source URL": "https://bullpencompetitions.com/",
+      "URL": "https://bullpencompetitions.com/comp?id=comp_8fe4b47c"
+    },
+    {
+      "Source": "Bullpencompetitions",
+      "Product": "M&S THE GRAND COLLECTION CHRISTMAS HAMPER",
+      "Price": "\u00a32.55",
+      "Percent Sold": "22.86%",
+      "Source URL": "https://bullpencompetitions.com/",
+      "URL": "https://bullpencompetitions.com/comp?id=comp_a1674ab7"
+    },
+    {
+      "Source": "Bullpencompetitions",
+      "Product": "NINTENDO SOUND CLOCK: ALARMO",
+      "Price": "\u00a31.20",
+      "Percent Sold": "17.14%",
+      "Source URL": "https://bullpencompetitions.com/",
+      "URL": "https://bullpencompetitions.com/comp?id=comp_120f5a5e"
+    },
+    {
+      "Source": "Bullpencompetitions",
+      "Product": "SOMERSET CIDER BRANDY 4-BOTTLE COLLECTION",
+      "Price": "\u00a32.19",
+      "Percent Sold": "5.6%",
+      "Source URL": "https://bullpencompetitions.com/",
+      "URL": "https://bullpencompetitions.com/comp?id=comp_97fc5b59"
     },
     {
       "Source": "Carpgeargiveaways",
       "Product": "BIG HITTER DREAM PRIZE SCRATCH CARDS - WIN A WILDTRAX INSTANTLY! \u00a32,000 END DRAW",
       "Price": "\u00a33.98",
-      "Percent Sold": "3.2%",
+      "Percent Sold": "3.5%",
       "Source URL": "https://www.carpgeargiveaways.co.uk/",
       "URL": "https://carpgeargiveaways.co.uk/competition/big-hitter-dream-prize-scratch-cards-win-a-wildtrax-instantly-ps2000-end"
     },
     {
-      "Source": "Carpgeargiveaways",
-      "Product": "FREE CUSTOM DOBBINS BOBBINS BANK WARE TO \u00a3400 - SPEND \u00a34.98 ON COMPS & GET CUSTOM BOBBINS WITH IT)",
-      "Price": "\u00a30.00",
-      "Percent Sold": "29.8%",
-      "Source URL": "https://www.carpgeargiveaways.co.uk/",
-      "URL": "https://carpgeargiveaways.co.uk/competition/free-custom-dobbins-bobbins-bank-ware-to-ps400-spend-ps498-on-comps-get"
+      "Source": "Classy Comps",
+      "Product": "MoonSwatch Mission to Mars",
+      "Price": "\u00a310.00",
+      "Percent Sold": "53%",
+      "Source URL": "https://classycompetitions.co.uk/",
+      "URL": "https://classycompetitions.co.uk/competition/moonswatch-mission-to-mars"
     },
     {
-      "Source": "Carpgeargiveaways",
-      "Product": "NEW GAME - CARPY PLINKO 15000 PRIZES PLUS \u00a3500 END DRAW",
-      "Price": "\u00a30.99",
-      "Percent Sold": "1%",
-      "Source URL": "https://www.carpgeargiveaways.co.uk/",
-      "URL": "https://carpgeargiveaways.co.uk/competition/new-game-carpy-plinko-15000-prizes-plus-ps500-end-draw"
-    },
-    {
-      "Source": "Carpgeargiveaways",
-      "Product": "ONE PENNY 3x FOX RX+ PRESENTATION SET",
-      "Price": "\u00a30.01",
-      "Percent Sold": "15.2%",
-      "Source URL": "https://www.carpgeargiveaways.co.uk/",
-      "URL": "https://carpgeargiveaways.co.uk/competition/3x-fox-rx-or-ps450pres"
-    },
-    {
-      "Source": "Carpgeargiveaways",
-      "Product": "ONE PENNY JACKERY 500 V2 WITH PANELS",
-      "Price": "\u00a30.01",
-      "Percent Sold": "15.7%",
-      "Source URL": "https://www.carpgeargiveaways.co.uk/",
-      "URL": "https://carpgeargiveaways.co.uk/competition/one-penny-jackery-500-v2-with-panels"
-    },
-    {
-      "Source": "Click",
-      "Product": "GRAB A GRAND - \u00a3100,000 TO BE WON INSTANTLY!",
-      "Price": "\u00a30.99",
-      "Percent Sold": "14%",
-      "Source URL": "https://www.clickcompetitions.co.uk/",
-      "URL": "https://www.clickcompetitions.co.uk/"
-    },
-    {
-      "Source": "Click",
-      "Product": "Haunted Riches *PRIZE EVERY TIME*",
+      "Source": "Classy Comps",
+      "Product": "Odds Booster 3 Omega Planet Ocean WIN 20 TICKETS",
       "Price": "\u00a32.00",
-      "Percent Sold": "48%",
-      "Source URL": "https://www.clickcompetitions.co.uk/",
-      "URL": "https://www.clickcompetitions.co.uk/"
+      "Percent Sold": "84%",
+      "Source URL": "https://classycompetitions.co.uk/",
+      "URL": "https://classycompetitions.co.uk/competition/odds-booster-3-omega-planet-ocean-win-20-tickets"
     },
     {
-      "Source": "Click",
-      "Product": "October Mega Wins Instant Win + \u00a32,500 END PRIZE!",
-      "Price": "\u00a30.20",
-      "Percent Sold": "39%",
-      "Source URL": "https://www.clickcompetitions.co.uk/",
-      "URL": "https://www.clickcompetitions.co.uk/"
+      "Source": "Classy Comps",
+      "Product": "Omega Seamaster Planet Ocean 600M Chronograph",
+      "Price": "\u00a320.00",
+      "Percent Sold": "34.2%",
+      "Source URL": "https://classycompetitions.co.uk/",
+      "URL": "https://classycompetitions.co.uk/competition/omega-seamaster-planet-ocean-600m-chronograph"
     },
     {
-      "Source": "Click",
-      "Product": "Treasure Island *Prize Every Time*",
-      "Price": "\u00a32.00",
-      "Percent Sold": "35%",
-      "Source URL": "https://www.clickcompetitions.co.uk/",
-      "URL": "https://www.clickcompetitions.co.uk/"
+      "Source": "Comp City",
+      "Product": "\u00a3333 TAX FREE CASH FOR 3P #2",
+      "Price": "\u00a30.03",
+      "Percent Sold": "",
+      "Source URL": "https://comp-city.co.uk/",
+      "URL": "https://compcitygiveaways.co.uk/competitions/333-tax-free-cash-for-3p-2"
     },
     {
-      "Source": "Click",
-      "Product": "Win 1,500 Tickets into the Audi RS3 Vorsprung TFSI Quattro + \u00a31,000 Cash Competition!",
+      "Source": "Daydreamdraws",
+      "Product": "COACH TABBY 26 + CASH INSTANT WINS",
       "Price": "\u00a30.49",
-      "Percent Sold": "20%",
-      "Source URL": "https://www.clickcompetitions.co.uk/",
-      "URL": "https://www.clickcompetitions.co.uk/"
+      "Percent Sold": "26%",
+      "Source URL": "https://www.daydreamdraws.co.uk/",
+      "URL": "https://daydreamdraws.co.uk/competition/coach-tabby-26-cash-instant-wins"
     },
     {
-      "Source": "Click",
-      "Product": "Win These Apple AirPods Max 2!",
-      "Price": "\u00a30.13",
-      "Percent Sold": "28%",
-      "Source URL": "https://www.clickcompetitions.co.uk/",
-      "URL": "https://www.clickcompetitions.co.uk/"
+      "Source": "Daydreamdraws",
+      "Product": "FREE HOTEL CHOCOLAT ADVENT WORTH \u00a380",
+      "Price": "\u00a30.00",
+      "Percent Sold": "9.7%",
+      "Source URL": "https://www.daydreamdraws.co.uk/",
+      "URL": "https://daydreamdraws.co.uk/competition/free-hotel-chocolat-advent-worth-ps80"
     },
     {
-      "Source": "Click",
-      "Product": "Win This 10G Gold Bar! *LOW ODDS*",
-      "Price": "\u00a33.99",
-      "Percent Sold": "25%",
-      "Source URL": "https://www.clickcompetitions.co.uk/",
-      "URL": "https://www.clickcompetitions.co.uk/"
+      "Source": "Daydreamdraws",
+      "Product": "JELLYCAT X HARRODS EXCLUSIVE BART BEAR",
+      "Price": "\u00a30.99",
+      "Percent Sold": "30.7%",
+      "Source URL": "https://www.daydreamdraws.co.uk/",
+      "URL": "https://daydreamdraws.co.uk/competition/jellycat-x-harrods-exclusive-bart-bear"
     },
     {
-      "Source": "Click",
-      "Product": "Win This Apple Watch Series 12!",
+      "Source": "Daydreamdraws",
+      "Product": "NEEDOH VIRAL SOLD OUT PINK SUPER FUZZ BALL",
+      "Price": "\u00a30.50",
+      "Percent Sold": "22.6%",
+      "Source URL": "https://www.daydreamdraws.co.uk/",
+      "URL": "https://daydreamdraws.co.uk/competition/needoh-viral-sold-out-pink-super-fuzz-ball"
+    },
+    {
+      "Source": "Daydreamdraws",
+      "Product": "VIRAL NEEDOH POWER TOWER INSTANT WINS",
       "Price": "\u00a30.09",
-      "Percent Sold": "42%",
-      "Source URL": "https://www.clickcompetitions.co.uk/",
-      "URL": "https://www.clickcompetitions.co.uk/"
+      "Percent Sold": "56.8%",
+      "Source URL": "https://www.daydreamdraws.co.uk/",
+      "URL": "https://daydreamdraws.co.uk/competition/viral-needoh-power-tower-instant-wins"
     },
     {
-      "Source": "Click",
-      "Product": "Win This Audi RS3 Vorsprung TFSI Quattro + \u00a31,000 Cash!",
-      "Price": "\u00a30.33",
-      "Percent Sold": "33%",
-      "Source URL": "https://www.clickcompetitions.co.uk/",
-      "URL": "https://www.clickcompetitions.co.uk/"
+      "Source": "Daydreamdraws",
+      "Product": "X4 SMYTHS VOUCHER WINNERS + 10 x \u00a3100 INSTANT WIN VOUCHERS",
+      "Price": "\u00a30.79",
+      "Percent Sold": "57.7%",
+      "Source URL": "https://www.daydreamdraws.co.uk/",
+      "URL": "https://daydreamdraws.co.uk/competition/x4-smyths-voucher-winners-10-x-ps100-instant-win-vouchers"
     },
     {
-      "Source": "Click",
-      "Product": "Win This MICROSOFT XBOX Series X - 1 TB!",
-      "Price": "\u00a30.12",
-      "Percent Sold": "31%",
-      "Source URL": "https://www.clickcompetitions.co.uk/",
-      "URL": "https://www.clickcompetitions.co.uk/"
+      "Source": "Gaminggiveaways",
+      "Product": "2026 LEGO Comp + Instant Wins #9",
+      "Price": "\u00a30.20",
+      "Percent Sold": "16%",
+      "Source URL": "https://www.gaminggiveaways.co.uk/",
+      "URL": "https://www.gaminggiveaways.co.uk/competition/2026-lego-comp-instant-wins-9/"
     },
     {
-      "Source": "Click",
-      "Product": "Win This TAG Heuer Formula 1 Chronograph!",
-      "Price": "\u00a30.04",
-      "Percent Sold": "14%",
-      "Source URL": "https://www.clickcompetitions.co.uk/",
-      "URL": "https://www.clickcompetitions.co.uk/"
-    },
-    {
-      "Source": "Click",
-      "Product": "Win \u00a31,000 Tax Free Cash For FREE! *NEW CUSTOMERS ONLY*",
-      "Price": "\u00a30.00",
-      "Percent Sold": "",
-      "Source URL": "https://www.clickcompetitions.co.uk/",
-      "URL": "https://www.clickcompetitions.co.uk/"
-    },
-    {
-      "Source": "Click",
-      "Product": "Win \u00a3100 Tax Free Cash *Daily Deal*",
-      "Price": "\u00a30.49",
-      "Percent Sold": "33%",
-      "Source URL": "https://www.clickcompetitions.co.uk/",
-      "URL": "https://www.clickcompetitions.co.uk/"
-    },
-    {
-      "Source": "Comp City",
-      "Product": "GRAVE DIGGER \u00a36K INSTANTS #2",
-      "Price": "\u00a32.00",
-      "Percent Sold": "",
-      "Source URL": "https://comp-city.co.uk/",
-      "URL": "https://compcitygiveaways.co.uk/competitions/grave-digger-6k-instants-2"
-    },
-    {
-      "Source": "Comp City",
-      "Product": "LEGO LOTR THE SHIRE #10354",
-      "Price": "\u00a30.60",
-      "Percent Sold": "",
-      "Source URL": "https://comp-city.co.uk/",
-      "URL": "https://compcitygiveaways.co.uk/competitions/lotr-lego-the-shire-10354"
-    },
-    {
-      "Source": "Comp City",
-      "Product": "SWITCH 2 MANIA INSTANTS #7 - 1 IN 32 CHANCE",
-      "Price": "\u00a30.08",
-      "Percent Sold": "",
-      "Source URL": "https://comp-city.co.uk/",
-      "URL": "https://compcitygiveaways.co.uk/competitions/switch-2-mania-instants-7"
-    },
-    {
-      "Source": "Competitions",
-      "Product": "200 Tickets for the Win your Dream Van Instant Win Comp",
-      "Price": "\u00a30.59",
-      "Percent Sold": "35%",
-      "Source URL": "https://competitions.online/",
-      "URL": "https://capitalcarpcompetitions.co.uk/competition/200-tickets-for-the-win-your-dream-van-instant-win-comp-16/"
-    },
-    {
-      "Source": "Competitions",
-      "Product": "2x Gardner GT80+ Super Fast Sinking Line of your Choice",
-      "Price": "\u00a30.02",
+      "Source": "Gaminggiveaways",
+      "Product": "Eevee Secretlab TITAN Evo #7",
+      "Price": "\u00a30.99",
       "Percent Sold": "60%",
-      "Source URL": "https://competitions.online/",
-      "URL": "https://capitalcarpcompetitions.co.uk/competition/2x-gardner-gt80-super-fast-sinking-line-of-your-choice/"
+      "Source URL": "https://www.gaminggiveaways.co.uk/",
+      "URL": "https://www.gaminggiveaways.co.uk/competition/eevee-secretlab-titan-evo-7/"
     },
     {
-      "Source": "Competitions",
-      "Product": "3x OMC Lock Gates Butt Rest",
-      "Price": "\u00a30.25",
-      "Percent Sold": "65%",
-      "Source URL": "https://competitions.online/",
-      "URL": "https://capitalcarpcompetitions.co.uk/competition/3x-omc-lock-gates-butt-rest/"
-    },
-    {
-      "Source": "Competitions",
-      "Product": "BRAND NEW Korda Stalking Bucket Hat \u2013 Choice of Colour",
-      "Price": "\u00a30.45",
-      "Percent Sold": "18%",
-      "Source URL": "https://competitions.online/",
-      "URL": "https://capitalcarpcompetitions.co.uk/competition/brand-new-korda-stalking-bucket-hat-choice-of-colour/"
-    },
-    {
-      "Source": "Competitions",
-      "Product": "Fox Frontier II Bivvy",
-      "Price": "\u00a30.01",
-      "Percent Sold": "31%",
-      "Source URL": "https://competitions.online/",
-      "URL": "https://capitalcarpcompetitions.co.uk/competition/fox-frontier-ii-bivvy-5/"
-    },
-    {
-      "Source": "Competitions",
-      "Product": "Korda Compac Organiser",
-      "Price": "\u00a30.29",
+      "Source": "Gaminggiveaways",
+      "Product": "\u00a3500 Tickets To The BMW M3 Comp + Instant Wins #8",
+      "Price": "\u00a30.10",
       "Percent Sold": "40%",
-      "Source URL": "https://competitions.online/",
-      "URL": "https://capitalcarpcompetitions.co.uk/competition/korda-compac-organiser/"
-    },
-    {
-      "Source": "Competitions",
-      "Product": "Kumu Make Your Own Luck Hoodie \u2013 Choice of Size",
-      "Price": "\u00a30.49",
-      "Percent Sold": "18%",
-      "Source URL": "https://competitions.online/",
-      "URL": "https://capitalcarpcompetitions.co.uk/competition/kumu-make-your-own-luck-hoodie-choice-of-size/"
-    },
-    {
-      "Source": "Competitions",
-      "Product": "OMC iScream Bait Bundle",
-      "Price": "\u00a30.01",
-      "Percent Sold": "42%",
-      "Source URL": "https://competitions.online/",
-      "URL": "https://capitalcarpcompetitions.co.uk/competition/omc-iscream-bait-bundle/"
-    },
-    {
-      "Source": "Competitions",
-      "Product": "Trakker NXC Camo Tackle Bag",
-      "Price": "\u00a30.35",
-      "Percent Sold": "32%",
-      "Source URL": "https://competitions.online/",
-      "URL": "https://capitalcarpcompetitions.co.uk/competition/trakker-nxc-camo-tackle-bag/"
-    },
-    {
-      "Source": "Fairwaycompetitions",
-      "Product": "WIN 1 Dozen Titleist Velocity GREEN Golf Balls 2026! \u2013 AUTO DRAW",
-      "Price": "\u00a30.19",
-      "Percent Sold": "21%",
-      "Source URL": "https://fairwaycompetitions.co.uk/",
-      "URL": "https://fairwaycompetitions.co.uk/competition/win-1-dozen-titleist-velocity-green-golf-balls-2026-auto-draw/"
-    },
-    {
-      "Source": "Fairwaycompetitions",
-      "Product": "WIN a GALVIN GREEN Tromb Golf Umbrella! \u2013 AUTO DRAW",
-      "Price": "\u00a30.05",
-      "Percent Sold": "2%",
-      "Source URL": "https://fairwaycompetitions.co.uk/",
-      "URL": "https://fairwaycompetitions.co.uk/competition/win-a-galvin-green-tromb-golf-umbrella-auto-draw/"
-    },
-    {
-      "Source": "Fairwaycompetitions",
-      "Product": "WIN a PURE2IMPROVE Golf Practice Net! \u2013 AUTO DRAW",
-      "Price": "\u00a30.59",
-      "Percent Sold": "10%",
-      "Source URL": "https://fairwaycompetitions.co.uk/",
-      "URL": "https://fairwaycompetitions.co.uk/competition/win-a-pure2improve-golf-practice-net-auto-draw/"
+      "Source URL": "https://www.gaminggiveaways.co.uk/",
+      "URL": "https://www.gaminggiveaways.co.uk/competition/500-tickets-to-the-bmw-m3-comp-instant-wins-8/"
     },
     {
       "Source": "Golfgeargiveaways",
       "Product": "EVERY TICKET WINS \u2013 SPIN TO REVEAL CASH COMP + AUTODRAW PRIZE",
       "Price": "\u00a32",
-      "Percent Sold": "12%",
+      "Percent Sold": "14%",
       "Source URL": "https://golfgeargiveaways.co.uk/",
       "URL": "https://golfgeargiveaways.co.uk/competition/every-ticket-wins-spin-to-reveal-cash-comp-autodraw-prize/"
     },
@@ -429,7 +229,7 @@
       "Source": "Golfgeargiveaways",
       "Product": "IRON INVASION INSTANT WIN OVER \u00a312K OF IRONS TO FIND + AUTODRAW PRIZE",
       "Price": "\u00a31",
-      "Percent Sold": "4%",
+      "Percent Sold": "6%",
       "Source URL": "https://golfgeargiveaways.co.uk/",
       "URL": "https://golfgeargiveaways.co.uk/competition/iron-invasion-instant-win-%f0%9f%a7%9f%e2%99%82%ef%b8%8f-over-12k-of-irons-to-find-%f0%9f%a7%9f%e2%99%82%ef%b8%8f-autodraw-prize-%f0%9f%a7%9f%e2%99%82%ef%b8%8f/"
     },
@@ -437,7 +237,7 @@
       "Source": "Golfgeargiveaways",
       "Product": "TERRIFYING TROLLEY INSTANT WIN OVER \u00a39K OF TROLLEYS AND MORE TO FIND + AUTODRAW PRIZE",
       "Price": "\u00a32",
-      "Percent Sold": "2%",
+      "Percent Sold": "3%",
       "Source URL": "https://golfgeargiveaways.co.uk/",
       "URL": "https://golfgeargiveaways.co.uk/competition/terrifying-trolley-instant-win-%f0%9f%91%bb-over-9k-of-trolleys-and-more-to-find-%f0%9f%91%bb-autodraw-prize-%f0%9f%91%bb/"
     },
@@ -458,496 +258,328 @@
       "URL": "https://golfgeargiveaways.co.uk/competition/the-spooky-special-instant-win-comp-1500-chances-to-win-autodraw-prize/"
     },
     {
-      "Source": "Golfstarcompetitions",
-      "Product": "AUTO-DRAW: WIN 2 DOZEN LIMITED EDITION TAYLORMADE X GHOSTBUSTERS TP5/TP5x GOLF BALLS! #10",
-      "Price": "\u00a30.40",
-      "Percent Sold": "9%",
-      "Source URL": "https://golfstarcompetitions.co.uk/current-competitions/",
-      "URL": "https://golfstarcompetitions.co.uk/competition/auto-draw-win-2-dozen-limited-edition-taylormade-x-ghostbusters-tp5-tp5x-golf-balls-10/"
-    },
-    {
-      "Source": "Golfstarcompetitions",
-      "Product": "SATURDAY SALE AUTO-DRAW: WIN A CALLAWAY APEX UTILITY WOOD! #6",
-      "Price": "\u00a30.15",
-      "Percent Sold": "10%",
-      "Source URL": "https://golfstarcompetitions.co.uk/current-competitions/",
-      "URL": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-callaway-apex-utility-wood-6/"
-    },
-    {
-      "Source": "Golfstarcompetitions",
-      "Product": "SATURDAY SALE AUTO-DRAW: WIN A COBRA BAFFLER OFFSET LADIES DRIVER! #1",
-      "Price": "\u00a30.05",
-      "Percent Sold": "19%",
-      "Source URL": "https://golfstarcompetitions.co.uk/current-competitions/",
-      "URL": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-cobra-baffler-offset-ladies-driver-1/"
-    },
-    {
-      "Source": "Golfstarcompetitions",
-      "Product": "SATURDAY SALE AUTO-DRAW: WIN A MIZUNO M-CRAFT OSAKA PUTTER! #5",
-      "Price": "\u00a30.04",
-      "Percent Sold": "14%",
-      "Source URL": "https://golfstarcompetitions.co.uk/current-competitions/",
-      "URL": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-mizuno-m-craft-osaka-putter-5/"
-    },
-    {
-      "Source": "Golfstarcompetitions",
-      "Product": "SATURDAY SALE AUTO-DRAW: WIN A MYSTERY HYBRID! #8",
-      "Price": "\u00a30.10",
-      "Percent Sold": "8%",
-      "Source URL": "https://golfstarcompetitions.co.uk/current-competitions/",
-      "URL": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-mystery-hybrid-8-2/"
-    },
-    {
-      "Source": "Golfstarcompetitions",
-      "Product": "SATURDAY SALE AUTO-DRAW: WIN A SET OF MYSTERY IRONS! #10",
-      "Price": "\u00a30.50",
-      "Percent Sold": "7%",
-      "Source URL": "https://golfstarcompetitions.co.uk/current-competitions/",
-      "URL": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-set-of-mystery-irons-10/"
-    },
-    {
-      "Source": "Golfstarcompetitions",
-      "Product": "SATURDAY SALE AUTO-DRAW: WIN A TAYLORMADE QI4D DRIVER! #14",
-      "Price": "\u00a30.99",
-      "Percent Sold": "13%",
-      "Source URL": "https://golfstarcompetitions.co.uk/current-competitions/",
-      "URL": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-taylormade-qi4d-driver-14/"
-    },
-    {
-      "Source": "Golfstarcompetitions",
-      "Product": "SATURDAY SALE AUTO-DRAW: WIN A TAYLORMADE QI4D FAIRWAY WOOD! #14",
-      "Price": "\u00a30.24",
-      "Percent Sold": "12%",
-      "Source URL": "https://golfstarcompetitions.co.uk/current-competitions/",
-      "URL": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-taylormade-qi4d-fairway-wood-14/"
-    },
-    {
-      "Source": "Golfstarcompetitions",
-      "Product": "SATURDAY SALE AUTO-DRAW: WIN A TAYLORMADE QI4D HYBRID! #24",
-      "Price": "\u00a30.20",
-      "Percent Sold": "17%",
-      "Source URL": "https://golfstarcompetitions.co.uk/current-competitions/",
-      "URL": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-taylormade-qi4d-hybrid-24/"
-    },
-    {
-      "Source": "Golfstarcompetitions",
-      "Product": "SATURDAY SALE AUTO-DRAW: WIN A TAYLORMADE QI4D HYBRID! #25",
-      "Price": "\u00a30.08",
-      "Percent Sold": "17%",
-      "Source URL": "https://golfstarcompetitions.co.uk/current-competitions/",
-      "URL": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-taylormade-qi4d-hybrid-25/"
-    },
-    {
-      "Source": "Golfstarcompetitions",
-      "Product": "SATURDAY SALE AUTO-DRAW: WIN A TAYLORMADE SPIDER TOUR X TORCHED PUTTER! #8",
-      "Price": "\u00a30.09",
-      "Percent Sold": "51%",
-      "Source URL": "https://golfstarcompetitions.co.uk/current-competitions/",
-      "URL": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-taylormade-spider-tour-x-torched-putter-8/"
-    },
-    {
-      "Source": "Golfstarcompetitions",
-      "Product": "SATURDAY SALE AUTO-DRAW: WIN A TAYLORMADE SYSTM 2 DEL MONTE 12 PUTTER! #3",
-      "Price": "\u00a30.01",
-      "Percent Sold": "35%",
-      "Source URL": "https://golfstarcompetitions.co.uk/current-competitions/",
-      "URL": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-taylormade-systm-2-del-monte-12-putter-3/"
-    },
-    {
-      "Source": "Golfstarcompetitions",
-      "Product": "SATURDAY SALE AUTO-DRAW: WIN A WILSON INFINITE ZT 606 PUTTER! #5",
-      "Price": "\u00a30.02",
-      "Percent Sold": "30%",
-      "Source URL": "https://golfstarcompetitions.co.uk/current-competitions/",
-      "URL": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-wilson-infinite-zt-606-putter-5/"
-    },
-    {
-      "Source": "Gorillacompetitions",
-      "Product": "LOW ODDS | WIN A \u00a3250 SUPERMARKET VOUCHER \ud83e\udd8d",
-      "Price": "\u00a30.99",
-      "Percent Sold": "9.02%",
-      "Source URL": "https://www.gorillacompetitions.co.uk/raffles/active",
-      "URL": "https://www.gorillacompetitions.co.uk/raffles/low-odds-win-a-ps250-supermarket-voucher-d14e0ea2-26f9-463b-ab17-75d9e4a74038"
-    },
-    {
-      "Source": "Highland Vault",
-      "Product": "MACALLAN 18 SHERRY 2026 RELEASE",
-      "Price": "\u00a32.99",
-      "Percent Sold": "1%",
-      "Source URL": "",
-      "URL": "https://highlandvault.com/product/macallan-18-sherry-2026-release-2/"
-    },
-    {
-      "Source": "Highland Vault",
-      "Product": "THE KEEPER\u2019S SENSATIONAL 2.0!",
-      "Price": "\u00a337.99",
-      "Percent Sold": "31%",
-      "Source URL": "",
-      "URL": "https://highlandvault.com/product/the-keepers-sensational-2-0/"
-    },
-    {
-      "Source": "Highland Vault",
-      "Product": "THE MACALLAN CARTA NAUTICA 20 YEAR OLD",
+      "Source": "Hobbycomps",
+      "Product": "Steam Deck 512GB OLED or \u00a3500!",
       "Price": "\u00a33.99",
-      "Percent Sold": "8%",
-      "Source URL": "",
-      "URL": "https://highlandvault.com/product/the-macallan-carta-nautica-20-year-old/"
+      "Percent Sold": "99%",
+      "Source URL": "https://www.hobbycomps.co.uk/competitions/",
+      "URL": "https://www.hobbycomps.co.uk/product/steam-deck-512gb-oled-or-500/"
     },
     {
       "Source": "Kiltedcompetitions",
-      "Product": "Hello Pumpkin - WIN \u00a3300 Cash plus 30 Lucky Instant Wins To Find",
-      "Price": "\u00a32.99",
-      "Percent Sold": "37%",
-      "Source URL": "https://www.kiltedcompetitions.co.uk/competitions/",
-      "URL": "https://kiltedcompetitions.co.uk/competition/hello-pumpkin-win-ps300-cash-plus-30-lucky-instant-wins-to-find"
-    },
-    {
-      "Source": "Kiltedcompetitions",
-      "Product": "MEGA LOW ODDS - Win a \u00a31,000 Golden Ticket Into \u00a3250,000 CASH Main Draw #6",
-      "Price": "\u00a320.00",
-      "Percent Sold": "40%",
-      "Source URL": "https://www.kiltedcompetitions.co.uk/competitions/",
-      "URL": "https://kiltedcompetitions.co.uk/competition/mega-low-odds-win-a-ps1000-golden-ticket-into-ps250000-cash-main-draw-6-2"
-    },
-    {
-      "Source": "Kiltedcompetitions",
-      "Product": "Monthly Star Prize - Win \u00a3250,000 Cash",
-      "Price": "\u00a35.00",
-      "Percent Sold": "60%",
-      "Source URL": "https://www.kiltedcompetitions.co.uk/competitions/",
-      "URL": "https://kiltedcompetitions.co.uk/competition/monthly-star-prize-win-ps250000-cash"
-    },
-    {
-      "Source": "Kiltedcompetitions",
-      "Product": "ODDS BOOSTER INSTANT WINS",
+      "Product": "Apple 2026 Apple MacBook Air 13.6\", M5 Processor, 16GB RAM, 512GB",
       "Price": "\u00a31.00",
-      "Percent Sold": "6%",
+      "Percent Sold": "67%",
       "Source URL": "https://www.kiltedcompetitions.co.uk/competitions/",
-      "URL": "https://kiltedcompetitions.co.uk/competition/odds-booster-instant-wins-3"
+      "URL": "https://kiltedcompetitions.co.uk/competition/apple-2026-apple-macbook-air-136-m5-processor-16gb-ram-512gb"
     },
     {
       "Source": "Kiltedcompetitions",
-      "Product": "WIN 1000 TICKETS INTO LIFE CHANGING \u00a3250,000 CASH MAIN DRAW",
+      "Product": "Christmas Wish List Sorted \u2013 Win an Apple IPhone 18 Pro",
+      "Price": "\u00a30.99",
+      "Percent Sold": "98%",
+      "Source URL": "https://www.kiltedcompetitions.co.uk/competitions/",
+      "URL": "https://kiltedcompetitions.co.uk/competition/christmas-wish-list-sorted-win-an-apple-iphone-18-pro"
+    },
+    {
+      "Source": "Kiltedcompetitions",
+      "Product": "Have a Holly Jolly Kilted Christmas \u2013 Win the Ultimate Family Christmas",
       "Price": "\u00a32.00",
-      "Percent Sold": "17%",
+      "Percent Sold": "46%",
       "Source URL": "https://www.kiltedcompetitions.co.uk/competitions/",
-      "URL": "https://kiltedcompetitions.co.uk/competition/win-1000-tickets-into-life-changing-ps250000-cash-main-draw"
+      "URL": "https://kiltedcompetitions.co.uk/competition/have-a-holly-jolly-kilted-christmas-win-the-ultimate-family-christmas"
     },
     {
       "Source": "Kiltedcompetitions",
-      "Product": "WIN \u00a3100 CASH + 10 x \u00a350 Instants to be WON",
-      "Price": "\u00a31.99",
+      "Product": "Have Yourself a Merry Little Staycation - Malmaison Hotel",
+      "Price": "\u00a32.00",
+      "Percent Sold": "77%",
+      "Source URL": "https://www.kiltedcompetitions.co.uk/competitions/",
+      "URL": "https://kiltedcompetitions.co.uk/competition/have-yourself-a-merry-little-staycation-malmaison-hotel"
+    },
+    {
+      "Source": "Kiltedcompetitions",
+      "Product": "Mercedes-Benz A35h MHEV AMG Touring Edition",
+      "Price": "\u00a35.00",
+      "Percent Sold": "44%",
+      "Source URL": "https://www.kiltedcompetitions.co.uk/competitions/",
+      "URL": "https://kiltedcompetitions.co.uk/competition/mercedes-benz-a35h-mhev-amg-touring-edition"
+    },
+    {
+      "Source": "Kiltedcompetitions",
+      "Product": "STOCKING FILLER SPECIAL \u2013 WIN \u00a3150 IN GAMING VOUCHERS",
+      "Price": "\u00a30.99",
+      "Percent Sold": "64%",
+      "Source URL": "https://www.kiltedcompetitions.co.uk/competitions/",
+      "URL": "https://kiltedcompetitions.co.uk/competition/stocking-filler-special-win-ps150-in-gaming-vouchers"
+    },
+    {
+      "Source": "Kiltedcompetitions",
+      "Product": "Touch of Christmas Luxury - GHD Deluxe Hair Dryer and Straightener Gift Set in Cashmere Beige",
+      "Price": "\u00a32.00",
+      "Percent Sold": "55%",
+      "Source URL": "https://www.kiltedcompetitions.co.uk/competitions/",
+      "URL": "https://kiltedcompetitions.co.uk/competition/touch-of-christmas-luxury-ghd-deluxe-hair-dryer-and-straightener-gift-set"
+    },
+    {
+      "Source": "Kiltedcompetitions",
+      "Product": "Win \u00a32,000 Christmas Cash for only \u00a31 to enter",
+      "Price": "\u00a31.00",
       "Percent Sold": "53%",
       "Source URL": "https://www.kiltedcompetitions.co.uk/competitions/",
-      "URL": "https://kiltedcompetitions.co.uk/competition/win-ps100-cash-10-x-ps50-instants-to-be-won-5"
+      "URL": "https://kiltedcompetitions.co.uk/competition/win-ps2000-christmas-cash-for-only-ps1-to-enter"
     },
     {
       "Source": "Kiltedcompetitions",
-      "Product": "\u00a31,000 Cash Jackpot Plus 50 x \u00a350 Instant wins to find",
-      "Price": "\u00a31.99",
+      "Product": "Win \u00a3400 Christmas Cash",
+      "Price": "\u00a30.40",
       "Percent Sold": "26%",
       "Source URL": "https://www.kiltedcompetitions.co.uk/competitions/",
-      "URL": "https://kiltedcompetitions.co.uk/competition/ps1000-cash-jackpot-plus-50-x-ps50-instant-wins-to-find-2"
-    },
-    {
-      "Source": "Kiltedcompetitions",
-      "Product": "\u00a3250 Cash + 10 Instant Wins",
-      "Price": "\u00a310.00",
-      "Percent Sold": "86%",
-      "Source URL": "https://www.kiltedcompetitions.co.uk/competitions/",
-      "URL": "https://kiltedcompetitions.co.uk/competition/ps250-cash-10-instant-wins-6"
+      "URL": "https://kiltedcompetitions.co.uk/competition/win-ps400-christmas-cash"
     },
     {
       "Source": "Llfgames",
-      "Product": "Win MAX Entries - BMW E90 M3 Saloon",
-      "Price": "\u00a30.99",
-      "Percent Sold": "31%",
+      "Product": "ULTRA-LOW ODDS! Win a 414bhp BMW E90 M3 Saloon!",
+      "Price": "\u00a325.00",
+      "Percent Sold": "35%",
       "Source URL": "https://llfgames.com/index.php/current-competitions/",
-      "URL": "https://llfgames.com/competition/win-max-entries-bmw-e90-m3-saloon-3/"
+      "URL": "https://llfgames.com/competition/ultra-low-odds-win-a-414bhp-bmw-e90-m3-saloon/"
     },
     {
       "Source": "Llfgames",
-      "Product": "\u00a310,000 Slot Machine Instant Win (Spin To Win)",
+      "Product": "\u00a310,000 Coin Drop Instant Win (Drop To Win)",
       "Price": "\u00a32.00",
-      "Percent Sold": "19%",
+      "Percent Sold": "8%",
       "Source URL": "https://llfgames.com/index.php/current-competitions/",
-      "URL": "https://llfgames.com/competition/10000-slot-machine-instant-win-spin-to-win-67/"
+      "URL": "https://llfgames.com/competition/10000-coin-drop-instant-win-drop-to-win-27/"
+    },
+    {
+      "Source": "Macs Giveaways",
+      "Product": "Win 300 Entries into Our Christmas Hamper \u2013 Just \u00a32!",
+      "Price": "\u00a32",
+      "Percent Sold": "78%",
+      "Source URL": "https://macs-giveaways.co.uk/competitions/",
+      "URL": "https://macs-giveaways.co.uk/competition/%f0%9f%8e%84-win-300-entries-into-our-christmas-hamper-just-2/"
+    },
+    {
+      "Source": "Macs Giveaways",
+      "Product": "WIN 300 ENTRIES INTO OUR IPHONE AND GAMING BUNDLE",
+      "Price": "\u00a32",
+      "Percent Sold": "51%",
+      "Source URL": "https://macs-giveaways.co.uk/competitions/",
+      "URL": "https://macs-giveaways.co.uk/competition/8682/"
+    },
+    {
+      "Source": "Macs Giveaways",
+      "Product": "WIN 50 ENTRIES INTO OUR MOTORHOME MAIN DRAW!",
+      "Price": "\u00a32",
+      "Percent Sold": "86%",
+      "Source URL": "https://macs-giveaways.co.uk/competitions/",
+      "URL": "https://macs-giveaways.co.uk/competition/%f0%9f%9a%90-win-50-entries-into-our-motorhome-main-draw/"
     },
     {
       "Source": "Magma",
-      "Product": "DAILY DRAW \u00a3500 CASH 31ST OCTOBER 26",
+      "Product": "APPLE MACBOOK PRO 14\" OR \u00a31,500 CASH ALTERNATIVE #2",
+      "Price": "\u00a32.00",
+      "Percent Sold": "13.91%",
+      "Source URL": "https://magmacomps.co.uk/",
+      "URL": "https://magmacomps.co.uk/competition/apple-macbook-pro-14-or-ps1500-cash-alternative-2"
+    },
+    {
+      "Source": "Magma",
+      "Product": "CREED AVENTUS 240ML OR \u00a3400 CASH #2",
+      "Price": "\u00a31.00",
+      "Percent Sold": "13.01%",
+      "Source URL": "https://magmacomps.co.uk/",
+      "URL": "https://magmacomps.co.uk/competition/creed-aventus-240ml-or-ps400-cash-2"
+    },
+    {
+      "Source": "Magma",
+      "Product": "LOUIS VUITTON NEVERFUL BAG OR \u00a31,000 CASH #2",
       "Price": "\u00a31.99",
-      "Percent Sold": "29.06%",
+      "Percent Sold": "8.51%",
       "Source URL": "https://magmacomps.co.uk/",
-      "URL": "https://magmacomps.co.uk/competition/daily-draw-ps500-cash-31st-october-26"
+      "URL": "https://magmacomps.co.uk/competition/louis-vuitton-neverful-bag-or-ps1000-cash-2"
     },
     {
       "Source": "Magma",
-      "Product": "HALLOWEEEN SCARIES WIN UP TO \u00a31000 INSTANTLY",
-      "Price": "\u00a30.05",
-      "Percent Sold": "2%",
+      "Product": "ODDS BOOSTER FOR DRAWS 1.11.26. \u00a350 SITE CREDIT END PRIZE",
+      "Price": "\u00a30.50",
+      "Percent Sold": "6.42%",
       "Source URL": "https://magmacomps.co.uk/",
-      "URL": "https://magmacomps.co.uk/competition/halloweeen-scaries-win-up-to-ps1000-instantly"
+      "URL": "https://magmacomps.co.uk/competition/odds-booster-for-draws-11126-ps50-site-credit-end-prize"
+    },
+    {
+      "Source": "Magma",
+      "Product": "PENNY SMASH PINATA - WIN \u00a3500 INSTANTLY",
+      "Price": "\u00a30.01",
+      "Percent Sold": "9.86%",
+      "Source URL": "https://magmacomps.co.uk/",
+      "URL": "https://magmacomps.co.uk/competition/penny-smash-pinata-win-ps500-instantly"
+    },
+    {
+      "Source": "Magma",
+      "Product": "ROLEX SUBMARINER DATE OR \u00a310,000 CASH + \u00a330,000 OF CASH INSTANT WINS",
+      "Price": "\u00a32.00",
+      "Percent Sold": "13.44%",
+      "Source URL": "https://magmacomps.co.uk/",
+      "URL": "https://magmacomps.co.uk/competition/rolex-submariner-date-or-ps10000-cash-ps30000-of-cash-instant-wins"
+    },
+    {
+      "Source": "Magma",
+      "Product": "SEPHORA ADVENT CALENDAR 2026 WORTH \u00a31,000",
+      "Price": "\u00a31.00",
+      "Percent Sold": "33.76%",
+      "Source URL": "https://magmacomps.co.uk/",
+      "URL": "https://magmacomps.co.uk/competition/sephora-advent-calendar-2026-worth-ps1000"
+    },
+    {
+      "Source": "Magma",
+      "Product": "WIN 100 TICKETS INTO ROLEX + \u00a330000 OF INSTANTS",
+      "Price": "\u00a31.00",
+      "Percent Sold": "77%",
+      "Source URL": "https://magmacomps.co.uk/",
+      "URL": "https://magmacomps.co.uk/competition/win-100-tickets-into-rolex-ps30000-of-instants"
+    },
+    {
+      "Source": "Magma",
+      "Product": "WIN 100 TICKETS INTO ROLEX + \u00a330000 OF INSTANTS #1",
+      "Price": "\u00a31.00",
+      "Percent Sold": "33%",
+      "Source URL": "https://magmacomps.co.uk/",
+      "URL": "https://magmacomps.co.uk/competition/win-100-tickets-into-rolex-ps30000-of-instants-1"
+    },
+    {
+      "Source": "Magma",
+      "Product": "WIN A FIAT 500X + \u00a31,000 CASH FOR JUST \u00a31",
+      "Price": "\u00a31.00",
+      "Percent Sold": "21.64%",
+      "Source URL": "https://magmacomps.co.uk/",
+      "URL": "https://magmacomps.co.uk/competition/win-a-fiat-500x-ps1000-cash-for-just-1"
+    },
+    {
+      "Source": "Mcvcompetitions",
+      "Product": "TOYOTA LANDCRUISER + NEW 14FT M-TEC LIVESTOCK TRAILER",
+      "Price": "\u00a320.00",
+      "Percent Sold": "24.55%",
+      "Source URL": "https://www.mcvcompetitions.com/competitions/",
+      "URL": "https://www.mcvcompetitions.com/product/toyota-landcruiser-14ft-m-tec-trailer/"
     },
     {
       "Source": "Plumequestrian",
-      "Product": "Luxury Winter Warmers Instant Wins Draw \u2013 Win Luxury Items To Make You Feel Better About the Winter!",
-      "Price": "\u00a32.00",
-      "Percent Sold": "2%",
+      "Product": "Special Weekend Every Entry Wins You Tickets In Excess of The Ticket Price Paid!",
+      "Price": "\u00a310.00",
+      "Percent Sold": "44%",
       "Source URL": "https://www.plumequestrian.com/product-category/competitions/",
-      "URL": "https://www.plumequestrian.com/product/luxury-winter-warmers-instant-wins-draw-win-luxury-items-to-make-you-feel-better-about-the-winter/"
+      "URL": "https://www.plumequestrian.com/product/special-weekend-every-entry-wins-you-tickets-in-excess-of-the-ticket-price-paid/"
     },
     {
-      "Source": "Rev Comps",
-      "Product": "111SKIN 11 DAYS OF RADIANCE CHRISTMAS ADVENT CALENDAR",
-      "Price": "\u00a32.97",
-      "Percent Sold": "37%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "2 X FURY VS JOSHUA LOWER TIER MIDDLE BLUE TICKETS 11/12/2026 PRINCIPALITY STADIUM",
-      "Price": "\u00a35.97",
-      "Percent Sold": "47%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "2006 YAMAHA R1 KENNY ROBERTS",
-      "Price": "\u00a35.57",
-      "Percent Sold": "70%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "2021 BMW M5 COMPETITION XDRIVE + \u00a35,000 OR \u00a340,000",
-      "Price": "\u00a35.27",
-      "Percent Sold": "43%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "APPLE 11\" IPAD AIR (2026) - 256 GB, SPACE GREY + (M3) MAGIC KEYBOARD",
-      "Price": "\u00a32.97",
-      "Percent Sold": "63%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "APPLE IPHONE 17E 256GB",
-      "Price": "\u00a33.97",
-      "Percent Sold": "66%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "BRITANNIA 1OZ GOLD COIN 999.9 FINE GOLD OR \u00a32500",
-      "Price": "\u00a33.97",
-      "Percent Sold": "79%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "CREED MILL\u00c9SIME IMP\u00c9RIAL EAU DE PARFUM 100ML",
-      "Price": "\u00a32.97",
-      "Percent Sold": "76%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "DIPTYQUE CHRISTMAS ADVENT CALENDAR 2026",
-      "Price": "\u00a32.97",
-      "Percent Sold": "56%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "DJI MINI 5 PRO DRONE FLY MORE COMBO + RC 2 CONTROLLER",
-      "Price": "\u00a34.96",
-      "Percent Sold": "57%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "DYSON SPOT + SCRUB AI ROBOT VACUUM CLEANER - BLACK",
-      "Price": "\u00a34.97",
-      "Percent Sold": "48%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "GARMIN FENIX 8 AMOLED SMART WATCH - SLATE GREY & BLACK, 47 MM",
-      "Price": "\u00a36.97",
-      "Percent Sold": "65%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "IPHONE 17 256GB",
+      "Source": "Prestige Watch Circle",
+      "Product": "ODDS BOOSTER #4",
       "Price": "\u00a30.99",
-      "Percent Sold": "58%",
+      "Percent Sold": "39%",
+      "Source URL": "https://prestige-watch-circle.co.uk/",
+      "URL": "https://prestige-watch-circle.co.uk/product/odds-booster-4-2/"
+    },
+    {
+      "Source": "Prestige Watch Circle",
+      "Product": "ODDS BOOSTER #5",
+      "Price": "\u00a30.99",
+      "Percent Sold": "10%",
+      "Source URL": "https://prestige-watch-circle.co.uk/",
+      "URL": "https://prestige-watch-circle.co.uk/product/odds-booster-5/"
+    },
+    {
+      "Source": "Prestige Watch Circle",
+      "Product": "Rolex GMT Batman",
+      "Price": "\u00a325.00",
+      "Percent Sold": "23.62%",
+      "Source URL": "https://prestige-watch-circle.co.uk/",
+      "URL": "https://prestige-watch-circle.co.uk/product/rolex-gmt-batman/"
+    },
+    {
+      "Source": "Prestige Watch Circle",
+      "Product": "\u00a31,000 CASH",
+      "Price": "\u00a310.00",
+      "Percent Sold": "22.67%",
+      "Source URL": "https://prestige-watch-circle.co.uk/",
+      "URL": "https://prestige-watch-circle.co.uk/product/1000-cash/"
+    },
+    {
+      "Source": "Raffledup",
+      "Product": "10X POK\u00c9MON 30TH CELEBRATION ETB!",
+      "Price": "\u00a31.99",
+      "Percent Sold": "12%",
+      "Source URL": "https://www.raffledup.com/",
+      "URL": "https://www.raffledup.com/competition/10x-pokemon-30th-celebration-etb/"
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "1994 PORSCHE 911 (993) CARRERA CABRIOLET + \u00a32,000",
+      "Price": "\u00a312.27",
+      "Percent Sold": "25%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
     {
       "Source": "Rev Comps",
-      "Product": "IPHONE 17 PRO MAX 256GB",
-      "Price": "\u00a311.97",
-      "Percent Sold": "75%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "LE CREUSET 13-PIECE ULTIMATE COOKWARE SET - VOLCANIC ORANGE",
-      "Price": "\u00a35.97",
-      "Percent Sold": "59%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "LEGO TECHNIC KOENIGSEGG SADAIR\u2019S SPEAR MEGACAR \u2013 42232",
-      "Price": "\u00a33.97",
-      "Percent Sold": "79%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "LEGO\u00ae TECHNIC 42228 MCLAREN MCL39 F1\u00ae CAR BUILDING SET",
-      "Price": "\u00a32.00",
-      "Percent Sold": "83%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "LEGO\u00ae TECHNIC\u2122 42206 ORACLE RED BULL RACING RB20 F1 CAR PLAYSET",
-      "Price": "\u00a32.00",
-      "Percent Sold": "69%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "LG SERIES 7 AI WASHING MACHINE & DRYER BUNDLE",
-      "Price": "\u00a35.97",
-      "Percent Sold": "71%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "MEGA DEWALT GARDEN BUNDLE",
-      "Price": "\u00a36.97",
-      "Percent Sold": "50%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "NEW 2026 ROLEX GMT MASTER II 'BATMAN' OR \u00a39,000",
-      "Price": "\u00a35.47",
-      "Percent Sold": "56%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "NEW CREED VIKING EAU DE PARFUM 100ML",
-      "Price": "\u00a32.97",
-      "Percent Sold": "56%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "NEW SOLO STOVE SUMMIT 24 STAINLESS STEEL FIRE PIT + COVER",
-      "Price": "\u00a31.97",
+      "Product": "2 X FURY VS JOSHUA LOWER LIGHT GREEN TICKETS 11/12/2026 PRINCIPALITY STADIUM",
+      "Price": "\u00a34.97",
       "Percent Sold": "36%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
     {
       "Source": "Rev Comps",
-      "Product": "NINJA CREAMI DELUXE 10-IN-1 ICE CREAM & FROZEN DESSERT MAKER",
-      "Price": "\u00a31.27",
-      "Percent Sold": "37%",
+      "Product": "2 X OASIS LIVE ETIHAD STADIUM MANCHESTER JUNE 19TH 2027 STANDING",
+      "Price": "\u00a35.97",
+      "Percent Sold": "32%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
     {
       "Source": "Rev Comps",
-      "Product": "NINJA CREAMI SCOOP & SWIRL 13-IN-1",
-      "Price": "\u00a32.87",
-      "Percent Sold": "46%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "NINJA LUXE CAF\u00c9 PRO COFFEE MACHINE",
-      "Price": "\u00a32.97",
-      "Percent Sold": "76%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "OMEGA X SWATCH MOON",
-      "Price": "\u00a33.47",
-      "Percent Sold": "66%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "POK\u00c9MON TCG: MEGA EVOLUTION\u2014ASCENDED HEROES POK\u00c9MON CENTER ETB",
-      "Price": "\u00a32.97",
-      "Percent Sold": "71%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "PSA 10 2026 POK\u00c9MON ASCENDED HEROES MEGA GENGAR EX SIR #284",
-      "Price": "\u00a33.97",
-      "Percent Sold": "79%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "SAGE THE BARISTA EXPRESS IMPRESS BEAN TO CUP COFFEE MACHINE",
-      "Price": "\u00a32.97",
+      "Product": "2018 TRIUMPH BOBBER BLACK EDITION",
+      "Price": "\u00a37.47",
       "Percent Sold": "65%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
     {
       "Source": "Rev Comps",
-      "Product": "SAMSUNG GALAXY S25 EDGE + BUDS 4 BUNDLE",
-      "Price": "\u00a34.97",
-      "Percent Sold": "42%",
+      "Product": "50 X 20KG SUPERFLAME SMOKELESS BRIQUETTE PALLET",
+      "Price": "\u00a32.47",
+      "Percent Sold": "54%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
     {
       "Source": "Rev Comps",
-      "Product": "SAMSUNG SPACEMAX 70/30 SMART FRIDGE FREEZER - SILVER + INSTALLATION & RECYCLING",
+      "Product": "ACER ASPIRE LITE 15.6\" LAPTOP - AMD RYZEN 3, 128 GB SSD, SILVER",
+      "Price": "\u00a31.67",
+      "Percent Sold": "70%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "AMAZON ECHO SHOW 8 \u2013 SMART DISPLAY + ALEXA",
+      "Price": "\u00a31.97",
+      "Percent Sold": "27%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "APPLE 13\" IPAD AIR M4 (2026) 256GB 13\" LIQUID RETINA DISPLAY",
+      "Price": "\u00a34.97",
+      "Percent Sold": "37%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "APPLE IPHONE 17",
       "Price": "\u00a33.97",
       "Percent Sold": "30%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
@@ -955,47 +587,143 @@
     },
     {
       "Source": "Rev Comps",
-      "Product": "SHARK FACIALPRO GLOW + DEPUFFI AT HOME FACIAL - WARM BLACK",
-      "Price": "\u00a31.97",
-      "Percent Sold": "43%",
+      "Product": "APPLE MACBOOK NEO 13\" (2026) A18 PRO 256GB \u2013 INDIGO",
+      "Price": "\u00a36.97",
+      "Percent Sold": "57%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
     {
       "Source": "Rev Comps",
-      "Product": "SHARK NAVIGATOR RVA120E2UK 2-IN-1 ROBOT VACUUM CLEANER",
-      "Price": "\u00a33.47",
+      "Product": "APPLE WATCH ULTRA 3 CELLULAR 49MM \u2013 TITANIUM LIGHT BLUE ALPINE LOOP",
+      "Price": "\u00a33.97",
       "Percent Sold": "38%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
     {
       "Source": "Rev Comps",
-      "Product": "SHARK POWERDETECT POWERED LIFT-AWAY BAGLESS VACUUM CLEANER - DARK TEAL",
+      "Product": "AUGUSTINUS BADER THE 12 DAYS OF BADER 2026 ADVENT CALENDER",
+      "Price": "\u00a33.47",
+      "Percent Sold": "18%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "BOSE QUIETCOMFORT SC WIRELESS NOISE CANCELLING HEADPHONES \u2013 BLACK",
       "Price": "\u00a32.97",
-      "Percent Sold": "84%",
+      "Percent Sold": "38%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
     {
       "Source": "Rev Comps",
-      "Product": "SHARK POWERDETECT TRANSFORMER BAGLESS UPRIGHT VACUUM CLEANER",
+      "Product": "BRAND NEW NINTENDO SWITCH 2 ULTIMATE GAMING BUNDLE",
+      "Price": "\u00a31.47",
+      "Percent Sold": "59%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "CANON EOS 2000D DSLR CAMERA & 18-55 MM LENS",
+      "Price": "\u00a32.67",
+      "Percent Sold": "31%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "DYSON SUPERSONIC NURAL STRAIGHT+WAVY HAIR DRYER - CERAMIC PINK",
+      "Price": "\u00a31.97",
+      "Percent Sold": "76%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "EUFY ROBOVAC L60 HYBRID ROBOT VACUUM CLEANER - BLACK",
+      "Price": "\u00a35.97",
+      "Percent Sold": "56%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "FITBIT CHARGE 6 FITNESS TRACKER - OBSIDIAN/BLACK, SILICONE STRAP, UNIVERSAL",
+      "Price": "\u00a31.99",
+      "Percent Sold": "41%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "GARMIN VIVOACTIVE 6 GPS SMART WATCH \u2013 SLATE & BLACK",
+      "Price": "\u00a31.97",
+      "Percent Sold": "28%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "IPHONE 17 PRO MAX 256GB",
+      "Price": "\u00a31.97",
+      "Percent Sold": "35%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "JO MALONE LONDON CHRISTMAS KIST ADVENT CALENDAR",
       "Price": "\u00a32.47",
-      "Percent Sold": "44%",
+      "Percent Sold": "88%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
     {
       "Source": "Rev Comps",
-      "Product": "SISLEY MARIE-VICTOIRE DE BASCHER ADVENT CALENDAR 2026",
+      "Product": "LE CREUSET 3-PLY STAINLESS STEEL 10-PIECE ULTIMATE SET",
       "Price": "\u00a33.97",
-      "Percent Sold": "33%",
+      "Percent Sold": "34%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
     {
       "Source": "Rev Comps",
-      "Product": "THERABODY THERAFACE MASK GLO LED FACE MASK - WHITE",
+      "Product": "LEGO TECHNIC 42172 MCLAREN P1 MODEL CAR SET FOR ADULTS",
+      "Price": "\u00a31.97",
+      "Percent Sold": "29%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "LEGO\u00ae ART 31212 THE MILKY WAY GALAXY PLAYSET",
+      "Price": "\u00a31.77",
+      "Percent Sold": "26%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "LEGO\u00ae NINJAGO\u00ae 71872 ULTRA DRAGON BATTLE PLAYSET",
+      "Price": "\u00a31.77",
+      "Percent Sold": "15%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "LG QNED82 75\" QNED AI 4K HDR SMART TV",
+      "Price": "\u00a34.97",
+      "Percent Sold": "37%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "MEGA DEWALT DIY POWER TOOL BUNDLE",
       "Price": "\u00a32.97",
       "Percent Sold": "54%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
@@ -1003,75 +731,195 @@
     },
     {
       "Source": "Rev Comps",
-      "Product": "TUI ALL INCLUSIVE 7 NIGHTS 2 PEOPLE CAPE VERDE",
-      "Price": "\u00a33.97",
-      "Percent Sold": "49%",
+      "Product": "MOLTON BROWN DECADENT DELIGHTS: THE ADVENT CALENDAR",
+      "Price": "\u00a31.47",
+      "Percent Sold": "58%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
     {
       "Source": "Rev Comps",
-      "Product": "TYPHUR SYNC GOLD QUAD WIRELESS SMART HOME COOKING THERMOMETER",
-      "Price": "\u00a32.27",
-      "Percent Sold": "26%",
+      "Product": "NEW 2026 ROLEX BLUE AZZURO DATEJUST 41 OR \u00a37,000",
+      "Price": "\u00a33.97",
+      "Percent Sold": "25%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NEW 2026 ROLEX EVE-ROSE YACHT-MASTER 40 OYSTERFLEX OR \u00a320,000",
+      "Price": "\u00a349.97",
+      "Percent Sold": "38%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NEW POK\u00c9MON SCARLET & VIOLET DESTINED RIVALS ELITE TRAINER BOX",
+      "Price": "\u00a36.97",
+      "Percent Sold": "83%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NEW RELEASE POKEMON TCG PITCH BLACK BOOSTER BOX 36 PACKS",
+      "Price": "\u00a31.77",
+      "Percent Sold": "47%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NEW SEALED POKEMON TCG: OBSIDIAN FLAMES ELITE TRAINER BOX",
+      "Price": "\u00a33.97",
+      "Percent Sold": "68%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NINJA CREAMI SCOOP & SWIRL 13-IN-1 ICE CREAM AND SOFT SERVE MAKER",
+      "Price": "\u00a32.97",
+      "Percent Sold": "14%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NINJA CRUSHBOSS 3-IN-1 KITCHEN SYSTEM WITH FOOD PROCESSOR & TUMBLER - ONYX",
+      "Price": "\u00a32.47",
+      "Percent Sold": "18%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NINJA LUXE CAFE PREMIER SERIES BEAN TO CUP COFFEE MACHINE",
+      "Price": "\u00a32.97",
+      "Percent Sold": "57%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NINTENDO SWITCH LITE - TURQUOISE",
+      "Price": "\u00a33.97",
+      "Percent Sold": "43%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "NINTENDO SWITCH OLED - WHITE",
+      "Price": "\u00a31.97",
+      "Percent Sold": "19%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "PSA 10 2023 POK\u00c9MON CROWN ZENITH MEWTWO VSTAR",
+      "Price": "\u00a32.97",
+      "Percent Sold": "43%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "SAMSUNG Q8F 55\" QLED 4K VISION AI SMART TV",
+      "Price": "\u00a31.97",
+      "Percent Sold": "61%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "SEGWAY-NINEBOT C2 PRO B ELECTRIC FOLDING SCOOTER - BLACK & BLUE",
+      "Price": "\u00a31.47",
+      "Percent Sold": "40%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "SHARK CRYOGLOW LED FACE MASK LILAC CHILL \u2013 ANTI AGEING",
+      "Price": "\u00a30.99",
+      "Percent Sold": "51%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "SWATCH X OMEGA SATURN",
+      "Price": "\u00a32.47",
+      "Percent Sold": "23%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "SWATCH X OMEGA SNOOPY MOONPHASE BLACK",
+      "Price": "\u00a34.47",
+      "Percent Sold": "42%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "TRANQUIL 1000 MATTRESS & PILLOW BUNDLE - WINNERS CHOICE OF SIZE",
+      "Price": "\u00a33.47",
+      "Percent Sold": "42%",
+      "Source URL": "https://www.revcomps.com/current-competitions/",
+      "URL": ""
+    },
+    {
+      "Source": "Rev Comps",
+      "Product": "TUI ALL INCLUSIVE 7 NIGHTS 2 PEOPLE SAIL THREE SEA CRUISE",
+      "Price": "\u00a37.97",
+      "Percent Sold": "35%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
     {
       "Source": "Royaluxcompetitions",
-      "Product": "Graveyard Scratchings\u2026.\u00a3100 Cash Jackpot + Over 500 Instant Wins to Find!",
-      "Price": "\u00a31.29",
-      "Percent Sold": "18%",
+      "Product": "Pigs In Blankets | Win \u00a3200 Site Credit! | 20 X Instant Wins!",
+      "Price": "\u00a35.00",
+      "Percent Sold": "77%",
       "Source URL": "https://www.royaluxcompetitions.co.uk/competitions/",
-      "URL": "https://www.royaluxcompetitions.co.uk/competition/graveyard-scratchings-100-cash-jackpot-18-instant-wins-to-find/"
-    },
-    {
-      "Source": "Royaluxcompetitions",
-      "Product": "Royalux \u00a310,000 Giveaway | Complete The Challenge To Unlock Your Win!",
-      "Price": "\u00a30.00",
-      "Percent Sold": "19%",
-      "Source URL": "https://www.royaluxcompetitions.co.uk/competitions/",
-      "URL": "https://www.royaluxcompetitions.co.uk/competition/royalux-10000-giveaway-complete-the-challenge-to-unlock-your-win-2/"
-    },
-    {
-      "Source": "Royaluxcompetitions",
-      "Product": "The Bone Collector | Find A Wolf OR Pig To Trade | \u00a3100 Jackpot!",
-      "Price": "\u00a30.20",
-      "Percent Sold": "39%",
-      "Source URL": "https://www.royaluxcompetitions.co.uk/competitions/",
-      "URL": "https://www.royaluxcompetitions.co.uk/competition/the-bone-collector-find-a-wolf-or-pig-to-trade-100-jackpot/"
-    },
-    {
-      "Source": "Royaluxcompetitions",
-      "Product": "The Haunted Tea Party | \u00a3150,000 Of Prizes To Be Won | Every Ticket Wins Instantly!",
-      "Price": "\u00a32.69",
-      "Percent Sold": "10%",
-      "Source URL": "https://www.royaluxcompetitions.co.uk/competitions/",
-      "URL": "https://www.royaluxcompetitions.co.uk/competition/the-haunted-tea-party-100000-of-prizes-to-be-won-every-ticket-wins-instantly/"
+      "URL": "https://www.royaluxcompetitions.co.uk/competition/pigs-in-blankets-win-200-site-credit-20-x-instant-wins/"
     },
     {
       "Source": "Stealthcompetitions",
-      "Product": "\u00a3200,000 HAUNTED HALLOWEEN PRIZE DROP!",
-      "Price": "\u00a30.99",
-      "Percent Sold": "35%",
+      "Product": "2 X \u00a32,500 WINNERS WITH 100 X \u00a32,000 INSTANTS!!!",
+      "Price": "\u00a30.20",
+      "Percent Sold": "32%",
       "Source URL": "https://stealthcompetitions.co.uk/",
-      "URL": "https://stealthcompetitions.co.uk/competition/22026-halloween-instant-win-comp"
+      "URL": "https://stealthcompetitions.co.uk/competition/2-x-ps2500-winners-with-100-x-ps2000-instants-6154"
     },
     {
-      "Source": "T-rex Comps",
-      "Product": "October Giveaway - Apple MacBook",
-      "Price": "Free",
-      "Percent Sold": "",
-      "Source URL": "https://www.trexcompetitions.co.uk/",
-      "URL": "https://www.trexcompetitions.co.uk/competitions/tech/october-giveaway-apple-macbook"
+      "Source": "Stealthcompetitions",
+      "Product": "WIN 4 TICKETS TO SCOTLAND VS AUSTRALIA!",
+      "Price": "\u00a30.50",
+      "Percent Sold": "17%",
+      "Source URL": "https://stealthcompetitions.co.uk/",
+      "URL": "https://stealthcompetitions.co.uk/competition/win-4-tickets-to-scotland-vs-australia-6873"
     },
     {
-      "Source": "Urbandraw",
-      "Product": "\u00a3125,000 INSTANT WIN 5 ROLEXES FOR JUST \u00a32",
-      "Price": "\u00a32.50",
-      "Percent Sold": "40%",
-      "Source URL": "https://urbandraw.co.uk/",
-      "URL": "https://www.urbandraw.co.uk/competition/instant11/"
+      "Source": "Thewatchdrop",
+      "Product": "WIN THIS TAG F1 STEEL & CERAMIC \u2013 WEEKEND DROP #35",
+      "Price": "\u00a35.99",
+      "Percent Sold": "30%",
+      "Source URL": "https://thewatchdrop.co.uk/",
+      "URL": "https://thewatchdrop.co.uk/competition/w35/"
+    },
+    {
+      "Source": "Watchesofwales",
+      "Product": "Rolex Submariner 'Starbucks'",
+      "Price": "\u00a319.99",
+      "Percent Sold": "24.1%",
+      "Source URL": "https://competition.watchesofwales.co.uk/",
+      "URL": "https://competition.watchesofwales.co.uk/product/rolex-submariner-starbucks-4/"
     }
   ]
 }
