@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T23:29:41",
+  "updated_at": "2026-11-17T23:48:10",
   "entries": [
     {
       "Product": "\ud83c\udf34 FREE COMMUNITY HOLIDAY - JOIN OUR COMMUNITY TO ENTER (UNLOCKED ONCE WE HIT 3.5K MEMBERS)",
@@ -396,7 +396,7 @@
       "Tickets Sold": 0,
       "Max Tickets": "",
       "Percent Sold": "",
-      "End Time": "18:00",
+      "End Time": "19:35",
       "Source": "Powertoolmateprizes",
       "Template": "powertoolmateprizes.docx",
       "QuestionField": true,
@@ -459,7 +459,7 @@
       "Tickets Sold": 175,
       "Max Tickets": 20000,
       "Percent Sold": 0.88,
-      "End Time": "09:32",
+      "End Time": "11:07",
       "Source": "Seven Comps",
       "Template": "sevencomps.docx",
       "QuestionField": false,
@@ -574,7 +574,7 @@
       "Tickets Sold": 6,
       "Max Tickets": 300,
       "Percent Sold": 2.0,
-      "End Time": "22:12",
+      "End Time": "23:47",
       "Source": "Fullswing",
       "Template": "fullswing.docx",
       "QuestionField": false,
