@@ -1,29 +1,13 @@
 {
-  "updated_at": "2026-11-19T21:10:39",
+  "updated_at": "2026-11-19T22:03:15",
   "entries": [
-    {
-      "Source": "Bullpencompetitions",
-      "Product": "BULLY'S BAUBLE SMASH",
-      "Price": "\u00a30.99",
-      "Percent Sold": "17.76%",
-      "Source URL": "https://bullpencompetitions.com/",
-      "URL": "https://bullpencompetitions.com/comp?id=comp_93013d5f"
-    },
     {
       "Source": "Bullpencompetitions",
       "Product": "BULLY'S UNLUCKY 13",
       "Price": "\u00a30.79",
-      "Percent Sold": "20%",
+      "Percent Sold": "56.2%",
       "Source URL": "https://bullpencompetitions.com/",
       "URL": "https://bullpencompetitions.com/comp?id=comp_f33c2753"
-    },
-    {
-      "Source": "Bullpencompetitions",
-      "Product": "Christmas Instant Wins \u2014 \u00a31,000 Christmas Cash",
-      "Price": "\u00a30.85",
-      "Percent Sold": "22.05%",
-      "Source URL": "https://bullpencompetitions.com/",
-      "URL": "https://bullpencompetitions.com/comp?id=comp_61dd1ec4"
     },
     {
       "Source": "Carpgeargiveaways",
@@ -677,7 +661,7 @@
       "Source": "Rev Comps",
       "Product": "2022 BMW F900R CUP RACER",
       "Price": "\u00a39.97",
-      "Percent Sold": "87%",
+      "Percent Sold": "91%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -685,7 +669,7 @@
       "Source": "Rev Comps",
       "Product": "2026 SMART #5 637BHP ROCKET SHIP BRABUS EV + \u00a32000 OR \u00a330,000",
       "Price": "\u00a33.97",
-      "Percent Sold": "58%",
+      "Percent Sold": "60%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -693,7 +677,7 @@
       "Source": "Rev Comps",
       "Product": "AMAZON ECHO SHOW 8 SMART DISPLAY WITH ALEXA - GRAPHITE",
       "Price": "\u00a31.47",
-      "Percent Sold": "81%",
+      "Percent Sold": "87%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -701,7 +685,7 @@
       "Source": "Rev Comps",
       "Product": "APPLE AIRPODS MAX 2 WIRELESS BLUETOOTH HEADPHONES - BLUE",
       "Price": "\u00a31.97",
-      "Percent Sold": "47%",
+      "Percent Sold": "52%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -709,7 +693,7 @@
       "Source": "Rev Comps",
       "Product": "APPLE IPHONE 18 PRO MAX GLACIER 256GB",
       "Price": "\u00a31.47",
-      "Percent Sold": "82%",
+      "Percent Sold": "89%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -717,7 +701,7 @@
       "Source": "Rev Comps",
       "Product": "APPLE MACBOOK AIR 13.6\" (2026) - M5, 1 TB SSD, RAM 24 GB, SKY BLUE OR \u00a31,000",
       "Price": "\u00a37.27",
-      "Percent Sold": "44%",
+      "Percent Sold": "47%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -725,7 +709,7 @@
       "Source": "Rev Comps",
       "Product": "APPLE WATCH ULTRA 3 CELLULAR - 49 MM BLACK TITANIUM & BLACK OCEAN BAND",
       "Price": "\u00a31.47",
-      "Percent Sold": "67%",
+      "Percent Sold": "71%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -733,7 +717,7 @@
       "Source": "Rev Comps",
       "Product": "BRAND NEW IPHONE DUO 256GB STAR WHITE",
       "Price": "\u00a34.47",
-      "Percent Sold": "41%",
+      "Percent Sold": "44%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -741,7 +725,7 @@
       "Source": "Rev Comps",
       "Product": "BRAND NEW IPHONE DUO NIGHT SKY 256GB",
       "Price": "\u00a34.97",
-      "Percent Sold": "41%",
+      "Percent Sold": "45%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -749,7 +733,7 @@
       "Source": "Rev Comps",
       "Product": "BRAND NEW LIMITED EDITION TAG HEUER FORMULA 1 SOLARGRAPH WATCH",
       "Price": "\u00a313.97",
-      "Percent Sold": "85%",
+      "Percent Sold": "90%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -757,7 +741,7 @@
       "Source": "Rev Comps",
       "Product": "CANON EOS 2000D DSLR CAMERA WITH LENS",
       "Price": "\u00a36.97",
-      "Percent Sold": "76%",
+      "Percent Sold": "80%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -765,7 +749,7 @@
       "Source": "Rev Comps",
       "Product": "DJI AVATA 2 FLY MORE COMBO (3 BATTERIES) - GREY",
       "Price": "\u00a35.97",
-      "Percent Sold": "36%",
+      "Percent Sold": "40%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -773,7 +757,7 @@
       "Source": "Rev Comps",
       "Product": "DJI NEO 2 FLY MORE COMBO WITH RC-N3 REMOTE CONTROLLER - GREY",
       "Price": "\u00a33.57",
-      "Percent Sold": "69%",
+      "Percent Sold": "71%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -781,7 +765,7 @@
       "Source": "Rev Comps",
       "Product": "FITBIT CHARGE 6 FITNESS TRACKER - OBSIDIAN/BLACK",
       "Price": "\u00a30.99",
-      "Percent Sold": "66%",
+      "Percent Sold": "72%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -789,7 +773,7 @@
       "Source": "Rev Comps",
       "Product": "FREE & BONUS DRAW: \u00a35K CASH, \u00a32.5K TUI & 500 X \u00a35 CREDIT ENTER",
       "Price": "",
-      "Percent Sold": "54%",
+      "Percent Sold": "55%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -797,7 +781,7 @@
       "Source": "Rev Comps",
       "Product": "FREE ENTRY: 10 X WINNERS - \u00a3100 PLAYSTATION/XBOX GIFT CARD ENTER",
       "Price": "",
-      "Percent Sold": "47%",
+      "Percent Sold": "51%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -805,7 +789,7 @@
       "Source": "Rev Comps",
       "Product": "GOOGLE PIXEL 11 256GB",
       "Price": "\u00a33.97",
-      "Percent Sold": "35%",
+      "Percent Sold": "39%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -813,7 +797,7 @@
       "Source": "Rev Comps",
       "Product": "GOVEE RGBIC SMART LED PERMANENT OUTDOOR LIGHTS - 30 M",
       "Price": "\u00a32.27",
-      "Percent Sold": "54%",
+      "Percent Sold": "61%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -821,7 +805,7 @@
       "Source": "Rev Comps",
       "Product": "HISENSE KITCHENFIT 5I SERIES WIFI-ENABLED 9 KG WASHER DRYER - BLACK",
       "Price": "\u00a32.00",
-      "Percent Sold": "59%",
+      "Percent Sold": "63%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -829,7 +813,7 @@
       "Source": "Rev Comps",
       "Product": "HOOVER HF1 MAX PET CORDLESS VACUUM CLEANER",
       "Price": "\u00a30.47",
-      "Percent Sold": "64%",
+      "Percent Sold": "67%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -837,7 +821,7 @@
       "Source": "Rev Comps",
       "Product": "HOVER-1 DASH HOVERBOARD - BLACK",
       "Price": "\u00a31.00",
-      "Percent Sold": "58%",
+      "Percent Sold": "60%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -845,7 +829,7 @@
       "Source": "Rev Comps",
       "Product": "KARCHER K 7 WCM FLEX ECO!BOOSTER PRESSURE WASHER - 180 BAR",
       "Price": "\u00a31.97",
-      "Percent Sold": "45%",
+      "Percent Sold": "50%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -853,7 +837,7 @@
       "Source": "Rev Comps",
       "Product": "KODAK PIXPRO WPZ2 TOUGH COMPACT CAMERA - WHITE",
       "Price": "\u00a31.97",
-      "Percent Sold": "47%",
+      "Percent Sold": "52%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -861,7 +845,7 @@
       "Source": "Rev Comps",
       "Product": "LEGO SUPER MARIO 72050 MARIO KART LUIGI & MACH 8",
       "Price": "\u00a31.97",
-      "Percent Sold": "66%",
+      "Percent Sold": "69%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -869,7 +853,7 @@
       "Source": "Rev Comps",
       "Product": "LEGO\u00ae ARCHITECTURE LONDON LANDMARK TOWER BRIDGE BUILDING SET",
       "Price": "\u00a32.77",
-      "Percent Sold": "76%",
+      "Percent Sold": "83%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -877,7 +861,7 @@
       "Source": "Rev Comps",
       "Product": "LEGO\u00ae ONE PIECE 75640 THE BARATIE FLOATING RESTAURANT PLAYSET",
       "Price": "\u00a32.77",
-      "Percent Sold": "41%",
+      "Percent Sold": "43%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -885,7 +869,7 @@
       "Source": "Rev Comps",
       "Product": "LEGO\u00ae TECHNIC 42177 MERCEDES-BENZ G 500 PROFESSIONAL LINE PLAYSET",
       "Price": "\u00a31.47",
-      "Percent Sold": "57%",
+      "Percent Sold": "64%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -893,7 +877,7 @@
       "Source": "Rev Comps",
       "Product": "LG NU80 75\" LED 4K HDR SMART TV 2026",
       "Price": "\u00a32.57",
-      "Percent Sold": "66%",
+      "Percent Sold": "70%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -901,7 +885,7 @@
       "Source": "Rev Comps",
       "Product": "LG QNED72 65\" QNED AI 4K HDR SMART TV 2026",
       "Price": "\u00a31.47",
-      "Percent Sold": "44%",
+      "Percent Sold": "48%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -909,15 +893,7 @@
       "Source": "Rev Comps",
       "Product": "NESPRESSO BY KRUPS VERTUO POP BARISTA BUNDLE",
       "Price": "\u00a30.97",
-      "Percent Sold": "45%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "NEW CREED GREEN IRISH TWEED 100ML",
-      "Price": "\u00a32.97",
-      "Percent Sold": "91%",
+      "Percent Sold": "46%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -925,7 +901,7 @@
       "Source": "Rev Comps",
       "Product": "NEW CREED VIKING COLOGNE EAU DE PARFUM 100ML",
       "Price": "\u00a32.97",
-      "Percent Sold": "52%",
+      "Percent Sold": "58%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -933,7 +909,7 @@
       "Source": "Rev Comps",
       "Product": "NEW DISNEY LORCANA TCG: HYPERIA CITY BOOSTER BOX 24 PACKS (SET 14)",
       "Price": "\u00a32.97",
-      "Percent Sold": "45%",
+      "Percent Sold": "51%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -941,7 +917,7 @@
       "Source": "Rev Comps",
       "Product": "NEW LIMITED EDITION BREMONT S500 RNLI 200 YEAR CELEBRATION WATCH",
       "Price": "\u00a34.97",
-      "Percent Sold": "53%",
+      "Percent Sold": "55%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -949,7 +925,7 @@
       "Source": "Rev Comps",
       "Product": "NEW POKEMON TCG MEGA EVOLUTION 'PERFECT ORDER' ELITE TRAINER BOX",
       "Price": "\u00a31.97",
-      "Percent Sold": "81%",
+      "Percent Sold": "87%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -957,7 +933,7 @@
       "Source": "Rev Comps",
       "Product": "NEW POK\u00c9MON SCARLET & VIOLET DESTINED RIVALS ELITE TRAINER BOX",
       "Price": "\u00a33.47",
-      "Percent Sold": "50%",
+      "Percent Sold": "53%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -965,7 +941,7 @@
       "Source": "Rev Comps",
       "Product": "NEW SEALED POK\u00c9MON TCG: MEGA CHARIZARD X EX ULTRA-PREMIUM COLLECTION",
       "Price": "\u00a32.00",
-      "Percent Sold": "51%",
+      "Percent Sold": "56%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -973,7 +949,7 @@
       "Source": "Rev Comps",
       "Product": "NEW TAG HEUER FORMULA 1 CHRONOGRAPH YELLOW STAINLESS STEEL",
       "Price": "\u00a33.47",
-      "Percent Sold": "37%",
+      "Percent Sold": "42%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -981,7 +957,7 @@
       "Source": "Rev Comps",
       "Product": "NEW TAG HEUER FORMULA 1 RED RUBBER STRAP WATCH",
       "Price": "\u00a35.97",
-      "Percent Sold": "41%",
+      "Percent Sold": "45%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -989,7 +965,7 @@
       "Source": "Rev Comps",
       "Product": "NEW TISSOT PRX POWERMATIC 80 40MM GREEN DIAL",
       "Price": "\u00a31.47",
-      "Percent Sold": "46%",
+      "Percent Sold": "50%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -997,7 +973,7 @@
       "Source": "Rev Comps",
       "Product": "NINJA AUTOBARISTA AE1001UK BEAN-TO-CUP COFFEE MACHINE",
       "Price": "\u00a33.47",
-      "Percent Sold": "72%",
+      "Percent Sold": "79%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -1005,7 +981,7 @@
       "Source": "Rev Comps",
       "Product": "OMEGA X SWATCH MERCURY",
       "Price": "\u00a31.97",
-      "Percent Sold": "64%",
+      "Percent Sold": "69%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -1013,7 +989,7 @@
       "Source": "Rev Comps",
       "Product": "OMEGA X SWATCH MISSION TO NEPTUNE BIOCERAMIC MOONSWATCH",
       "Price": "\u00a32.47",
-      "Percent Sold": "45%",
+      "Percent Sold": "50%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -1021,7 +997,7 @@
       "Source": "Rev Comps",
       "Product": "OMEGA X SWATCH MOONSWATCH MISSION TO THE MOONPHASE \"FULL MOON\"",
       "Price": "\u00a33.47",
-      "Percent Sold": "38%",
+      "Percent Sold": "45%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -1029,7 +1005,7 @@
       "Source": "Rev Comps",
       "Product": "POK\u00c9MON TCG: MEGA EVOLUTION \u2014 PHANTASMAL FLAMES ELITE TRAINER BOX",
       "Price": "\u00a31.97",
-      "Percent Sold": "34%",
+      "Percent Sold": "37%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -1037,7 +1013,7 @@
       "Source": "Rev Comps",
       "Product": "RAY-BAN META WAYFARER (GEN 2) GLASSES",
       "Price": "\u00a31.50",
-      "Percent Sold": "64%",
+      "Percent Sold": "67%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -1045,7 +1021,7 @@
       "Source": "Rev Comps",
       "Product": "RETRO GAMES THE SPECTRUM",
       "Price": "\u00a30.97",
-      "Percent Sold": "67%",
+      "Percent Sold": "71%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -1053,7 +1029,7 @@
       "Source": "Rev Comps",
       "Product": "ROBERTS BLUTUNE 300L DAB+/FM BLUETOOTH RADIO",
       "Price": "\u00a32.97",
-      "Percent Sold": "35%",
+      "Percent Sold": "40%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -1061,7 +1037,7 @@
       "Source": "Rev Comps",
       "Product": "SAMSUNG QN70F 55\" NEO QLED 4K MINI LED VISION AI SMART TV",
       "Price": "\u00a34.47",
-      "Percent Sold": "84%",
+      "Percent Sold": "89%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -1069,7 +1045,7 @@
       "Source": "Rev Comps",
       "Product": "SAMSUNG THE FREESTYLE SMART FULL HD TV PROJECTOR ALEXA & BIXBY",
       "Price": "\u00a34.47",
-      "Percent Sold": "43%",
+      "Percent Sold": "45%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -1077,7 +1053,7 @@
       "Source": "Rev Comps",
       "Product": "SAMSUNG U8000H 65\" CRYSTAL UHD 4K HDR SMART TV 2026",
       "Price": "\u00a32.00",
-      "Percent Sold": "80%",
+      "Percent Sold": "89%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -1085,7 +1061,7 @@
       "Source": "Rev Comps",
       "Product": "SCRAMBLER DUCATI ELECTRIC BIKE - YELLOW",
       "Price": "\u00a33.97",
-      "Percent Sold": "46%",
+      "Percent Sold": "49%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -1093,7 +1069,7 @@
       "Source": "Rev Comps",
       "Product": "SONOS FIVE WIRELESS MULTI-ROOM SPEAKER - BLACK",
       "Price": "\u00a33.97",
-      "Percent Sold": "41%",
+      "Percent Sold": "46%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
@@ -1101,15 +1077,7 @@
       "Source": "Rev Comps",
       "Product": "TUI ALL INCLUSIVE HOLIDAY 7 NIGHTS 2 PEOPLE GRAN CANARIA",
       "Price": "\u00a31.47",
-      "Percent Sold": "67%",
-      "Source URL": "https://www.revcomps.com/current-competitions/",
-      "URL": ""
-    },
-    {
-      "Source": "Rev Comps",
-      "Product": "\u00a32500 TUI HOLIDAY VOUCHER",
-      "Price": "\u00a31.50",
-      "Percent Sold": "95%",
+      "Percent Sold": "72%",
       "Source URL": "https://www.revcomps.com/current-competitions/",
       "URL": ""
     },
